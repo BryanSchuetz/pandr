@@ -1,8 +1,6 @@
-body{
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 22px;
-  line-height: 1.5;
-}
+@import 'variables';
+@import 'typography';
+
 
 img, video, object{ max-width: 100% }
 
@@ -12,7 +10,6 @@ article, header, nav, section {
 
 /* Layout
 ================================ */
-
 .wrap{
   margin: 60px auto;
   max-width: 1200px;

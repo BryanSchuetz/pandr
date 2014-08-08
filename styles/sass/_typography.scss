@@ -1,0 +1,30 @@
+
+// Merriweather font-weights
+$light: 300;
+$normal: 400;
+$bold: 700;
+$ultra-bold: 900;
+
+//FOUT, it is the worst
+body{
+  font-family: Georgia;
+  font-size: 22px;
+  line-height: 1.5;
+  visibility: hidden;
+}
+.wf-inactive body{
+  display: block;
+  visibility: visible;
+}
+.wf-active body{
+  font-family: Merriweather;
+  display: block;
+  visibility: visible;
+}
+
+// H tags
+h1{
+  color: $green;
+  font-weight: bold;
+  font-size: 2em;
+}
