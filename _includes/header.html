@@ -1,1 +1,13 @@
-<h1>{{site.title}}</h1>
+<header>
+  <section class="masthead">
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.meta.tagline | markdown }}</p>
+  </section>
+  <nav>
+    <ul>
+      {% for page in site.pages offset:1 %}
+        <li><a href="{{page.url}}">{{page.title}}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>

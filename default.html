@@ -1,22 +1,24 @@
 {% capture content %}
-<p>This is the homepage.</p>
-
 <!-- Thanks to destroytoday for the idea on template setup -->
-
 <h2>Site Setup</h2>
-<p>Please add the following meta fields to your site, or remove them from the template:</p>
+<p>Before you do anything, add the following meta fields and pages to your site, or remove them from the template:</p>
 <ol>
   {% unless site.meta.description %}
-    <li>`description` - site description for search engines</li>
+    <li>meta: "description" - site description for search engines</li>
   {% endunless %}
   {% unless site.meta.keywords %}
-    <li>`keywords` - site keywords for search engines</li>
+    <li>meta: "keywords" - site keywords for search engines</li>
   {% endunless %}
   {% unless site.meta.analytics %}
-    <li>`analytics` - Google Analytics ID for analytics</li>
+    <li>meta: "analytics" - Google Analytics ID for analytics</li>
     {% endunless %}
+  {% unless site.meta.tagline %}
+    <li>meta: "tagline" - will appear under the site title</li>
+  {% endunless %}
+  {% unless site.pages.jibber-jabber %}
+    <li>Create a "jibber-jabber" page under which you'll create your blog posts</li>
+  {% endunless %}
 </ol>
-<p>Then, remove this content from the `/default.html` file and start coding!</p>
-
+<p>Then, remove this content from the "/default.html" file and start coding!</p>
 {% endcapture %}
 {% include 'layouts/default' %}
