@@ -1,6 +1,5 @@
 <head>
-  <meta charset="utf-8" />
-  <meta content="width=device-width, initial-scale=1" name="viewport">
+  {% include 'includes/head-meta' %}
   <title>{{site.title}} | {{title}}</title>
   <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
   <link rel="stylesheet" type="text/css" href="/styles/css/style.css" />
@@ -8,10 +7,10 @@
   <link href="/images/favicon.png" rel="apple-touch-icon" type="image/png" />
   <!-- Using respond.js to enable media queries in lte ie8 -->
   <script type="text/javascript" src="/js/site.js"></script>
-  <!-- Using Merriweather from Google Webfonts -->
-  {% include 'includes/webfonts' %}
+  <!-- Using Merriweather from Google Webfonts ALL THE WEIGHTS -->
+  {% include 'includes/head-webfonts' %}
   <!-- Using Google Analytics for stats—configure using site.meta.analytics -->
-  {% include 'includes/analytics' %}
+  {% include 'includes/head-analytics' %}
   <!-- Using Modernizer for feature detection (e.g. SVG) and the HTML5 Shiv -->
-  {% include 'includes/modernizer' %}
+  {% include 'includes/head-modernizer' %}
 </head>
