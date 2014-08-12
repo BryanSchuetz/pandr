@@ -1,6 +1,7 @@
 {% if site.pages.jibber-jabber.posts %}
-  {% assign post = site.pages.jibber-jabber.posts.first %}
+  {% assign page = site.pages.jibber-jabber %}
+  {% assign article = page.posts.first %}
+  {% assign current = page.posts.first %}
 {% endif %}
-{% capture content %}
-{% endcapture %}
+
 {% include 'layouts/article' %}

@@ -1,3 +1,4 @@
+@import 'grid';
 
 // Merriweather font-weights
 $light: 300;
@@ -8,7 +9,7 @@ $ultra-bold: 900;
 //FOUT, it is the worst
 body{
   font-family: Georgia;
-  font-size: 22px;
+  font-size: $font-size;
   line-height: 1.5;
   visibility: hidden;
 }
@@ -24,9 +25,27 @@ body{
 
 // H tags
 h1{
-  color: $green;
   font-weight: bold;
-  font-size: 2em;
+  font-size: 3em;
+}
+h2{
+  font-size: 1.5em;
+}
+
+// Various
+.details{
+  font-size: .8em;
+}
+
+// Body Text
+p, blockquote{
+  font-size: 1em;
+  line-height: 1.8em;
+  margin-bottom: 1em;
+}
+li{
+  font-size: .9em;
+  line-height: 1.8em;
 }
 
 // Links
