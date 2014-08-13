@@ -2,11 +2,11 @@
   <h2><a href="{{ current.url }}">{{ current.title }}</a></h2>
   <p>
     {% for tag in taxonomy.tags %}
-      <a href="{{ tag.url }}">{{ tag.value }}</a>
+      <a class="details" href="{{ tag.url }}">{{ tag.value }}</a>
     {% endfor %}
   </p>
 </section>
 <section class="article-content">
-  {{ body }}
+  {{ current.body }}
   {{ content }}
 </section>

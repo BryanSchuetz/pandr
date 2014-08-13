@@ -1,17 +1,19 @@
 //—————————————————————//
 //****Media Queries****//
 //—————————————————————//
+
 /*
   Extra-Small
   240–479 px
 */
 @media screen and (min-width: 15em) {
-  header, main, footer{
+  .header-wrap, main, .footer-wrap{
     @include width(4);
     margin: auto;
     overflow: hidden;
   }
-
+  main{margin-top: 12em
+  }
 }
 
 /*
@@ -19,8 +21,11 @@
   480-767 px
 */
 @media screen and (min-width: 30em) {
-  header, main, footer{
+  .header-wrap, main, .footer-wrap{
     @include width(6)
+  }
+  main{
+    margin-top: 10em;
   }
 }
 
@@ -30,13 +35,10 @@
 */
 @media screen and (min-width: 37.5em){
   // Grid
-  header, main, footer{
+  .header-wrap, main, .footer-wrap{
     @include width(8)
   }
   // Typography
-  h1{
-    font-size: 4em;
-  }
   h2{
     font-size: 2em;
   }
@@ -46,6 +48,18 @@
   li, .details{
     font-size: 1em;
   }
+  main{
+    margin-top: 14em;
+  }
+  .masthead{
+    @include width(5);
+    float: left;
+    margin-right: $gutter;
+  }
+  nav{
+    @include width(3);
+    float: right;
+  }
 }
 
 /*
@@ -54,13 +68,10 @@
 */
 @media screen and (min-width: 57em){
   // Grid
-  header, main, footer{
+  .header-wrap, main, .footer-wrap{
     @include width(12)
   }
   // Typography
-  h1{
-    font-size: 4.1em;
-  }
   h2{
     font-size: 2.1em;
   }
@@ -70,6 +81,9 @@
   li, .details{
     font-size: 1.1em;
   }
+  main{
+    margin-top: 14.5em
+  }
 }
 
 /*
@@ -78,20 +92,9 @@
 */
 @media screen and (min-width: 77em){
   // Grid
-  header, main, footer{
+  .header-wrap, main, .footer-wrap{
     @include width(14)
   }
   // Typography
-  h1{
-    font-size: 4.2em;
-  }
-  h2{
-    font-size: 2.2em;
-  }
-  p, blockquote{
-    font-size: 1.4
-  }
-  li, .details{
-    font-size: 1.2em;
-  }
+
 }

@@ -1,13 +1,15 @@
 <header>
-  <section class="masthead">
-    <h1><a href="/">{{ site.title }}</a></h1>
-    <p>{{ site.meta.tagline | markdown }}</p>
-  </section>
-  <nav>
-    <ul>
-      {% for page in site.pages offset:1 %}
-        <li><a href="{{page.url}}">{{page.title}}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
+  <div class="header-wrap">
+    <section class="masthead">
+      <h1 class="masthead-title"><a href="/">{{ site.title }}</a></h1>
+      <p class="masthead-tagline">{{ site.meta.tagline}}</p>
+    </section>
+    <nav class="cf">
+      <ul class="cf">
+        {% for page in site.pages offset:1 %}
+          <li><a href="{{page.url}}">{{page.title}}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
 </header>

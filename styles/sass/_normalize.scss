@@ -5,6 +5,9 @@
 /**
  * Correct `block` display not defined in IE 8/9.
  */
+ *{
+   box-sizing: border-box;
+ }
 article,
 aside,
 details,
@@ -340,3 +343,31 @@ table {
 
 // Other sensible defaults
 img, video, object{ max-width: 100% }
+
+// Sensible clearfix
+
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf {
+    *zoom: 1;
+}
+// Webkit default list cruft
+ul, menu, dir{
+  -webkit-margin-before: 0;
+  -webkit-margin-after: 0;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  -webkit-padding-start: 0;
+}

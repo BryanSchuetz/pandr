@@ -23,17 +23,21 @@ body{
   visibility: visible;
 }
 
-// H tags
+// Header
 h1{
   font-weight: bold;
   font-size: 3em;
+  a{
+    border-bottom: 0;
+  }
 }
 h2{
   font-size: 1.5em;
+  a{
+    border-bottom: 0;
+  }
 }
-
-// Various
-.details{
+.masthead-tagline{
   font-size: .8em;
 }
 
@@ -48,8 +52,21 @@ li{
   line-height: 1.8em;
 }
 
+// Various
+.details{
+  font-size: .8em;
+  font-family: helvetica, arial, sans-serif;
+}
+
+nav ul li a{
+  font-family: helvetica, arial, sans-serif;
+  font-size: .7em;
+  border-bottom: 0;
+}
+
 // Links
 a{
-  color: #0091e5;
+  color: #303030;
   text-decoration: none;
+  border-bottom: 1px solid #303030;
 }
