@@ -11,6 +11,4 @@ Templating is done with the delightfully easy to use  [Liquid](https://github.co
 > "That _can't_ work, too easy. [it works]"
 > <cite>--me, everytime I'm building a template in liquid.</cite>
 
-You can grab a copy of this template [here](https://github.com/BryanSchuetz/frameleafs). To use it as is, just upload it to your theme folder in Siteleaf, and then follow the Site Setup directions below.
-
 The layout uses a heavily modified grid from the [Frameless](http://framelessgrid.com) anti framework.
