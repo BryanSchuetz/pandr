@@ -4,7 +4,7 @@ This is a simple blogging template for the  [Siteleaf](http://siteleaf.com) CMS.
 
 Developing for it is [super simple](http://vimeo.com/70121781), there's a ruby gem that lets you build projects locally—using all your favorite [preprocessors](http://sass-lang.com) and [servers](http://pow.cx).
 
-![related-articles.html](frameleafs.siteleaf.com/assets/related-articles.html)
+![related-articles.html](http://frameleafs.siteleaf.net/assets/related-articles.html%20-%20:Users:bryanschuetz:Projects:frameleafs.png)
 
 Templating is done with the delightfully easy to use  [Liquid](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers) engine.
 
