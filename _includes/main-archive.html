@@ -1,0 +1,12 @@
+<h2 class="center">#{{ title }}</h2>
+<section class="article-list">
+  {% for article in site.posts %}
+    <article id="">
+      <h3><a href="{{ article.url }}">{{ article.title }}</a></h3>
+      <p>{{ article.excerpt }}</p>
+      <p class="read-more details"><svg class="more-arrow" viewBox="0 0 206 206" preserveAspectRatio="xMinYMax"><use xlink:href="#more-arrow"></use></svg><a href="{{ article.url }}">Read more</a></p>
+    </article>
+    <hr>
+    <svg class="ringer" viewBox="-5 -15 206 206" preserveAspectRatio="xMinYMax meet"><use xlink:href="#ring"></use></svg>
+  {% endfor %}
+</section>

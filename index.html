@@ -2,6 +2,12 @@
   {% assign page = site.pages.jibber-jabber %}
   {% assign article = page.posts.first %}
   {% assign current = page.posts.first %}
+  {% assign parent = page %}
 {% endif %}
 
-{% include 'layouts/article' %}
+{% capture content %}
+  {% include 'includes/main-article' %}
+  {% include 'includes/related-articles' %}
+{% endcapture %}
+
+{% include 'layouts/default' %}
