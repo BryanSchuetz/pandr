@@ -11,4 +11,10 @@ Templating is done with the delightfully easy to use  [Liquid](https://github.co
 > "That _can't_ work, too easy. [it works]"
 > <cite>--me, everytime I'm building a template in liquid.</cite>
 
-The layout uses a heavily modified grid from the [Frameless](http://framelessgrid.com) anti framework.
+The layout in this template uses a heavily modified grid from the [Frameless](http://framelessgrid.com) anti framework. Because who wants a fluid grid:
+
+* Make a regular fixed-width grid
+* Make it repeat infinitely
+* Center it on the viewport
+* ??
+* Profit
