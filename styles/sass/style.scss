@@ -14,21 +14,33 @@
 //—————————————————————//
 
 // Header
-
 header{
+  overflow: hidden;
   padding-bottom: 1.5em;
   border-bottom: 1px solid $border-gray;
   background-color: $background-gray;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   position:fixed;
-  right: 0;
-  left: 0;
-  top: 0;
+  top:0;
+  width: 100%;
+  z-index: 10;
+  height: 8em;
+  -webkit-transform-style: preserve-3d;
+  -webkit-transform: translate3d(0,0,0);
+  -webkit-backface-visibility: hidden;
 }
+
 .masthead-title{
   margin-bottom: 0;
 }
 .masthead-tagline{
   margin-top: 0;
+  opacity: 1;
+}
+nav{
+  text-align: right;
 }
 nav ul{
   li{
@@ -36,7 +48,7 @@ nav ul{
     float: right;
     text-transform: uppercase;
     :after{
-      content: "\00a0/\00a0";
+      content: "\00a0/";
     }
   }
   li:first-of-type{
@@ -45,26 +57,29 @@ nav ul{
     }
   }
 }
-.headroom{
-  -webkit-transition:-webkit-transform 300ms linear;
-   -moz-transition:transform 300ms linear;
-     -o-transition:transform 300ms linear;
-        transition:transform 300ms linear;
+
+header.headroom--not-top{
+  height: 7em;
+  box-shadow:0px 0px 4px 0px #75747B;
+  -webkit-transition:box-shadow 0.1s linear, height 0.2s ease-in-out;
+  transition:box-shadow 0.1s linear, height 0.2s ease-in-out;
+  .masthead-tagline {
+    opacity: 0;
+    -webkit-transition:opacity 0.2s linear;
+    transition:opacity 0.2s linear;
+  }
 }
-.headroom--pinned {
-  -webkit-transform:translateY(0%);
-     -moz-transform:translateY(0%);
-      -ms-transform:translateY(0%);
-       -o-transform:translateY(0%);
-          transform:translateY(0%);
-  z-index: 10;
-}
-.headroom--unpinned {
-  -webkit-transform:translateY(-100%);
-   -moz-transform:translateY(-100%);
-    -ms-transform:translateY(-100%);
-     -o-transform:translateY(-100%);
-        transform:translateY(-100%);
+
+header.headroom--top{
+  height: 8em;
+  box-shadow:0px 0px 0px 0px #75747B;
+  -webkit-transition:box-shadow 0.1s linear, height 0.2s ease-in-out;
+  transition:box-shadow 0.1s linear, height 0.2s ease-in-out;
+  .masthead-tagline {
+    opacity: 1;
+    -webkit-transition:opacity 0.2s linear;
+    transition:opacity 0.2s linear;
+  }
 }
 
 // Main
