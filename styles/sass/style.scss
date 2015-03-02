@@ -59,14 +59,12 @@ nav ul{
 }
 
 header.headroom--not-top{
-  height: 7em;
+  height: 8em;
   box-shadow:0px 0px 4px 0px #75747B;
   -webkit-transition:box-shadow 0.1s linear, height 0.2s ease-in-out;
   transition:box-shadow 0.1s linear, height 0.2s ease-in-out;
   .masthead-tagline {
-    opacity: 0;
-    -webkit-transition:opacity 0.2s linear;
-    transition:opacity 0.2s linear;
+
   }
 }
 
