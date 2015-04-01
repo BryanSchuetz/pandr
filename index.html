@@ -1,11 +1,12 @@
-{% if site.pages.jibber-jabber.posts %}
-  {% assign page = site.pages.jibber-jabber %}
+{% if site.pages.news.posts %}
+  {% assign page = site.pages.news %}
   {% assign article = page.posts.first %}
   {% assign current = page.posts.first %}
   {% assign parent = page %}
 {% endif %}
 
 {% capture content %}
+  <h3>foobar</h3>
   {% include 'includes/main-article' %}
   {% include 'includes/related-articles' %}
 {% endcapture %}
