@@ -1,1 +1,1 @@
-pandr is ready and prepared
+pandr is prepared...and ready.

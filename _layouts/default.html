@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
   {% include 'includes/head' %}
-  <body onload="headroom.init()">
+  <body>
+  <div id="wrapper">
     {% include 'includes/header' %}
-    <main>
       {{ content }}
-    </main>
     {% include 'includes/footer' %}
+  </div> <!-- wrapper -->
   </body>
 </html>
