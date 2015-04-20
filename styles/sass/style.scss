@@ -1,7 +1,67 @@
-@import 'font-awesome';
-@import 'fork-all';
 @import 'fork-bootstrap';
+@import 'fork-all';
+@import 'font-awesome';
 @import 'normalize';
 @import 'variables';
+@import 'queries';
+@import 'typography';
 
+body{
+  visibility: hidden;
+}
+html.wf-active body{
+  visibility: visible;
+}
+// RESETS
+a, a:focus, a:hover{
+  outline-style: none;
+}
+#nav .nav-drop>ul li.active:before{
+  background-color: $usaid-red; 
+}
+#nav ul li a, .foot-nav li a{
+  color: $usaid-blue;
+}
+#nav .nav-drop>ul li a:active, #nav .nav-drop>ul li a:focus, #nav .nav-drop>ul li a:hover, .foot-nav li a:hover{
+  color: $usaid-light-blue;
+  text-decoration: none;
+}
+a{
+  color: $usaid-red;
+}
+a:hover{
+  color: darken($usaid-red, 10%);
+}
+#nav .nav-drop .drop-holder ul a:hover{
+  color: $usaid-light-blue;
+}
+.visual{
+  color: white;
+  @include responsive(medium-screens){
+    
+  }
+}
+// HEADER
+.title a, .tagline{
+  color: $usaid-light-gray;
+}
 
+// Boots
+
+.btn-primary {
+  color: #fff;
+  background-color: $usaid-blue;
+  border-color: $usaid-blue;
+}
+.btn-primary:hover{
+  background-color: $usaid-light-blue;
+  border-color: $usaid-light-blue;
+}
+
+// Primary-Content
+
+.btn-more{
+  float: right;
+  padding: 3px 6px;
+  border-radius: 7px;
+}

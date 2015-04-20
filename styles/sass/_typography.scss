@@ -1,97 +1,26 @@
-@import 'grid';
-
-// Merriweather font-weights
-$light: 300;
-$normal: 400;
-$bold: 700;
-$ultra-bold: 900;
-
-//FOUT, it is the worst
-body{
-  font-family: Georgia;
-  font-size: $font-size;
-  line-height: 1.5;
-  visibility: hidden;
+@import 'queries';
+p, h1, h2, h3, h4, *{
+  font-family: "ff-meta-web-pro", Helvetica, Arial, sans-serif;
 }
-.wf-inactive body{
-  display: block;
-  visibility: visible;
-}
-.wf-active body{
-  font-family: Merriweather;
-  display: block;
-  visibility: visible;
-}
-
-// Header
-h1{
-  font-weight: bold;
-  font-size: 2em;
-  a{
-  padding: 0;
-  background: none;
+.visual{
+  .text-block{
+    padding-top: 8px;
+  }
+  h1{
+    font-size: 2.8rem;
+    @include responsive(tiny-screens){
+      font-size: 2.8rem;
+    }
+    @include responsive(small-screens){
+      font-size: 7rem;
+    }
+  }
+  p.tagline{
   }
 }
-h2{
-  font-size: 1.5em;
-  a{
-    padding: 0;
-    background: none;
-  }
-}
-.center{
-  text-align: center;
-}
-.masthead-tagline{
-  font-size: .8em;
-}
+.main-section-text{
 
-// Body Text
-p, blockquote{
-  font-size: 1em;
-  line-height: 1.8em;
-  margin-bottom: 1em;
-}
-li{
-  font-size: .9em;
-  line-height: 1.8em;
-}
-.default-content, .article-content{
-  ul{
-    list-style-position: inside;
-    list-style-type: disc;
+  p{
+    font-size: 1.7rem;
   }
-  li{
-    padding-left: 1em;
-  }
-}
-
-// Various
-.details{
-  font-size: .8em;
-  font-family: helvetica, arial, sans-serif;
-}
-.date{
-  margin: 0;
-  color: lighten($body-text, 50%);
-}
-nav ul li a{
-  font-family: helvetica, arial, sans-serif;
-  font-size: .7em;
-  padding: 0;
-  background: none;
-}
-
-// Links
-a{
-  color: $body-text;
-  text-decoration: none;
-  padding: 3px;
-  background-color: darken(#f7f7f7, 5%);
-  -webkit-border-radius:5px;
-   -moz-border-radius:5px;
-        border-radius:5px;
-}
-a:hover{
-  opacity: 0.8;
 }

@@ -1,25 +1,29 @@
 {% capture content %}
-  {% include 'includes/main-default' %}
-<!-- Thanks to destroytoday for this idea on template setup, not to mention all the other great advice. -->
-<h2>Site Setup</h2>
-<p>Before you do anything, add the following meta fields and pages to your site, or remove them from the template:</p>
-<ol>
-  {% unless site.meta.description %}
-    <li>meta: "description" - site description for search engines</li>
-  {% endunless %}
-  {% unless site.meta.keywords %}
-    <li>meta: "keywords" - site keywords for search engines</li>
-  {% endunless %}
-  {% unless site.meta.analytics %}
-    <li>meta: "analytics" - Google Analytics ID for analytics</li>
-    {% endunless %}
-  {% unless site.meta.tagline %}
-    <li>meta: "tagline" - will appear under the site title</li>
-  {% endunless %}
-  {% unless site.pages.news %}
-    <li>Create a "news" page under which you'll create your blog posts</li>
-  {% endunless %}
-</ol>
-<p>Then, remove this content from the "/default.html" file and start coding!</p>
+  <section class="visual">
+    <div class="container">
+      <div class="text-block">
+        <div class="heading-holder">
+          <h1 class="title"><a href="/">{{ site.meta.title }}</a></h1>
+        </div>
+        <p class="tagline">{{ site.meta.tagline }}</p>
+      </div>
+    </div>
+    <img src="images/img-decor-01.jpg" alt="" class="bg-stretch">
+  </section>
+  <section class="main">
+    <div class="container">
+      <div id="cta">
+        <a href="#" class="btn btn-primary rounded">Subscribe to our Newsletter</a>
+        <p>Get the latest news, reports, and project updates.</p>
+      </div>
+      <div class="container">
+        <div class="main-section-text col-md-offset-1 col-md-10">
+        {{ body }}
+        </div>
+        </div>
+      </div>
+    </div>
+  </section>
 {% endcapture %}
+
 {% include 'layouts/default' %}
