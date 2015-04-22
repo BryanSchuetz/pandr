@@ -8,12 +8,16 @@
         <p class="tagline">{{ site.meta.tagline }}</p>
       </div>
     </div>
-    <img src="images/img-decor-01.jpg" alt="" class="bg-stretch">
+    <img src="{% if current.url contains 'partners' %}
+                {{ '/images/img-decor-01.jpg' }}
+                {% else %}
+                {{ '/images/img-decor-03.jpg' }} 
+              {% endif %}" alt="" class="bg-stretch">
   </section>
   <section class="main">
     <div class="container">
       <div id="cta">
-        <a href="#" class="btn btn-primary rounded">Subscribe to our Newsletter</a>
+        <a href="/home/subscribe#cta" class="btn btn-primary rounded">Subscribe to our Newsletter</a>
         <p>Get the latest news, reports, and project updates.</p>
       </div>
       <div class="container">

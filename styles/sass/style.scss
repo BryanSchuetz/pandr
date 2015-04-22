@@ -36,6 +36,9 @@ a:hover{
   color: $usaid-light-blue;
 }
 .visual{
+  h1{
+    margin-top: 10px;
+  }
   color: white;
   @include responsive(medium-screens){
     
@@ -45,7 +48,9 @@ a:hover{
 .title a, .tagline{
   color: $usaid-light-gray;
 }
-
+#nav li a.current, #nav .nav-drop li a.current{
+  color: $usaid-red;
+}
 // Boots
 
 .btn-primary {

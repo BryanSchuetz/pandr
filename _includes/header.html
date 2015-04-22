@@ -1,18 +1,19 @@
     <header id="header">
       <div class="container">
-        <div class="logo"><a href="/"><img id="logo" src="images/usaid.png" alt="usaid logo"></a></div>
+        <div class="logo"><a href="/"><img id="logo" src="/images/usaid.png" alt="usaid logo"></a></div>
         <nav id="nav">
           <div class="opener-holder">
             <a href="#" class="nav-opener"><span></span></a>
           </div>
-          <a href="" class="btn btn-primary rounded">Subscribe</a>
+          <a href="/home/subscribe#cta" class="btn btn-primary rounded">Subscribe</a>
           <div class="nav-drop">
             <ul>
-              <li class="active visible-sm visible-xs"><a href="#">Home</a></li>
-              <li><a href="/overview">Overview</a></li>
-              <li><a href="#">Partners</a></li>
-              <li><a href="#">Glossary</a></li>
-              <li><a href="#">Multimedia</a></li>
+              <li class="visible-sm visible-xs"><a href="/">Home</a></li>
+              <li><a {% if current.url contains 'overview' %} {{ 'class="current"' }} {% endif %}
+                     href="/overview">Overview</a></li>
+              <li><a {% if current.url contains 'partners' %} {{ 'class="current"' }} {% endif %} href="/partners">Partners</a></li>
+            <!--   <li><a {% if current.url contains 'glossary' %} {{ 'class="current"' }} {% endif %} href="#">Glossary</a></li>
+              <li><a {% if current.url contains 'multimedia' %} {{ 'class="current"' }} {% endif %} href="#">Multimedia</a></li> -->
             </ul>
             <div class="drop-holder visible-sm visible-xs">
               <span>Follow Us</span>
