@@ -1,13 +1,6 @@
 <section class="article-header">
   <h2><a href="{{ current.url }}">{{ current.title }}</a></h2>
   <p class="details date">{{ current.date | date: "%B %Y" }}</p>
-  <p>
-    {% for tag in current.taxonomy.tags %}
-      <a class="details" href="{{ tag.url }}">{{ tag.value }}</a>
-    {% endfor %}
-  </p>
-  <hr>
-  <svg class="ringer" viewBox="-5 -15 206 206" preserveAspectRatio="xMinYMax meet"><use xlink:href="#ring"></use></svg>
 </section>
 <section class="article-content">
   {{ current.body }}

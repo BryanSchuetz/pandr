@@ -1,14 +1,12 @@
-<h2 class="center">#{{ title }}</h2>
+
+<h2 class="center">News</h2>
 <hr>
-<svg class="ringer" viewBox="-5 -15 206 206" preserveAspectRatio="xMinYMax meet"><use xlink:href="#ring"></use></svg>
 <section class="article-list">
-  {% for article in posts %}
+  {% for article in site.pages.news.posts %}
     <article id="">
       <h2><a href="{{ article.url }}">{{ article.title }}</a></h2>
       <p>{{ article.excerpt }}</p>
-      <p class="read-more details"><svg class="more-arrow" viewBox="0 0 206 206" preserveAspectRatio="xMinYMax"><use xlink:href="#more-arrow"></use></svg><a href="{{ article.url }}">Read More</a></p>
+      <a href="{{ article.url }}" class="btn-more btn btn-primary rounded">Read More</a>
     </article>
-    <hr>
-    <svg class="ringer" viewBox="-5 -15 206 206" preserveAspectRatio="xMinYMax meet"><use xlink:href="#ring"></use></svg>
   {% endfor %}
 </section>

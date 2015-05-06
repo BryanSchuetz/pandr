@@ -1,6 +1,11 @@
 {% capture content %}
-  {% include 'includes/main-article' %}
-  {% include 'includes/related-articles' %}
+  <section class="main no-header">
+      <div class="container">
+        <div class="main-section-text col-md-offset-1 col-md-10">
+         {% include 'includes/main-article' %}
+        </div>
+      </div>
+  </section>
 {% endcapture %}
 
 {% include 'layouts/default' %}

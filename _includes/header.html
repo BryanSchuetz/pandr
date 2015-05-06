@@ -9,6 +9,8 @@
           <div class="nav-drop">
             <ul>
               <li class="visible-sm visible-xs"><a href="/">Home</a></li>
+              <li><a {% if current.url contains 'news' %} {{ 'class="current"' }} {% endif %}
+                     href="/news">News</a></li>
               <li><a {% if current.url contains 'overview' %} {{ 'class="current"' }} {% endif %}
                      href="/overview">Overview</a></li>
               <li><a {% if current.url contains 'partners' %} {{ 'class="current"' }} {% endif %} href="/partners">Partners</a></li>

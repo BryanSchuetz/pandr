@@ -2,6 +2,9 @@
 p, h1, h2, h3, h4, *{
   font-family: "ff-meta-web-pro", Helvetica, Arial, sans-serif;
 }
+h1, h2, h3, h4{
+  color: $usaid-black;
+}
 .visual{
   .text-block{
     padding-top: 8px;

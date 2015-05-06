@@ -14,3 +14,13 @@ $usaid-light-gray: #DDDDDD;
 $usaid-light-blue: #336799;
 
 
+// Mixins
+@mixin clearfix {
+&::after {
+clear: both;
+content: "";
+display: table;
+  }
+}
+
+

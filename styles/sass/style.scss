@@ -62,11 +62,33 @@ a:hover{
   background-color: $usaid-light-blue;
   border-color: $usaid-light-blue;
 }
+#header .btn{
+  line-height: 24px;
+}
 
 // Primary-Content
-
+.no-header{
+  padding-top: 0px;
+  @include responsive(wide-screens){
+    padding-top: 100px;
+  }
+}
+.read-more{
+  text-align: right;
+}
+article{
+  @include clearfix;
+}
+.more-arrow{
+  position: relative;
+  top: 7px;
+  height: 25px;
+}
 .btn-more{
   float: right;
   padding: 3px 6px;
   border-radius: 7px;
+}
+#resp-frame{
+  margin-bottom: 2rem;
 }
