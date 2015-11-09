@@ -17,7 +17,7 @@ a, a:focus, a:hover{
   outline-style: none;
 }
 #nav .nav-drop>ul li.active:before{
-  background-color: $usaid-red; 
+  background-color: $usaid-red;
 }
 #nav ul li a, .foot-nav li a{
   color: $usaid-blue;
@@ -44,7 +44,7 @@ a:hover{
   }
   color: white;
   @include responsive(medium-screens){
-    
+
   }
 }
 // HEADER
@@ -55,13 +55,21 @@ a:hover{
   color: $usaid-red;
 }
 #header .logo{
-  width: 200px;
+  width: 225px;
+  margin-top: 0px;
+  @include responsive(small-screens){
+    width: 320px;
+  }
   @include responsive(medium-screens){
-    width: 250px;
-    margin: 0px 0 32px 25px;
+    width: 600px;
   }
   @include responsive(wide-screens){
-    margin: -5px 0 32px 30px;
+  }
+}
+.sub-top{
+  display: none;
+  @include responsive(medium-screens){
+    display: block;
   }
 }
 // Boots
