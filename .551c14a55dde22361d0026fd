@@ -1,77 +1,53 @@
 ---
-time: 1447092237
+time: 1447101346
 inventory:
   "/indexhtml/index.html":
-    md5: 32276d20bb005b31646a4535b74012ea
-    time: 1447092231
+    md5: 9f51622de35ceeb48a70aa0726c5e7e5
+    time: 1447101339
   "/index.html":
-    md5: 32276d20bb005b31646a4535b74012ea
-    time: 1447092231
+    md5: 9f51622de35ceeb48a70aa0726c5e7e5
+    time: 1447101339
   "/overview/index.html":
-    md5: 0ae20884d19acbd76048481872f00f4e
-    time: 1447092232
+    md5: ad42384a116becd58aab90028d672594
+    time: 1447101339
   "/treehouse/index.html":
-    md5: 5d1acc77854d3da58164c0054a7a7fd7
-    time: 1447092232
+    md5: ca4b8e85d8acd2e84231cec4bb55406a
+    time: 1447101339
   "/news/index.html":
-    md5: a0182bb13705bccfd96db112607cfaf0
-    time: 1447092232
+    md5: ab93e15c497d5ea0107003596502ab23
+    time: 1447101339
   "/news/one-health-workshop/index.html":
-    md5: 316f8a2b88d69a861708d975a59f1b98
-    time: 1447092232
+    md5: 06f7075eed99cba6ba0a6b1b7e3fb445
+    time: 1447101340
   "/news/archive/index.html":
-    md5: bfd2d99994bf7004a304d9f3be192ef5
-    time: 1447092232
+    md5: 8fcddeaed29ceec6895ee808b32bbf2d
+    time: 1447101340
   "/news/tags/index.html":
-    md5: fb83a99c46590957dbc8dae3351b1889
-    time: 1447092232
+    md5: b4cf3f8b58c21c8b6e5c0768f0c6c432
+    time: 1447101340
   "/news/tags/workshops/index.html":
-    md5: 54cd6fd2fdaec0fc5c8041e89fa09348
-    time: 1447092232
+    md5: 34ae21aedab6e10ba821676476537274
+    time: 1447101340
   "/partners/index.html":
-    md5: 6fbaf3de6c80fd0cb84dd9dd0c87f0ac
-    time: 1447092232
+    md5: a4a46c73c4f83b1ca72b4340c45a7c29
+    time: 1447101340
   "/news/subscribe/index.html":
-    md5: 73f4817ae19bbc17113ca896c3bc05bd
-    time: 1447092232
+    md5: 541241e25a754faa04911ec927e37f29
+    time: 1447101340
   "/CNAME":
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: b426f09e7972d084e8934125bc310e5e
-    time: 1447091544
+    md5: bfa1e7c8a5fa4b55adfdb3f13e644613
+    time: 1447101340
   "/feed.xml":
-    md5: fb14935f3295f16a6b2998061be2410a
-    time: 1447092232
-  "/images/svg/arrow.svg":
-    md5: 417399ea50b574159ae44851246abed2
-    time: 1447091544
-  "/images/svg/envelope.svg":
-    md5: 64ee3cb4e8c50200135dfbd4910e428a
-    time: 1447091545
-  "/images/svg/feed.svg":
-    md5: 6a06d1785b97a308dd44c7108c2a5fef
-    time: 1447091545
-  "/images/svg/instagram.svg":
-    md5: dd88cc48c20a6c399fb6bf47fbff462d
-    time: 1447091545
-  "/images/svg/more.svg":
-    md5: 7c4e394e2ff9a8c3395dda95e51b70cf
-    time: 1447091545
-  "/images/svg/tag.svg":
-    md5: 79c878f257990d9b7c3d6d2f6b18481b
-    time: 1447091545
-  "/images/svg/twitter.svg":
-    md5: ffa17cf9f191c2115ac12065beaac2b9
-    time: 1447091545
+    md5: 18960fd2b0c8339b376d59a3a1c96078
+    time: 1447101340
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
   "/tmp/restart.txt":
     md5: d41d8cd98f00b204e9800998ecf8427e
-    time: 1447091545
-  "/assets/suits-action.jpg":
-    md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447091545
   "/favicons/favicon.ico":
     md5: ef02652fe3bcd63e8fb579be87e094db
@@ -109,21 +85,6 @@ inventory:
   "/fonts/font-awesome/fonts/FontAwesome.otf":
     md5: 0b462f5cc07779cab3bef252c0271f2b
     time: 1447091546
-  "/images/graph-01.svg":
-    md5: 99d3bcc1dc8a881c9e0d763f05b224d5
-    time: 1447091546
-  "/images/graph-02.svg":
-    md5: f702e0387bb6ed101ced12973f43e2ce
-    time: 1447091546
-  "/images/graph-03.svg":
-    md5: 2bd391a7d3a37dfbec1210c3c629fbe2
-    time: 1447091546
-  "/images/graph-04.svg":
-    md5: 67b18b52a14a440e09b1d81a4328daf2
-    time: 1447091546
-  "/images/img-01.png":
-    md5: 74a887c169f2bfa3bdaacf1b3360132d
-    time: 1447091546
   "/images/img-decor-01.jpg":
     md5: 5a418d772a33a758f880803336ce51b5
     time: 1447091547
@@ -133,45 +94,12 @@ inventory:
   "/images/img-decor-03.jpg":
     md5: 620bf82ef0f954167b36f7396ff273ec
     time: 1447091547
-  "/images/img-social-placeholder-01.png":
-    md5: 89d13c3a5587b9df0c01559a660fad22
-    time: 1447091547
-  "/images/logo-cb.png":
-    md5: 5e3e13fb2c0fdb3bd4bdc620424585b6
-    time: 1447091547
-  "/images/logo-codrops.png":
-    md5: 5ef1f0d8c0dadd4ed49cd21b46001591
-    time: 1447091547
-  "/images/logo-pixel.png":
-    md5: b7a5089a85980e38d576b9114a291b6b
-    time: 1447091547
-  "/images/logo-smashing.png":
-    md5: 3080c52d53bc68c65b247bd28689a948
-    time: 1447091547
-  "/images/logo-tnw.png":
-    md5: 9923385f4d3b52f3a6c3d5db051a083a
-    time: 1447091547
-  "/images/logo-w.png":
-    md5: 7f964bda88a29622c95260a7044038b7
-    time: 1447091547
-  "/images/logo.svg":
-    md5: d9f5755c23806424b4f6aff5d78fa529
-    time: 1447091547
   "/images/usaid-logo.png":
     md5: 502e2d22fad09115ff8ceeb7d9e47b28
     time: 1447091547
   "/images/usaid.png":
     md5: 0be8f882ee47d8e345a01bd9639aa414
     time: 1447091547
-  "/images/user-01.jpg":
-    md5: c9234cbf13bcb05260208384d23d8c8c
-    time: 1447091547
-  "/images/user-02.jpg":
-    md5: 5c1c8c8e4e443ecf9ece3a68f6302380
-    time: 1447091548
-  "/images/user-03.jpg":
-    md5: 0ca720adef3314aafb67439cf6a2ac56
-    time: 1447091548
   "/js/includes/bootstrap.js":
     md5: c58499727418a91348ba53070caedc31
     time: 1447091548
@@ -199,6 +127,21 @@ inventory:
   "/images/usaid-alt.png":
     md5: 6f4346eefc4a2deb21abb4fdaa84cf46
     time: 1447091549
+  "/assets/KIWASH.jpg":
+    md5: e6d0878284ad3a03c32752b04f312e44
+    time: 1447101340
+  "/assets/553663be5dde228f260018a5.jpg":
+    md5: 2f2f620939b4dbfadf1a517d4e35a848
+    time: 1447101340
+  "/assets/553663be5dde228f260018a5-1.jpg":
+    md5: 2f2f620939b4dbfadf1a517d4e35a848
+    time: 1447101340
+  "/images/full-logo.jpg":
+    md5: f24dcaa07ea64f1b3d4a010b38b8d0cb
+    time: 1447101340
+  "/images/full-logo.png":
+    md5: 732d12971e4d33efd196c848c71fec33
+    time: 1447101340
   "/styles/css/style.css":
-    md5: 045f5e44ece7dbe43a7c09b06cbde5d8
-    time: 1447091549
+    md5: ac16d4c537fa62d6ef7b3b562a207e99
+    time: 1447101340
