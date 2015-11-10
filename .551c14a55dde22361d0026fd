@@ -1,48 +1,48 @@
 ---
-time: 1447101346
+time: 1447180088
 inventory:
   "/indexhtml/index.html":
-    md5: 9f51622de35ceeb48a70aa0726c5e7e5
-    time: 1447101339
+    md5: 2e734919b41772678615957cd50ab1de
+    time: 1447180081
   "/index.html":
-    md5: 9f51622de35ceeb48a70aa0726c5e7e5
-    time: 1447101339
+    md5: 2e734919b41772678615957cd50ab1de
+    time: 1447180081
   "/overview/index.html":
-    md5: ad42384a116becd58aab90028d672594
-    time: 1447101339
+    md5: 164348da92a3f445495eec664976f41f
+    time: 1447180081
   "/treehouse/index.html":
-    md5: ca4b8e85d8acd2e84231cec4bb55406a
-    time: 1447101339
+    md5: 68a47625c5c23773595ee2f841afb3eb
+    time: 1447180081
   "/news/index.html":
-    md5: ab93e15c497d5ea0107003596502ab23
-    time: 1447101339
+    md5: 0bc0d2fbf3e2e267465f9f0bc2033dac
+    time: 1447180082
   "/news/one-health-workshop/index.html":
-    md5: 06f7075eed99cba6ba0a6b1b7e3fb445
-    time: 1447101340
+    md5: b924b21b0f47f2c5d918445d5e22d02f
+    time: 1447180082
   "/news/archive/index.html":
-    md5: 8fcddeaed29ceec6895ee808b32bbf2d
-    time: 1447101340
+    md5: 8dcca1a1749759095e81e2da54fad912
+    time: 1447180082
   "/news/tags/index.html":
-    md5: b4cf3f8b58c21c8b6e5c0768f0c6c432
-    time: 1447101340
+    md5: 9e047edaf51bd8cbe9474258afc11982
+    time: 1447180082
   "/news/tags/workshops/index.html":
-    md5: 34ae21aedab6e10ba821676476537274
-    time: 1447101340
+    md5: fc6a7fa4367f0edfe84faa7cc8fb39f1
+    time: 1447180082
   "/partners/index.html":
-    md5: a4a46c73c4f83b1ca72b4340c45a7c29
-    time: 1447101340
+    md5: a91e2c516d1ddae6e516db2bf9cb12a2
+    time: 1447180082
   "/news/subscribe/index.html":
-    md5: 541241e25a754faa04911ec927e37f29
-    time: 1447101340
+    md5: 7ec0169ddfb3a557848a784a649a440a
+    time: 1447180082
   "/CNAME":
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: bfa1e7c8a5fa4b55adfdb3f13e644613
-    time: 1447101340
+    md5: c586f436e1fe5d461569679ffb9ce319
+    time: 1447180082
   "/feed.xml":
-    md5: 18960fd2b0c8339b376d59a3a1c96078
-    time: 1447101340
+    md5: f1d9568e957a5fcf776ba56ad83624ea
+    time: 1447180082
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -142,6 +142,12 @@ inventory:
   "/images/full-logo.png":
     md5: 732d12971e4d33efd196c848c71fec33
     time: 1447101340
+  "/assets/PR.pdf":
+    md5: c25d79b29b93f8bd27d8b5c822775b0b
+    time: 1447180082
   "/styles/css/style.css":
-    md5: ac16d4c537fa62d6ef7b3b562a207e99
-    time: 1447101340
+    md5: ec21178b0f79c3a228065e468b8adc83
+    time: 1447180082
+  "/assets/facts.pdf":
+    md5: 2bd4e212d6be9c0a529eb80a5319e05d
+    time: 1447180082
