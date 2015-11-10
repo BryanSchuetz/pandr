@@ -1,5 +1,5 @@
 ---
-time: 1447180088
+time: 1447180198
 inventory:
   "/indexhtml/index.html":
     md5: 2e734919b41772678615957cd50ab1de
@@ -11,8 +11,8 @@ inventory:
     md5: 164348da92a3f445495eec664976f41f
     time: 1447180081
   "/treehouse/index.html":
-    md5: 68a47625c5c23773595ee2f841afb3eb
-    time: 1447180081
+    md5: fe97596f9a31b4be378f440bd6676b68
+    time: 1447180197
   "/news/index.html":
     md5: 0bc0d2fbf3e2e267465f9f0bc2033dac
     time: 1447180082
@@ -41,8 +41,8 @@ inventory:
     md5: c586f436e1fe5d461569679ffb9ce319
     time: 1447180082
   "/feed.xml":
-    md5: f1d9568e957a5fcf776ba56ad83624ea
-    time: 1447180082
+    md5: 7404e914488112d9a32b1aa59d7c04a0
+    time: 1447180197
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -151,3 +151,6 @@ inventory:
   "/assets/facts.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180082
+  "/assets/facts-1.pdf":
+    md5: 2bd4e212d6be9c0a529eb80a5319e05d
+    time: 1447180197
