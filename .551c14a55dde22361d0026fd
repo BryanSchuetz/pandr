@@ -1,5 +1,5 @@
 ---
-time: 1447180198
+time: 1447711954
 inventory:
   "/indexhtml/index.html":
     md5: 2e734919b41772678615957cd50ab1de
@@ -14,20 +14,20 @@ inventory:
     md5: fe97596f9a31b4be378f440bd6676b68
     time: 1447180197
   "/news/index.html":
-    md5: 0bc0d2fbf3e2e267465f9f0bc2033dac
-    time: 1447180082
+    md5: 6b7f4b81595e99ea241f0f2c8bd9f2cc
+    time: 1447711951
   "/news/one-health-workshop/index.html":
-    md5: b924b21b0f47f2c5d918445d5e22d02f
-    time: 1447180082
+    md5: 5907eef7df5eede8858148ffdffd9f43
+    time: 1447711951
   "/news/archive/index.html":
     md5: 8dcca1a1749759095e81e2da54fad912
     time: 1447180082
   "/news/tags/index.html":
-    md5: 9e047edaf51bd8cbe9474258afc11982
-    time: 1447180082
+    md5: 357479ed4ded942a3d164876b525b122
+    time: 1447711951
   "/news/tags/workshops/index.html":
-    md5: fc6a7fa4367f0edfe84faa7cc8fb39f1
-    time: 1447180082
+    md5: f9bed9635531f48a48279b7d673003ea
+    time: 1447711951
   "/partners/index.html":
     md5: a91e2c516d1ddae6e516db2bf9cb12a2
     time: 1447180082
@@ -38,11 +38,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: c586f436e1fe5d461569679ffb9ce319
-    time: 1447180082
+    md5: d4b8912a89c6e3e02492eeb2b67d7353
+    time: 1447711951
   "/feed.xml":
-    md5: 7404e914488112d9a32b1aa59d7c04a0
-    time: 1447180197
+    md5: 125dc66dbd0f3dd08c7b20c2fd93feff
+    time: 1447711951
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
