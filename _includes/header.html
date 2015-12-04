@@ -1,5 +1,5 @@
     <header id="header">
-      <div class="logobar"><div><a href="/"><img id="logo" src="/images/full-logo.jpg" alt="usaid logo"></a></div></div>
+      <div class="logobar cf"><img src="/images/usaid.jpg" alt="" class="usaid logos"><img src="/images/pandr.jpg" alt="" class="pandr logos"></div>
       <div class="container nav-box">
         <nav id="nav">
           <div class="opener-holder">
@@ -7,22 +7,27 @@
           </div>
           <div class="nav-drop">
             <ul>
-              <li class="visible-sm visible-xs"><a href="/">Home</a></li>
+              {% for  page in site.pages %}
+                {% unless page.title == 'Treehouse' %}
+                  <li><a {% if current.url == page.url %}{{ 'class="current"' }}{% endif %}href="{{ page.url }}">{{ page.title }}</a></li>
+                {% endunless %}
+              {% endfor %}
+              <!-- <li><a href="/">Home</a></li>
               <li><a {% if current.url contains 'news' %} {{ 'class="current"' }} {% endif %}
                      href="/news">News</a></li>
               <li><a {% if current.url contains 'overview' %} {{ 'class="current"' }} {% endif %}
                      href="/overview">Overview</a></li>
-              <li><a {% if current.url contains 'partners' %} {{ 'class="current"' }} {% endif %} href="/partners">Partners</a></li>
+              <li><a {% if current.url contains 'partners' %} {{ 'class="current"' }} {% endif %} href="/partners">Partners</a></li> -->
             <!--   <li><a {% if current.url contains 'glossary' %} {{ 'class="current"' }} {% endif %} href="#">Glossary</a></li>
               <li><a {% if current.url contains 'multimedia' %} {{ 'class="current"' }} {% endif %} href="#">Multimedia</a></li> -->
             </ul>
-            <div class="drop-holder visible-sm visible-xs">
+            <!-- <div class="drop-holder visible-sm visible-xs">
               <span>Follow Us</span>
               <ul class="social-networks">
                 <li><a class="fa fa-twitter" href="#"></a></li>
                 <li><a class="fa fa-facebook" href="#"></a></li>
               </ul>
-            </div>
+            </div> -->
           </div>
         </nav>
       </div>

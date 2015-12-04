@@ -57,16 +57,20 @@ a:hover{
 #nav li a.current, #nav .nav-drop li a.current{
   color: $usaid-red;
 }
-#header .logo{
-  width: 225px;
-  margin-top: 0px;
-  @include responsive(small-screens){
-    width: 320px;
-  }
+.logobar{
+  img{ width: 240px;
   @include responsive(medium-screens){
-    width: 600px;
+    width: 350px;
   }
   @include responsive(wide-screens){
+    width: 400px;
+  }
+  }
+  .usaid{
+    float: left;
+  }
+  .pandr{
+    float: right;
   }
 }
 .sub-top{
@@ -120,5 +124,14 @@ div.container.nav-box{
   padding: 0  0 29px 0 !important;
 }
 section.visual, section.no-header{
-  padding-top: 200px;
+  padding-top: 30px;
+  @include responsive(small-screens){
+    padding-top: 40px;
+  }
+  @include responsive(medim-screens){
+    padding-top: 80px;
+  }
+  @include responsive(wide-screens){
+    padding-top: 230px;
+  }
 }
