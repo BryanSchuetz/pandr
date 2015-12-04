@@ -1,48 +1,54 @@
 ---
-time: 1447712439
+time: 1449258100
 inventory:
   "/indexhtml/index.html":
-    md5: 2e734919b41772678615957cd50ab1de
-    time: 1447180081
+    md5: fe0350cf7e42e7a5214015fccec6fc4d
+    time: 1449258092
   "/index.html":
-    md5: 2e734919b41772678615957cd50ab1de
-    time: 1447180081
-  "/overview/index.html":
-    md5: 164348da92a3f445495eec664976f41f
-    time: 1447180081
-  "/treehouse/index.html":
-    md5: fe97596f9a31b4be378f440bd6676b68
-    time: 1447180197
+    md5: fe0350cf7e42e7a5214015fccec6fc4d
+    time: 1449258092
   "/news/index.html":
-    md5: 0bc0d2fbf3e2e267465f9f0bc2033dac
-    time: 1447712436
+    md5: f4a2d20e023d614def2ec95c24b5539a
+    time: 1449258092
   "/news/one-health-workshop/index.html":
-    md5: b924b21b0f47f2c5d918445d5e22d02f
-    time: 1447712436
+    md5: 3bdcba9ec89294f6573fb145c264c2c1
+    time: 1449258093
   "/news/archive/index.html":
-    md5: 8dcca1a1749759095e81e2da54fad912
-    time: 1447180082
+    md5: a9f375046ff22e96f572701fd57d4595
+    time: 1449258093
   "/news/tags/index.html":
-    md5: 9e047edaf51bd8cbe9474258afc11982
-    time: 1447712436
+    md5: 9883fbd30d0f7ab6e4fde5bddc4b8c68
+    time: 1449258093
   "/news/tags/workshops/index.html":
-    md5: fc6a7fa4367f0edfe84faa7cc8fb39f1
-    time: 1447712436
+    md5: f476a67883ffd52d53fb4a9e88eb12cd
+    time: 1449258093
+  "/overview/index.html":
+    md5: 658d0a3bf279ef0c25341a13a33ed9fc
+    time: 1449258094
+  "/where-we-work/index.html":
+    md5: d01a9221e92182185e7e1716930cf201
+    time: 1449258094
   "/partners/index.html":
-    md5: a91e2c516d1ddae6e516db2bf9cb12a2
-    time: 1447180082
+    md5: 7ef5b37805dad0f1101197790f238da2
+    time: 1449258094
+  "/careers/index.html":
+    md5: 69f547f4462b8ebe3d5a400fd3edc57b
+    time: 1449258094
+  "/treehouse/index.html":
+    md5: f856385cabaa71014db84ae76ffd48de
+    time: 1449258094
   "/news/subscribe/index.html":
-    md5: 7ec0169ddfb3a557848a784a649a440a
-    time: 1447180082
+    md5: 7434caf86ef9a838c2cc3b246f9fa32d
+    time: 1449258094
   "/CNAME":
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 04129fd714b481ee6fa49d0aa3dacc18
-    time: 1447712436
+    md5: bfa6dca138ec860b2d866b7a4989baec
+    time: 1449258094
   "/feed.xml":
-    md5: e4c71535ebac85847d87f915466cad60
-    time: 1447712436
+    md5: e9a06dde26cd6eb8be49c42d3e69f59f
+    time: 1449258094
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -88,17 +94,11 @@ inventory:
   "/images/img-decor-01.jpg":
     md5: 5a418d772a33a758f880803336ce51b5
     time: 1447091547
-  "/images/img-decor-02.jpg":
-    md5: d2e4c3506642b4e81b358f4a2141ad35
-    time: 1447091547
   "/images/img-decor-03.jpg":
     md5: 620bf82ef0f954167b36f7396ff273ec
     time: 1447091547
   "/images/usaid-logo.png":
     md5: 502e2d22fad09115ff8ceeb7d9e47b28
-    time: 1447091547
-  "/images/usaid.png":
-    md5: 0be8f882ee47d8e345a01bd9639aa414
     time: 1447091547
   "/js/includes/bootstrap.js":
     md5: c58499727418a91348ba53070caedc31
@@ -145,9 +145,27 @@ inventory:
   "/assets/PR.pdf":
     md5: c25d79b29b93f8bd27d8b5c822775b0b
     time: 1447180082
+  "/assets/Uganda Banner 3.jpg":
+    md5: ca30c0894ce588e66a79a08a10695619
+    time: 1449258094
+  "/images/img-decor-02.jpg":
+    md5: d2e4c3506642b4e81b358f4a2141ad35
+    time: 1447091547
+  "/images/pandr.jpg":
+    md5: 15e5436e328cd36c06749afd52ad2948
+    time: 1449258094
+  "/images/pandr.png":
+    md5: 087692f436c402fae2638e7d142bd17c
+    time: 1449258094
+  "/images/usaid.jpg":
+    md5: 68be77c481a0c1dd6bc2652801831fec
+    time: 1449258094
+  "/images/usaid.png":
+    md5: 5e4354566d7f26245ef080011104eb82
+    time: 1449258094
   "/styles/css/style.css":
-    md5: ec21178b0f79c3a228065e468b8adc83
-    time: 1447180082
+    md5: dbc696a8e92820f3396e0a2949169bd8
+    time: 1449258094
   "/assets/facts.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180082
