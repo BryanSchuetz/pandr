@@ -1,12 +1,12 @@
 ---
-time: 1449525006
+time: 1449526369
 inventory:
   "/indexhtml/index.html":
-    md5: a8282f100ef1bfeb0f5b71f7bd3c6b9c
-    time: 1449525005
+    md5: b13a499a101ce9146d7a1cab63a4c465
+    time: 1449526368
   "/index.html":
-    md5: a8282f100ef1bfeb0f5b71f7bd3c6b9c
-    time: 1449525005
+    md5: b13a499a101ce9146d7a1cab63a4c465
+    time: 1449526368
   "/news/index.html":
     md5: 99f63555bbb405a085b48d1c6b7af9d7
     time: 1449522860
@@ -44,11 +44,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: bfa6dca138ec860b2d866b7a4989baec
-    time: 1449258094
+    md5: d41aae93fa745969c1f5453b80ba7346
+    time: 1449526368
   "/feed.xml":
-    md5: 251cb21e3c0a88e6f71b56f20d58cbc6
-    time: 1449525005
+    md5: d8f8da71ce998bf067d19fec8baf41cf
+    time: 1449526368
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -169,12 +169,12 @@ inventory:
   "/assets/facts.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180082
-  "/assets/hero.jpg":
-    md5: 88c4617ae6abe6c4d1986ccee5519232
-    time: 1449521899
+  "/assets/Banner-12-15.jpg":
+    md5: ca30c0894ce588e66a79a08a10695619
+    time: 1449526368
   "/assets/facts-1.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180197
-  "/assets/Banner 12-15.jpg":
-    md5: ca30c0894ce588e66a79a08a10695619
-    time: 1449525005
+  "/assets/hero.jpg":
+    md5: 88c4617ae6abe6c4d1986ccee5519232
+    time: 1449521899
