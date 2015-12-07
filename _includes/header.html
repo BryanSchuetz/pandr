@@ -1,5 +1,6 @@
     <header id="header">
-      <div class="logobar cf"><img src="/images/usaid.jpg" alt="" class="usaid logos"><img src="/images/pandr.jpg" alt="" class="pandr logos"></div>
+      <a href="/">
+      <div class="logobar cf"><img src="/images/usaid.jpg" alt="" class="usaid logos"><img src="/images/pandr.jpg" alt="" class="pandr logos"></div></a>
       <div class="container nav-box">
         <nav id="nav">
           <div class="opener-holder">
@@ -8,7 +9,7 @@
           <div class="nav-drop">
             <ul>
               {% for  page in site.pages %}
-                {% unless page.title == 'Treehouse' %}
+                {% unless page.title == 'Treehouse' or page.title == 'Home' %}
                   <li><a {% if current.url == page.url %}{{ 'class="current"' }}{% endif %}href="{{ page.url }}">{{ page.title }}</a></li>
                 {% endunless %}
               {% endfor %}

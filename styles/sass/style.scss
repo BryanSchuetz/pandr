@@ -123,15 +123,46 @@ article{
 div.container.nav-box{
   padding: 0  0 29px 0 !important;
 }
-section.visual, section.no-header{
-  padding-top: 30px;
-  @include responsive(small-screens){
-    padding-top: 40px;
-  }
-  @include responsive(medim-screens){
-    padding-top: 80px;
-  }
+section.visual, section.hero-box{
+  margin-top: 0px;
   @include responsive(wide-screens){
-    padding-top: 230px;
+    margin-top: 210px;
+  }
+}
+section.no-header{
+  @include responsive(wide-screens){
+    margin-top: 100px;
+  }
+}
+.hero-box{
+  min-height: 45rem;
+  overflow: hidden;
+  @include responsive(wide-screens){
+    min-height: 70rem;
+  }
+  .hero-box--text{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    background-color: rgba(224,224,224,0.8);
+    h1,{
+    font-weight: extra-bold;
+    text-align: center;
+    padding: 1rem 0 2rem 0;
+    margin-top: 5rem;
+    margin-bottom: 0;
+    font-weight: 200;
+    font-size: 5rem;
+    color: $usaid-black;
+    }
+    p{
+      padding: 1rem 0 1.2rem 0;
+      text-align: center;
+      font-size: 4rem;
+      font-weight: 200;
+      color: $usaid-black;
+      font-family: "source-sans-pro", Helvetica, Arial, sans-serif;
+    }
   }
 }

@@ -1,6 +1,19 @@
 @import 'queries';
-p, h1, h2, h3, h4, *{
-  font-family: "ff-meta-web-pro", Helvetica, Arial, sans-serif;
+p, a{
+  font-family: "merriweather", georgia, serif;
+  font-weight: 400;
+}
+nav a{
+  font-family: "source-sans-pro", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+h1{
+  font-family: "source-sans-pro", Helvetica, Arial, sans-serif;
+  font-weight: 200;
+}
+h2, h3, h4, *{
+  font-family: "source-sans-pro", Helvetica, Arial, sans-serif;
+  font-weight: 900;
 }
 h1, h2, h3, h4{
   color: $usaid-black;
