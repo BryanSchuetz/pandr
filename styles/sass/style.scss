@@ -120,18 +120,21 @@ article{
 #resp-frame{
   margin-bottom: 2rem;
 }
-div.container.nav-box{
-  padding: 0  0 29px 0 !important;
+div.container.nav-box.important{
+  padding: 0  0 29px 0;
+  @include responsive(wide-screens){
+    padding: 0 0 2px 0;
+  }
 }
 section.visual, section.hero-box{
   margin-top: 0px;
   @include responsive(wide-screens){
-    margin-top: 210px;
+    margin-top: 180px;
   }
 }
 section.no-header{
   @include responsive(wide-screens){
-    margin-top: 100px;
+    margin-top: 80px;
   }
 }
 .hero-box{
