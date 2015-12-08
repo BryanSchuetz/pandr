@@ -3,14 +3,14 @@
   data-flickity-options='{ "wrapAround": true, "autoPlay": true, "pageDots": false }'>
   {% for asset in assets %}
     {% if  asset.meta.slider == 'yes' %}
-      <div class="gallery-cell" style="background: url({{ asset.url | split:" " | join:"-" }}) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
-        <a href="{{ asset.meta.link }}">
-          <div class="gallery-cell--text">
-            <h2>{{ asset.meta.title }}</h2>
-            <p>{{ asset.meta.subtitle }}</p>
-          </div>
-        </a>
-      </div>
+      <a href="{{ asset.meta.link }}" class="gallery-cell" style="background: url({{ asset.url | split:" " | join:"-" }}) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+        {% if  asset.meta.title %}
+            <div class="gallery-cell--text">
+              <h2>{{ asset.meta.title }}</h2>
+              <p>{{ asset.meta.subtitle }}</p>
+            </div>
+        {% endif %}
+      </a>
     {% endif %}
   {% endfor %}
 </div>

@@ -175,9 +175,26 @@ section.no-header{
 .footer-block{
   margin-bottom: 2.5rem;
 }
-.gallery-cell a{
+a.gallery-cell{
   color: $usaid-black;
 }
-.gallery-cell a:hover{
+a.gallery-cell:hover{
   color: $usaid-black;
+}
+.gallery-cell--text{
+  width: 100%;
+  @include responsive(medium-screens){
+    width: 40%;
+  }
+  margin: 2rem 0;
+  text-align: left;
+  padding: 1rem;
+  background-color: rgba(224,224,224,0.8);
+}
+.gallery-cell--empty{
+  width: 40%;
+  margin: 2rem 0;
+  height: 10rem;
+  text-align: center;
+  padding: 1rem;
 }
