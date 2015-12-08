@@ -147,20 +147,3 @@ http://flickity.metafizzy.co
 }
 
 body { font-family: sans-serif; }
-
-.gallery {
-
-}
-
-.gallery-cell {
-  width: 66%;
-  height: 400px;
-  margin-right: 10px;
-  background: #8C8;
-  counter-increment: gallery-cell;
-}
-
-/* cell number */
-.gallery-cell:before {
-
-}
