@@ -1,12 +1,12 @@
 ---
-time: 1449527574
+time: 1449576969
 inventory:
   "/indexhtml/index.html":
-    md5: adf537eada2203fd333dfd6c24a1e49d
-    time: 1449527568
+    md5: 40b30895275514e13f78db6f333e1032
+    time: 1449576966
   "/index.html":
-    md5: adf537eada2203fd333dfd6c24a1e49d
-    time: 1449527568
+    md5: 40b30895275514e13f78db6f333e1032
+    time: 1449576966
   "/news/index.html":
     md5: 875f0c300582b58714e54c0b3fb9ccdb
     time: 1449527568
@@ -44,11 +44,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: d41aae93fa745969c1f5453b80ba7346
-    time: 1449526368
+    md5: ebc0fd01901cf36d4ab1926b24b74e29
+    time: 1449576967
   "/feed.xml":
-    md5: a7fec7fcf8f77a0dcae5a5f137358f3c
-    time: 1449527568
+    md5: a5563b92c062c04881ed7692f835a6ec
+    time: 1449576967
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -169,12 +169,18 @@ inventory:
   "/assets/facts.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180082
-  "/assets/Banner-12-15.jpg":
-    md5: ca30c0894ce588e66a79a08a10695619
-    time: 1449526368
+  "/assets/Uganda_Banner_2.jpg":
+    md5: d67ac7fc0cb720fba1566b81f2c6a3de
+    time: 1449576967
   "/assets/facts-1.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180197
+  "/assets/Banner-12-15.jpg":
+    md5: ca30c0894ce588e66a79a08a10695619
+    time: 1449526368
   "/assets/hero.jpg":
     md5: 88c4617ae6abe6c4d1986ccee5519232
     time: 1449521899
+  "/assets/africa_farming.jpg":
+    md5: 0cd7ac5fe0496c664f091e88ccda96ae
+    time: 1449576967
