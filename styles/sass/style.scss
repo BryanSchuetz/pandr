@@ -1,6 +1,7 @@
 @import 'fork-bootstrap';
 @import 'fork-all';
 @import 'font-awesome';
+@import 'flickity';
 @import 'normalize';
 @import 'variables';
 @import 'queries';
@@ -126,16 +127,18 @@ div.container.nav-box.important{
     padding: 0 0 2px 0;
   }
 }
-section.visual, section.hero-box{
-  margin-top: 0px;
+section.visual, section.hero-box, .gallery{
+  margin-top: 10px;
   @include responsive(wide-screens){
-    margin-top: 180px;
+    margin-top: 200px;
   }
 }
 section.no-header{
   @include responsive(wide-screens){
     margin-top: 80px;
   }
+}
+.gallery{
 }
 .hero-box{
   min-height: 45rem;
@@ -171,4 +174,10 @@ section.no-header{
 }
 .footer-block{
   margin-bottom: 2.5rem;
+}
+.gallery-cell a{
+  color: $usaid-black;
+}
+.gallery-cell a:hover{
+  color: $usaid-black;
 }
