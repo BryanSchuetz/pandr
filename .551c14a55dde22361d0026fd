@@ -1,12 +1,12 @@
 ---
-time: 1449594126
+time: 1449596597
 inventory:
   "/indexhtml/index.html":
-    md5: 0dcfb398db139fb19b7484a1f80c9de1
-    time: 1449594124
+    md5: 84a7ebe8fd94b0b4aa933f1a52f86355
+    time: 1449596596
   "/index.html":
-    md5: 0dcfb398db139fb19b7484a1f80c9de1
-    time: 1449594124
+    md5: 84a7ebe8fd94b0b4aa933f1a52f86355
+    time: 1449596596
   "/news/index.html":
     md5: 875f0c300582b58714e54c0b3fb9ccdb
     time: 1449527568
@@ -47,8 +47,8 @@ inventory:
     md5: ebc0fd01901cf36d4ab1926b24b74e29
     time: 1449576967
   "/feed.xml":
-    md5: af241a06f0f2eb9b0497b64b822bbb50
-    time: 1449594125
+    md5: 88754e1469b513c368c71622ad1abdc2
+    time: 1449596596
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -112,12 +112,6 @@ inventory:
   "/manifest.json":
     md5: 1a8ceef0f15cc15853116629071811d2
     time: 1447091548
-  "/js/includes/primary.js":
-    md5: 13cee7dc2f9132b6d61308d816d85109
-    time: 1447091548
-  "/js/site.js":
-    md5: 522576db9118cf1c729cd4f34673a4c6
-    time: 1447091548
   "/assets/17299478012_a69cb1aa9f_k.jpg":
     md5: a74886b2ebe5232bd9757324cc456332
     time: 1447091548
@@ -163,9 +157,33 @@ inventory:
   "/images/usaid.png":
     md5: 5e4354566d7f26245ef080011104eb82
     time: 1449258094
+  "/images/bridge.jpg":
+    md5: d90237112079e3492f995fd3b1e4df8e
+    time: 1449596596
+  "/images/deer.jpg":
+    md5: 98f588cc34406d786c7dd348eb2ee90c
+    time: 1449596596
+  "/images/flatiron.jpg":
+    md5: 89abec4d3d3b38b893cdf71f3a987350
+    time: 1449596596
+  "/images/goat.jpg":
+    md5: a35e2fa0e7f178aaccf997a4d1ce71a6
+    time: 1449596596
+  "/images/smoky.jpg":
+    md5: ac44f8d112c8e1f91242badbeb540e25
+    time: 1449596596
+  "/js/includes/flickity.js":
+    md5: 625b8957ea981cc69de3977d04ee9168
+    time: 1449596596
+  "/js/includes/primary.js":
+    md5: 51f27fcf3831aabf7ea81a3ab70dff70
+    time: 1449596596
+  "/js/site.js":
+    md5: dbdac7134111f309dbf73ba21dec05c0
+    time: 1449596596
   "/styles/css/style.css":
-    md5: 0fcaf677a2444b74f0c1310257dc43a2
-    time: 1449522861
+    md5: ffeaa710fa11a5f70d4db56553e8bc50
+    time: 1449596596
   "/assets/facts.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180082
