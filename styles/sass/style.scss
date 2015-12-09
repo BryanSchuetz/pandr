@@ -223,3 +223,6 @@ a.gallery-cell:hover{
   padding-top: 10px;
   padding-bottom: 20px;
 }
+#cta p, #cta a, .gallery-cell--text h2, .gallery-cell--text p{
+  -webkit-transform: translate3d(0, 0, 0);
+}
