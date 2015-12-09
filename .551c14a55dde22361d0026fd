@@ -1,5 +1,5 @@
 ---
-time: 1449677240
+time: 1449679857
 inventory:
   "/indexhtml/index.html":
     md5: cbcd2ac6bb50c42c5b3d9ce90091ac5b
@@ -182,8 +182,8 @@ inventory:
     md5: dbdac7134111f309dbf73ba21dec05c0
     time: 1449596596
   "/styles/css/style.css":
-    md5: 4cb5229357ef0a4972d457de2bb29fbc
-    time: 1449677240
+    md5: d61eb485232df040fd9eb8109690d402
+    time: 1449679856
   "/assets/facts.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180082
