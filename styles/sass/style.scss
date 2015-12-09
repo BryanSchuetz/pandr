@@ -190,11 +190,11 @@ section.no-header{
 .gallery-cell:before {
 
 }
-a.gallery-cell{
-  color: $usaid-black;
+a.gallery-cell h2, a.gallery-cell p{
+  color: $usaid-light-gray;
 }
 a.gallery-cell:hover{
-  color: $usaid-black;
+  color: $usaid-light-gray;
 }
 .gallery-cell--text{
   width: 100%;
@@ -204,12 +204,22 @@ a.gallery-cell:hover{
   @include responsive(medium-screens){
     width: 50%;
   }
-  margin: 2rem 0;
+  margin: 1rem 0;
   text-align: left;
-  padding: 1rem;
+  padding: 0 1rem;
   -webkit-border-radius: 0 4px 4px 0;
   border-radius: 0 4px 4px 0;
-  background-color: rgba(224,224,224,0.8);
-  -webkit-box-shadow: 1px 3px 4px 2px rgba(33, 40, 52, 0.4);
-  box-shadow: 1px 3px 4px 2px rgba(33, 40, 52, 0.4);
+  h2{
+    margin-top: 0;
+  }
+}
+.shader{
+  background: -moz-linear-gradient(top, rgba(0,0,0,0.73) 0%, rgba(0,0,0,0.73) 10%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0.73) 0%,rgba(0,0,0,0.73) 10%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(0,0,0,0.73) 0%,rgba(0,0,0,0.73) 10%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ba000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+  position: relative;
+  top: -10px;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
