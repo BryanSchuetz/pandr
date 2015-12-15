@@ -1,12 +1,12 @@
 ---
-time: 1449679857
+time: 1450206892
 inventory:
   "/indexhtml/index.html":
-    md5: cbcd2ac6bb50c42c5b3d9ce90091ac5b
-    time: 1449677238
+    md5: f14714dbf79786f8cbe1d1d313664dbe
+    time: 1450206889
   "/index.html":
-    md5: cbcd2ac6bb50c42c5b3d9ce90091ac5b
-    time: 1449677238
+    md5: f14714dbf79786f8cbe1d1d313664dbe
+    time: 1450206889
   "/news/index.html":
     md5: 875f0c300582b58714e54c0b3fb9ccdb
     time: 1449527568
@@ -23,8 +23,8 @@ inventory:
     md5: 3379821484057c9694c353ca454bcb61
     time: 1449527568
   "/overview/index.html":
-    md5: 79cd50a29a1f49ad79420b9accbf3ada
-    time: 1449527568
+    md5: fab7f3cf596d3881f743447e46887a82
+    time: 1450206890
   "/where-we-work/index.html":
     md5: 02cdecdab592ab2a430e280cb4e1e7c0
     time: 1449527568
@@ -44,11 +44,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: ebc0fd01901cf36d4ab1926b24b74e29
-    time: 1449576967
+    md5: 614eb276642045e2672d564df16fe224
+    time: 1450206890
   "/feed.xml":
-    md5: 609dcb08a8ef144d76acf925bae7899c
-    time: 1449677239
+    md5: 8ca3a5856be67a689e809c19c719c35b
+    time: 1450206890
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -127,9 +127,6 @@ inventory:
   "/assets/553663be5dde228f260018a5.jpg":
     md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447101340
-  "/assets/553663be5dde228f260018a5-1.jpg":
-    md5: 2f2f620939b4dbfadf1a517d4e35a848
-    time: 1447101340
   "/images/full-logo.jpg":
     md5: f24dcaa07ea64f1b3d4a010b38b8d0cb
     time: 1447101340
@@ -157,6 +154,9 @@ inventory:
   "/images/usaid.png":
     md5: 5e4354566d7f26245ef080011104eb82
     time: 1449258094
+  "/assets/hero.jpg":
+    md5: 88c4617ae6abe6c4d1986ccee5519232
+    time: 1449521899
   "/images/bridge.jpg":
     md5: d90237112079e3492f995fd3b1e4df8e
     time: 1449596596
@@ -184,21 +184,24 @@ inventory:
   "/styles/css/style.css":
     md5: d61eb485232df040fd9eb8109690d402
     time: 1449679856
+  "/assets/553663be5dde228f260018a5-1.jpg":
+    md5: 2f2f620939b4dbfadf1a517d4e35a848
+    time: 1447101340
   "/assets/facts.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180082
-  "/assets/Uganda_Banner_2.jpg":
-    md5: d67ac7fc0cb720fba1566b81f2c6a3de
-    time: 1449576967
+  "/assets/Banner 12-15.jpg":
+    md5: ca30c0894ce588e66a79a08a10695619
+    time: 1450206890
   "/assets/facts-1.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180197
+  "/assets/Uganda_Banner_2.jpg":
+    md5: d67ac7fc0cb720fba1566b81f2c6a3de
+    time: 1449576967
   "/assets/Banner-12-15.jpg":
     md5: ca30c0894ce588e66a79a08a10695619
     time: 1449526368
-  "/assets/hero.jpg":
-    md5: 88c4617ae6abe6c4d1986ccee5519232
-    time: 1449521899
   "/assets/africa_farming.jpg":
     md5: 0cd7ac5fe0496c664f091e88ccda96ae
     time: 1449576967
