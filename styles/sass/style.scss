@@ -147,27 +147,23 @@ section.no-header{
     min-height: 70rem;
   }
   .hero-box--text{
-    width: 90%;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 5px;
-    background-color: rgba(224,224,224,0.8);
-    h1,{
+    width: 100%;
+    .hero-shader h2{
     font-weight: extra-bold;
     text-align: center;
     padding: 1rem 0 2rem 0;
-    margin-top: 5rem;
+    margin-top: 1.5rem;
     margin-bottom: 0;
     font-weight: 200;
     font-size: 5rem;
-    color: $usaid-black;
+    color: $usaid-light-gray;
     }
     p{
       padding: 1rem 0 1.2rem 0;
       text-align: center;
       font-size: 4rem;
       font-weight: 200;
-      color: $usaid-black;
+      color: $usaid-light-gray;
       font-family: "source-sans-pro", Helvetica, Arial, sans-serif;
     }
   }
@@ -213,7 +209,7 @@ a.gallery-cell:hover{
     margin-top: 0;
   }
 }
-.shader{
+.shader, .hero-shader{
   background: -moz-linear-gradient(top, rgba(0,0,0,0.73) 0%, rgba(0,0,0,0.73) 10%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
   background: -webkit-linear-gradient(top, rgba(0,0,0,0.73) 0%,rgba(0,0,0,0.73) 10%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
   background: linear-gradient(to bottom, rgba(0,0,0,0.73) 0%,rgba(0,0,0,0.73) 10%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */

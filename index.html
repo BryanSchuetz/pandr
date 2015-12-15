@@ -1,21 +1,46 @@
 {% capture content %}
-<div class="gallery js-flickity"
-  data-flickity-options='{ "wrapAround": true, "autoPlay": true, "pageDots": false }'>
-  {% for asset in assets %}
-    {% if  asset.meta.slider == 'yes' %}
-      <a href="{{ asset.meta.link }}" class="gallery-cell" style="background: url({{ asset.url | split:" " | join:"-" }}) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
-        <div class="shader">
-          {% if  asset.meta.title %}
-            <div class="gallery-cell--text">
+{% for asset in assets %}
+  {% if asset.meta.slider == 'yes' %}
+    {% assign slideit = 'true' %}
+    {% else %}
+    {% assign boxit = 'true' %}
+  {% endif %}
+{% endfor %}
+{% if slideit == 'true' %}
+  <div class="gallery js-flickity"
+    data-flickity-options='{ "wrapAround": true, "autoPlay": true, "pageDots": false }'>
+    {% for asset in assets %}
+      {% if  asset.meta.slider == 'yes' %}
+        <a href="{{ asset.meta.link }}" class="gallery-cell" style="background: url({{ asset.url | split:" " | join:"-" }}) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+          <div class="shader">
+            {% if  asset.meta.title %}
+              <div class="gallery-cell--text">
+                <h2>{{ asset.meta.title }}</h2>
+                <p>{{ asset.meta.subtitle }}</p>
+              </div>
+            {% endif %}
+          </div>
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% else %}
+{% for asset in assets %}
+  {% if asset.meta.herobox == 'yes' %}
+    <a href="{{ asset.meta.link }}">
+      <section class="hero-box" style="background: url({{ asset.url }}) no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover;">
+        <div class="hero-box--text">
+          <div class="hero-shader">
               <h2>{{ asset.meta.title }}</h2>
               <p>{{ asset.meta.subtitle }}</p>
-            </div>
-          {% endif %}
+          </div>
         </div>
-      </a>
-    {% endif %}
-  {% endfor %}
-</div>
+      </section>
+    </a>
+    {% break %}
+  {% endif %}
+{% endfor %}
+{% endif %}
 <!-- {% for asset in assets %}
   {% if asset.meta.herobox == 'yes' %}
     <a href="{{ asset.meta.link }}">
