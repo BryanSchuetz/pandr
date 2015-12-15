@@ -1,5 +1,5 @@
 ---
-time: 1450206892
+time: 1450209033
 inventory:
   "/indexhtml/index.html":
     md5: f14714dbf79786f8cbe1d1d313664dbe
@@ -23,8 +23,8 @@ inventory:
     md5: 3379821484057c9694c353ca454bcb61
     time: 1449527568
   "/overview/index.html":
-    md5: fab7f3cf596d3881f743447e46887a82
-    time: 1450206890
+    md5: dc39fdfa0194942733bfe607432a28a3
+    time: 1450209031
   "/where-we-work/index.html":
     md5: 02cdecdab592ab2a430e280cb4e1e7c0
     time: 1449527568
@@ -44,11 +44,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 614eb276642045e2672d564df16fe224
-    time: 1450206890
+    md5: 919b26be76f318de2c95b1092f003bca
+    time: 1450209032
   "/feed.xml":
-    md5: 8ca3a5856be67a689e809c19c719c35b
-    time: 1450206890
+    md5: 7eade3b7ff3c5845f030f07f81b1047d
+    time: 1450209032
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -199,6 +199,9 @@ inventory:
   "/assets/Uganda_Banner_2.jpg":
     md5: d67ac7fc0cb720fba1566b81f2c6a3de
     time: 1449576967
+  "/assets/uganda_meeting.jpg":
+    md5: 0b88fa9f88df11e0ed6bcdf5ece560ab
+    time: 1450209032
   "/assets/Banner-12-15.jpg":
     md5: ca30c0894ce588e66a79a08a10695619
     time: 1449526368
