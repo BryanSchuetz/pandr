@@ -1,36 +1,36 @@
 ---
-time: 1450209033
+time: 1450283593
 inventory:
   "/indexhtml/index.html":
-    md5: f14714dbf79786f8cbe1d1d313664dbe
-    time: 1450206889
+    md5: 07e5816ef01b9fb8675b30cf0aa3687e
+    time: 1450283585
   "/index.html":
-    md5: f14714dbf79786f8cbe1d1d313664dbe
-    time: 1450206889
+    md5: 07e5816ef01b9fb8675b30cf0aa3687e
+    time: 1450283585
   "/news/index.html":
-    md5: 875f0c300582b58714e54c0b3fb9ccdb
-    time: 1449527568
+    md5: 1592898e197caf82befe5f7c4eb45e18
+    time: 1450283586
   "/news/one-health-workshop/index.html":
-    md5: 83194e5d011e9e92b77cc96939b791f2
-    time: 1449527568
+    md5: b099109f5b8c1c49d165f3f1dd4628e5
+    time: 1450283586
   "/news/archive/index.html":
     md5: 4247195741d32474c58e90ee3c13d8d1
     time: 1449527568
   "/news/tags/index.html":
-    md5: 39ab55941edcecba0ae64887d8d1ea40
-    time: 1449527568
+    md5: b2f15b71b285d40335d44d8270b04b3f
+    time: 1450283586
   "/news/tags/workshops/index.html":
-    md5: 3379821484057c9694c353ca454bcb61
-    time: 1449527568
+    md5: 50315c4a68dbefbff3660139e1ad00cd
+    time: 1450283586
   "/overview/index.html":
-    md5: dc39fdfa0194942733bfe607432a28a3
-    time: 1450209031
+    md5: 1df7b65a41a6e4ac0c1e40db3f17a611
+    time: 1450283586
   "/where-we-work/index.html":
     md5: 02cdecdab592ab2a430e280cb4e1e7c0
     time: 1449527568
   "/partners/index.html":
-    md5: 42ef6afa9f3a65b75d87ce9bd30b1ab1
-    time: 1449527568
+    md5: 8f20f7271e3e2d3682d65266a755dde0
+    time: 1450283586
   "/careers/index.html":
     md5: 3e02fe368c433fd009e2e493b5cda998
     time: 1449527568
@@ -44,11 +44,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 919b26be76f318de2c95b1092f003bca
-    time: 1450209032
+    md5: 5129271fa180d6079b846803c1d9a6a8
+    time: 1450283587
   "/feed.xml":
-    md5: 7eade3b7ff3c5845f030f07f81b1047d
-    time: 1450209032
+    md5: 06cd47edbcde836524bd5de2706fbd9b
+    time: 1450283587
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -182,8 +182,11 @@ inventory:
     md5: dbdac7134111f309dbf73ba21dec05c0
     time: 1449596596
   "/styles/css/style.css":
-    md5: d61eb485232df040fd9eb8109690d402
-    time: 1449679856
+    md5: 5967a0171721c0a127c1afaf00cb73b8
+    time: 1450283587
+  "/assets/jerry_meeting.jpg":
+    md5: a74886b2ebe5232bd9757324cc456332
+    time: 1450283587
   "/assets/553663be5dde228f260018a5-1.jpg":
     md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447101340
@@ -193,6 +196,9 @@ inventory:
   "/assets/Banner 12-15.jpg":
     md5: ca30c0894ce588e66a79a08a10695619
     time: 1450206890
+  "/assets/TRG logo.JPG":
+    md5: 2ef566273e361856aef5d3080ba4f211
+    time: 1450283587
   "/assets/facts-1.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180197
@@ -202,9 +208,21 @@ inventory:
   "/assets/uganda_meeting.jpg":
     md5: 0b88fa9f88df11e0ed6bcdf5ece560ab
     time: 1450209032
+  "/assets/fondation merieux.JPG":
+    md5: f3bfdd0d9bd5490911ff50a69ceb888c
+    time: 1450283587
   "/assets/Banner-12-15.jpg":
     md5: ca30c0894ce588e66a79a08a10695619
     time: 1449526368
+  "/assets/palladium logo.PNG":
+    md5: 1d8ff0ef277250d3f202486cca0049e7
+    time: 1450283587
   "/assets/africa_farming.jpg":
     md5: 0cd7ac5fe0496c664f091e88ccda96ae
     time: 1449576967
+  "/assets/afenet logo.png":
+    md5: b94eae324a9c940bb2a8422ab9987bdf
+    time: 1450283587
+  "/assets/dai logo.jpg":
+    md5: a1648b9249790c4bba57a47674b2e397
+    time: 1450283587
