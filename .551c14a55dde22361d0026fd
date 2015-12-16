@@ -1,5 +1,5 @@
 ---
-time: 1450291679
+time: 1450301008
 inventory:
   "/indexhtml/index.html":
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
@@ -8,11 +8,11 @@ inventory:
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
     time: 1450289311
   "/news/index.html":
-    md5: 373e0b0ac81283f9dcc2d6b759ea8b56
-    time: 1450291674
+    md5: 0ce57da3d2f0de56e649103669072f3b
+    time: 1450301004
   "/news/challenges-commitments-at-central-and-east-africas-one-health-conference/index.html":
-    md5: 22a56e449fd5985f3d6df1cbae034048
-    time: 1450291674
+    md5: 10c67169d10de52f77b32f8b0f4741e6
+    time: 1450301004
   "/news/one-health-workshop/index.html":
     md5: b099109f5b8c1c49d165f3f1dd4628e5
     time: 1450283586
@@ -20,11 +20,17 @@ inventory:
     md5: 4247195741d32474c58e90ee3c13d8d1
     time: 1449527568
   "/news/tags/index.html":
-    md5: e0ed280b132fee11d101134de14a037d
-    time: 1450291674
+    md5: ef79fb8a9e2d65bb8aa8b43e3f59e1ef
+    time: 1450301004
+  "/news/tags/conference/index.html":
+    md5: 1e394820fd6dc01ce3248b18fcc609bf
+    time: 1450301004
+  "/news/tags/ohcea/index.html":
+    md5: 663086458f7704339bd12ac38af2524f
+    time: 1450301004
   "/news/tags/workshops/index.html":
-    md5: 91052e43a9d9838104036b2840c17d98
-    time: 1450291674
+    md5: 47a6173448949c19aa140e1f416187c6
+    time: 1450301004
   "/overview/index.html":
     md5: 1df7b65a41a6e4ac0c1e40db3f17a611
     time: 1450283586
@@ -47,11 +53,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 730a6508df4d4ae054f8c5b186542411
-    time: 1450291674
+    md5: 51377d23b0f2fd9da34a363030f08926
+    time: 1450301004
   "/feed.xml":
-    md5: 6b49d64627573958c1519cb786b2d400
-    time: 1450291674
+    md5: a9875122a1ff690939f585efb10dc592
+    time: 1450301004
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
