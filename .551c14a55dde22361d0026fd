@@ -1,5 +1,5 @@
 ---
-time: 1450289314
+time: 1450291679
 inventory:
   "/indexhtml/index.html":
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
@@ -8,8 +8,11 @@ inventory:
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
     time: 1450289311
   "/news/index.html":
-    md5: 1592898e197caf82befe5f7c4eb45e18
-    time: 1450283586
+    md5: 373e0b0ac81283f9dcc2d6b759ea8b56
+    time: 1450291674
+  "/news/challenges-commitments-at-central-and-east-africas-one-health-conference/index.html":
+    md5: 22a56e449fd5985f3d6df1cbae034048
+    time: 1450291674
   "/news/one-health-workshop/index.html":
     md5: b099109f5b8c1c49d165f3f1dd4628e5
     time: 1450283586
@@ -17,11 +20,11 @@ inventory:
     md5: 4247195741d32474c58e90ee3c13d8d1
     time: 1449527568
   "/news/tags/index.html":
-    md5: b2f15b71b285d40335d44d8270b04b3f
-    time: 1450283586
+    md5: e0ed280b132fee11d101134de14a037d
+    time: 1450291674
   "/news/tags/workshops/index.html":
-    md5: 50315c4a68dbefbff3660139e1ad00cd
-    time: 1450283586
+    md5: 91052e43a9d9838104036b2840c17d98
+    time: 1450291674
   "/overview/index.html":
     md5: 1df7b65a41a6e4ac0c1e40db3f17a611
     time: 1450283586
@@ -44,11 +47,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 4ffd4d13de4d7571bd67b07df25e1c9c
-    time: 1450289311
+    md5: 730a6508df4d4ae054f8c5b186542411
+    time: 1450291674
   "/feed.xml":
-    md5: af9399b0689a48d2ce00764805dcc1e7
-    time: 1450289312
+    md5: 6b49d64627573958c1519cb786b2d400
+    time: 1450291674
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -187,6 +190,9 @@ inventory:
   "/assets/jerry_meeting.jpg":
     md5: a74886b2ebe5232bd9757324cc456332
     time: 1450283587
+  "/assets/musenero_side.JPG":
+    md5: fd5c0372339fc82a002ac7d1d74dbfca
+    time: 1450291674
   "/assets/553663be5dde228f260018a5-1.jpg":
     md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447101340
