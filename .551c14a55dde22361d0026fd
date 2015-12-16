@@ -1,12 +1,12 @@
 ---
-time: 1450283593
+time: 1450283704
 inventory:
   "/indexhtml/index.html":
-    md5: 07e5816ef01b9fb8675b30cf0aa3687e
-    time: 1450283585
+    md5: b60fcbc914a6da4c5be9b6327e5ed302
+    time: 1450283702
   "/index.html":
-    md5: 07e5816ef01b9fb8675b30cf0aa3687e
-    time: 1450283585
+    md5: b60fcbc914a6da4c5be9b6327e5ed302
+    time: 1450283702
   "/news/index.html":
     md5: 1592898e197caf82befe5f7c4eb45e18
     time: 1450283586
@@ -44,11 +44,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 5129271fa180d6079b846803c1d9a6a8
-    time: 1450283587
+    md5: 7edc405536a472f1e4cefa8f3bf05f04
+    time: 1450283702
   "/feed.xml":
-    md5: 06cd47edbcde836524bd5de2706fbd9b
-    time: 1450283587
+    md5: 9966a0cf63e174be4601823671bf6127
+    time: 1450283702
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
