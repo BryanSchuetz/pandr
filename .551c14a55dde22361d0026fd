@@ -1,12 +1,12 @@
 ---
-time: 1450283843
+time: 1450289314
 inventory:
   "/indexhtml/index.html":
-    md5: b60fcbc914a6da4c5be9b6327e5ed302
-    time: 1450283702
+    md5: 94ed53bba80e31a54c4a0e8bc523f5c1
+    time: 1450289311
   "/index.html":
-    md5: b60fcbc914a6da4c5be9b6327e5ed302
-    time: 1450283702
+    md5: 94ed53bba80e31a54c4a0e8bc523f5c1
+    time: 1450289311
   "/news/index.html":
     md5: 1592898e197caf82befe5f7c4eb45e18
     time: 1450283586
@@ -29,8 +29,8 @@ inventory:
     md5: 02cdecdab592ab2a430e280cb4e1e7c0
     time: 1449527568
   "/partners/index.html":
-    md5: 390c931613f9c042c038f1b5efa79380
-    time: 1450283841
+    md5: a6941479f31c2154270a74e108eeb1d8
+    time: 1450289311
   "/careers/index.html":
     md5: 3e02fe368c433fd009e2e493b5cda998
     time: 1449527568
@@ -44,11 +44,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: ca1e9e456536275f318865cf7a38abab
-    time: 1450283842
+    md5: 4ffd4d13de4d7571bd67b07df25e1c9c
+    time: 1450289311
   "/feed.xml":
-    md5: 5d155c3328d659566fdd646a7b54c783
-    time: 1450283842
+    md5: af9399b0689a48d2ce00764805dcc1e7
+    time: 1450289312
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -226,3 +226,6 @@ inventory:
   "/assets/dai_logo.jpg":
     md5: a1648b9249790c4bba57a47674b2e397
     time: 1450283842
+  "/assets/kramer_midsize.jpg":
+    md5: ce21c40b2142a9549aa895fec60ec24d
+    time: 1450289312
