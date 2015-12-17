@@ -4,7 +4,8 @@
 <section class="article-list">
   {% for article in site.pages.news.posts %}
     <article id="">
-      <h2><a href="{{ article.url }}">{{ article.title }}</a></h2>
+      <h2 class="article-title"><a href="{{ article.url }}">{{ article.title }}</a></h2>
+      <p class="article-details">{{ article.date | date: "%B %Y" }}<br>{{  }}</p>
       <p>{{ article.excerpt }}</p>
       <a href="{{ article.url }}" class="btn-more btn btn-primary rounded">Read More</a>
     </article>

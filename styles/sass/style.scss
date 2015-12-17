@@ -128,17 +128,15 @@ div.container.nav-box.important{
   }
 }
 section.visual, section.hero-box, .gallery{
-  margin-top: 10px;
+  margin-top: 2px;
   @include responsive(wide-screens){
-    margin-top: 200px;
+    margin-top: 183px;
   }
 }
 section.no-header{
   @include responsive(wide-screens){
     margin-top: 80px;
   }
-}
-.gallery{
 }
 .hero-box{
   min-height: 45rem;
@@ -171,13 +169,10 @@ section.no-header{
 .footer-block{
   margin-bottom: 2.5rem;
 }
-.gallery {
-
-}
 
 .gallery-cell {
   width: 66%;
-  height: 400px;
+  height: 500px;
   margin-right: 10px;
   background: #8C8;
   counter-increment: gallery-cell;
@@ -221,4 +216,16 @@ a.gallery-cell:hover{
 }
 #cta p, #cta a, .gallery-cell--text h2, .gallery-cell--text p{
   -webkit-transform: translate3d(0, 0, 0);
+}
+.article-title a, .article-details{
+  font-family: "source-sans-pro", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+}
+.tag{
+  padding: .3rem .5rem;
+  color: $code-text-white;
+  background-color: $usaid-blue;
+  border-radius: 3px;
+  margin-right: .5rem;
+  font-weight: 400;
 }

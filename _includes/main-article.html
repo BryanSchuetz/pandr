@@ -1,6 +1,8 @@
 <section class="article-header">
-  <h2><a href="{{ current.url }}">{{ current.title }}</a></h2>
-  <p class="details date">{{ current.date | date: "%B %Y" }}</p>
+  <h2 class="article-title"><a href="{{ current.url }}">{{ current.title }}</a></h2>
+  <p class="article-details details date">{{ current.date | date: "%B %Y" }}<br> {% for tag in current.taxonomy.tags %}
+    <span class="tag">{{ tag }}</span>
+  {% endfor %}</p>
 </section>
 <section class="article-content">
   {{ current.body }}
