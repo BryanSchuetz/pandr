@@ -10,7 +10,7 @@
             <ul>
               {% for  page in site.pages %}
                 {% unless page.title == 'Treehouse' or page.title == 'Home' %}
-                  <li><a {% if current.url == page.url %}{{ 'class="current"' }}{% endif %}href="{{ page.url }}">{{ page.title }}</a></li>
+                  <li><a {% if current.url contains page.url %}{{ 'class="current"' }}{% endif %}href="{{ page.url }}">{{ page.title }}</a></li>
                 {% endunless %}
               {% endfor %}
               <!-- <li><a href="/">Home</a></li>

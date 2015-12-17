@@ -1,0 +1,23 @@
+{% capture content %}
+<section class="main no-header">
+      <div class="container">
+        <div class="main-section-text col-md-offset-1 col-md-10">
+          <h1>Careers</h1>
+          {{ current.body }}
+          <hr>
+          <h2 class="careers">Current Openings</h2>
+          <section class="article-list">
+            {% for article in site.pages.careers.posts %}
+              <article id="">
+                <h2 class="article-title"><a href="{{ article.url }}">{{ article.title }}</a></h2>
+                <p class="article-details">{{ article.date | date: "%B %Y" }}<br>{{  }}</p>
+                <p>{{ article.excerpt }}</p>
+                <a href="{{ article.meta.link }}" class="btn-more btn btn-primary rounded">Apply Now</a>
+              </article>
+            {% endfor %}
+          </section>
+        </div>
+      </div>
+  </section>
+{% endcapture %}
+{% include 'layouts/default' %}
