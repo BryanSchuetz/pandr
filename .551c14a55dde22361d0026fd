@@ -1,5 +1,5 @@
 ---
-time: 1450301008
+time: 1450372516
 inventory:
   "/indexhtml/index.html":
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
@@ -8,35 +8,35 @@ inventory:
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
     time: 1450289311
   "/news/index.html":
-    md5: 0ce57da3d2f0de56e649103669072f3b
-    time: 1450301004
+    md5: 28836dc6cb7739f2125a49ca2ceb93df
+    time: 1450372509
   "/news/challenges-commitments-at-central-and-east-africas-one-health-conference/index.html":
-    md5: 10c67169d10de52f77b32f8b0f4741e6
-    time: 1450301004
+    md5: e6686666f2e5b6d21275ea7f67215b7c
+    time: 1450372510
   "/news/one-health-workshop/index.html":
-    md5: b099109f5b8c1c49d165f3f1dd4628e5
-    time: 1450283586
+    md5: 6b74b23d87ae29470816eef6fd2126d1
+    time: 1450372510
   "/news/archive/index.html":
-    md5: 4247195741d32474c58e90ee3c13d8d1
-    time: 1449527568
+    md5: 39bb5ada057d3ac71580985e58176b6a
+    time: 1450372510
   "/news/tags/index.html":
-    md5: ef79fb8a9e2d65bb8aa8b43e3f59e1ef
-    time: 1450301004
-  "/news/tags/conference/index.html":
-    md5: 1e394820fd6dc01ce3248b18fcc609bf
-    time: 1450301004
+    md5: a6db9ca80007f06dd68f2c7aec165eeb
+    time: 1450372510
   "/news/tags/ohcea/index.html":
-    md5: 663086458f7704339bd12ac38af2524f
-    time: 1450301004
+    md5: 61cbd2de8707d88d771650277f2d88dc
+    time: 1450372510
+  "/news/tags/conference/index.html":
+    md5: a2c11e715ddfffff219dd38325127b2e
+    time: 1450372510
   "/news/tags/workshops/index.html":
-    md5: 47a6173448949c19aa140e1f416187c6
-    time: 1450301004
+    md5: ab0ec367055a6170ef73fdcc76a5c2b3
+    time: 1450372510
   "/overview/index.html":
     md5: 1df7b65a41a6e4ac0c1e40db3f17a611
     time: 1450283586
   "/where-we-work/index.html":
-    md5: 02cdecdab592ab2a430e280cb4e1e7c0
-    time: 1449527568
+    md5: c9df786ae9f86387a786e2d92d102931
+    time: 1450372510
   "/partners/index.html":
     md5: a6941479f31c2154270a74e108eeb1d8
     time: 1450289311
@@ -53,11 +53,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 51377d23b0f2fd9da34a363030f08926
-    time: 1450301004
+    md5: d3c0d75653bd247c01e119fbcac4e606
+    time: 1450372510
   "/feed.xml":
-    md5: a9875122a1ff690939f585efb10dc592
-    time: 1450301004
+    md5: b27302f98fbd3ac72c27aa73a61fb6a7
+    time: 1450372510
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -190,15 +190,15 @@ inventory:
   "/js/site.js":
     md5: dbdac7134111f309dbf73ba21dec05c0
     time: 1449596596
-  "/styles/css/style.css":
-    md5: 5967a0171721c0a127c1afaf00cb73b8
-    time: 1450283587
   "/assets/jerry_meeting.jpg":
     md5: a74886b2ebe5232bd9757324cc456332
     time: 1450283587
-  "/assets/musenero_side.JPG":
-    md5: fd5c0372339fc82a002ac7d1d74dbfca
-    time: 1450291674
+  "/assets/small.jpeg":
+    md5: 0d57ae7e836f7664ef510678df9de882
+    time: 1450372510
+  "/styles/css/style.css":
+    md5: 67e10faf94eca939c0220173494d9afd
+    time: 1450372510
   "/assets/553663be5dde228f260018a5-1.jpg":
     md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447101340
