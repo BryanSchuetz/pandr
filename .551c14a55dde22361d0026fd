@@ -1,5 +1,5 @@
 ---
-time: 1452533606
+time: 1452533713
 inventory:
   "/indexhtml/index.html":
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
@@ -91,6 +91,15 @@ inventory:
   "/where-we-work/indonesia/index.html":
     md5: 823fdd2363dad681a4e53294bd20d010
     time: 1452533604
+  "/where-we-work/laos/index.html":
+    md5: 3c9a193c330de89de3f2802721b98c33
+    time: 1452533711
+  "/where-we-work/thailand/index.html":
+    md5: 707dfae0649c58db54253e6c1ea3b112
+    time: 1452533711
+  "/where-we-work/vietnam/index.html":
+    md5: 3d3351ef50b4ae197ff27f06c8790c77
+    time: 1452533711
   "/CNAME":
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
@@ -98,8 +107,8 @@ inventory:
     md5: de33be74b40e2b0cbf67cdcaf5a2cb6e
     time: 1450383161
   "/feed.xml":
-    md5: b869a61054ddfe99ec339115e48ec618
-    time: 1452533604
+    md5: 6401da9ef762983a62a2377474459574
+    time: 1452533711
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
