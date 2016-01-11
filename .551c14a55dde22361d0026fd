@@ -1,5 +1,5 @@
 ---
-time: 1452533713
+time: 1452533853
 inventory:
   "/indexhtml/index.html":
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
@@ -58,45 +58,45 @@ inventory:
   "/news/subscribe/index.html":
     md5: 1d1abbbcbd43bd83d6984862d2000d76
     time: 1450383161
-  "/where-we-work/uganda/index.html":
-    md5: 6c15da10d588425d418d58b859157bda
-    time: 1452527887
+  "/where-we-work/bangladesh/index.html":
+    md5: 9466c855fef59e0eacd9e0bbdd89e3d9
+    time: 1452533604
   "/where-we-work/cameroon/index.html":
     md5: f89d682ff77d275b86324b72546c5899
     time: 1452527954
   "/where-we-work/cote-divoire/index.html":
     md5: 66cebbaa38b72de6ed5c8f7beda782b6
     time: 1452533224
+  "/where-we-work/ethiopia/index.html":
+    md5: 9b38d9714c851a807b964df65bdd4c1b
+    time: 1452533511
+  "/where-we-work/indonesia/index.html":
+    md5: 823fdd2363dad681a4e53294bd20d010
+    time: 1452533604
+  "/where-we-work/kenya/index.html":
+    md5: 99615e8aad9271278f7e70e1aba8e01e
+    time: 1452533511
+  "/where-we-work/laos/index.html":
+    md5: 3c9a193c330de89de3f2802721b98c33
+    time: 1452533711
   "/where-we-work/liberia/index.html":
     md5: cd7b385f13b7e9afe159bb10f40e2840
     time: 1452533224
   "/where-we-work/mali/index.html":
     md5: 397aeb44b3312bfe774e21287ea06f60
     time: 1452533346
-  "/where-we-work/senegal/index.html":
-    md5: f8e1995a65b8ac7da31bd9cfeb6380cd
-    time: 1452533347
-  "/where-we-work/ethiopia/index.html":
-    md5: 9b38d9714c851a807b964df65bdd4c1b
-    time: 1452533511
-  "/where-we-work/kenya/index.html":
-    md5: 99615e8aad9271278f7e70e1aba8e01e
-    time: 1452533511
   "/where-we-work/rwanda/index.html":
     md5: 696350a1ea95150a1f65849ed21aa81d
     time: 1452533511
-  "/where-we-work/bangladesh/index.html":
-    md5: 9466c855fef59e0eacd9e0bbdd89e3d9
-    time: 1452533604
-  "/where-we-work/indonesia/index.html":
-    md5: 823fdd2363dad681a4e53294bd20d010
-    time: 1452533604
-  "/where-we-work/laos/index.html":
-    md5: 3c9a193c330de89de3f2802721b98c33
-    time: 1452533711
+  "/where-we-work/senegal/index.html":
+    md5: f8e1995a65b8ac7da31bd9cfeb6380cd
+    time: 1452533347
   "/where-we-work/thailand/index.html":
     md5: 707dfae0649c58db54253e6c1ea3b112
     time: 1452533711
+  "/where-we-work/uganda/index.html":
+    md5: 6c15da10d588425d418d58b859157bda
+    time: 1452527887
   "/where-we-work/vietnam/index.html":
     md5: 3d3351ef50b4ae197ff27f06c8790c77
     time: 1452533711
@@ -250,6 +250,9 @@ inventory:
   "/styles/css/style.css":
     md5: 1c55b50007e55f0380c9c757c295e50c
     time: 1450383161
+  "/assets/Ten Year Plan for Health and Social Development.pdf":
+    md5: 97bb76911a597e1a9dff5cbe1ac523a0
+    time: 1452533853
   "/assets/553663be5dde228f260018a5-1.jpg":
     md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447101340
