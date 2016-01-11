@@ -1,5 +1,5 @@
 ---
-time: 1452534011
+time: 1452534749
 inventory:
   "/indexhtml/index.html":
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
@@ -59,8 +59,8 @@ inventory:
     md5: 1d1abbbcbd43bd83d6984862d2000d76
     time: 1450383161
   "/where-we-work/bangladesh/index.html":
-    md5: 9466c855fef59e0eacd9e0bbdd89e3d9
-    time: 1452533604
+    md5: 57476809a66ce6c1aea57204682648e6
+    time: 1452534747
   "/where-we-work/cameroon/index.html":
     md5: f89d682ff77d275b86324b72546c5899
     time: 1452527954
@@ -107,8 +107,8 @@ inventory:
     md5: de33be74b40e2b0cbf67cdcaf5a2cb6e
     time: 1450383161
   "/feed.xml":
-    md5: 0595a30a570105ca6c5bce638df9e1c3
-    time: 1452534010
+    md5: 0ad3bcc5f1c354da956610d18ed25145
+    time: 1452534748
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
