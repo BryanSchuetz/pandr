@@ -1,5 +1,5 @@
 ---
-time: 1452527888
+time: 1452527955
 inventory:
   "/indexhtml/index.html":
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
@@ -61,6 +61,9 @@ inventory:
   "/where-we-work/uganda/index.html":
     md5: 6c15da10d588425d418d58b859157bda
     time: 1452527887
+  "/where-we-work/cameroon/index.html":
+    md5: f89d682ff77d275b86324b72546c5899
+    time: 1452527954
   "/CNAME":
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
@@ -68,8 +71,8 @@ inventory:
     md5: de33be74b40e2b0cbf67cdcaf5a2cb6e
     time: 1450383161
   "/feed.xml":
-    md5: 577a4cc3ffee81fcafbade0543a2d424
-    time: 1452527887
+    md5: a0f17953d4649ffc5af5e8e1d70be8b4
+    time: 1452527954
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
