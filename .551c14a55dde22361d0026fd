@@ -1,5 +1,5 @@
 ---
-time: 1452533225
+time: 1452533348
 inventory:
   "/indexhtml/index.html":
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
@@ -70,6 +70,12 @@ inventory:
   "/where-we-work/liberia/index.html":
     md5: cd7b385f13b7e9afe159bb10f40e2840
     time: 1452533224
+  "/where-we-work/mali/index.html":
+    md5: 397aeb44b3312bfe774e21287ea06f60
+    time: 1452533346
+  "/where-we-work/senegal/index.html":
+    md5: f8e1995a65b8ac7da31bd9cfeb6380cd
+    time: 1452533347
   "/CNAME":
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
@@ -77,8 +83,8 @@ inventory:
     md5: de33be74b40e2b0cbf67cdcaf5a2cb6e
     time: 1450383161
   "/feed.xml":
-    md5: 80424e2cc91a8d4a232de33e5ec8435c
-    time: 1452533224
+    md5: db9a508705580c257e51a014a1b33d78
+    time: 1452533347
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
