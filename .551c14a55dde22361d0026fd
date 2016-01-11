@@ -1,5 +1,5 @@
 ---
-time: 1452533943
+time: 1452534011
 inventory:
   "/indexhtml/index.html":
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
@@ -83,8 +83,8 @@ inventory:
     md5: cd7b385f13b7e9afe159bb10f40e2840
     time: 1452533224
   "/where-we-work/mali/index.html":
-    md5: 2e461b042a3c659e1feb12124b38b004
-    time: 1452533942
+    md5: 4d19daef7975f8f12f058aae93346fde
+    time: 1452534010
   "/where-we-work/rwanda/index.html":
     md5: 696350a1ea95150a1f65849ed21aa81d
     time: 1452533511
@@ -107,8 +107,8 @@ inventory:
     md5: de33be74b40e2b0cbf67cdcaf5a2cb6e
     time: 1450383161
   "/feed.xml":
-    md5: 8ca59086a5e40a06bd202e38631e55e3
-    time: 1452533942
+    md5: 0595a30a570105ca6c5bce638df9e1c3
+    time: 1452534010
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
