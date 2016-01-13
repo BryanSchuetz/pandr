@@ -1,5 +1,5 @@
 ---
-time: 1452534749
+time: 1452700653
 inventory:
   "/indexhtml/index.html":
     md5: 94ed53bba80e31a54c4a0e8bc523f5c1
@@ -55,6 +55,9 @@ inventory:
   "/treehouse/index.html":
     md5: 1f5a5d1903d6aa55b4a077824ad9212c
     time: 1449527568
+  "/overview/institutional-capacity-building-icb/index.html":
+    md5: fa3d0d313f27fcc1982f25b2e6e5c364
+    time: 1452700651
   "/news/subscribe/index.html":
     md5: 1d1abbbcbd43bd83d6984862d2000d76
     time: 1450383161
@@ -107,8 +110,8 @@ inventory:
     md5: de33be74b40e2b0cbf67cdcaf5a2cb6e
     time: 1450383161
   "/feed.xml":
-    md5: 0ad3bcc5f1c354da956610d18ed25145
-    time: 1452534748
+    md5: 7bd65ec98efe2fc486f39023f9b7dc8c
+    time: 1452700651
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
