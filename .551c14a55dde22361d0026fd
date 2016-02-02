@@ -1,12 +1,12 @@
 ---
-time: 1454416701
+time: 1454416760
 inventory:
   "/indexhtml/index.html":
-    md5: 37178021f3efb1285883d7684addb9b2
-    time: 1454416698
+    md5: b93b90f7c358d0060192ef6898caebb5
+    time: 1454416758
   "/index.html":
-    md5: 37178021f3efb1285883d7684addb9b2
-    time: 1454416698
+    md5: b93b90f7c358d0060192ef6898caebb5
+    time: 1454416758
   "/news/index.html":
     md5: ad737b41beabaaae385db504ea3adff8
     time: 1450383160
@@ -110,8 +110,8 @@ inventory:
     md5: de33be74b40e2b0cbf67cdcaf5a2cb6e
     time: 1450383161
   "/feed.xml":
-    md5: 86fc41b7bf6ca35b3770555edc419f14
-    time: 1454416700
+    md5: 0910daf7b636b61f36aff61537a7a226
+    time: 1454416759
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -271,9 +271,6 @@ inventory:
   "/assets/facts-1.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180197
-  "/assets/Uganda_Banner_2.jpg":
-    md5: d67ac7fc0cb720fba1566b81f2c6a3de
-    time: 1449576967
   "/assets/uganda_meeting.jpg":
     md5: 0b88fa9f88df11e0ed6bcdf5ece560ab
     time: 1450209032
