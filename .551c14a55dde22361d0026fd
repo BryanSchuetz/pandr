@@ -1,120 +1,120 @@
 ---
-time: 1454417383
+time: 1454686008
 inventory:
   "/indexhtml/index.html":
-    md5: b93b90f7c358d0060192ef6898caebb5
-    time: 1454416758
+    md5: 0be9da33c7a28a0e7d68a710ec075762
+    time: 1454685990
   "/index.html":
-    md5: b93b90f7c358d0060192ef6898caebb5
-    time: 1454416758
+    md5: 0be9da33c7a28a0e7d68a710ec075762
+    time: 1454685990
   "/news/index.html":
-    md5: a2285c485d3e952609ab68d1b22a3c92
-    time: 1454417286
+    md5: 002b4076a9eec40da56c1fb45a51e83d
+    time: 1454685991
   "/news/engaging-the-east-african-community-secretariat/index.html":
-    md5: 818d3e770f01c7d9aaa963e30bafc0a9
-    time: 1454417171
+    md5: f0fde3aef220e7a75ad84c3e1575f01b
+    time: 1454685991
   "/news/challenges-commitments-at-central-and-east-africas-one-health-conference/index.html":
-    md5: 82bf1d92621dfa6c38bb24e7779a9f2e
-    time: 1454417380
+    md5: 6cdf8d7e5aec4edd444f7b75df930fe3
+    time: 1454685991
   "/news/one-health-workshop/index.html":
-    md5: c4068cc4d7996874de06f1eae566257f
-    time: 1450383160
+    md5: ebbb1c996318978d434af28cd33b33e9
+    time: 1454685991
   "/news/archive/index.html":
-    md5: fb585dfb55b815304f5998fa67ab0341
-    time: 1450383160
+    md5: 2efac7ae6df15f68799dea1a1b8fc286
+    time: 1454685991
   "/news/tags/index.html":
-    md5: 076b3e1d26d8bb0cb2d0a95f8db250c8
-    time: 1454417286
+    md5: 355e0439e7a6243c0e4dc143fc6ea84f
+    time: 1454685991
   "/news/tags/ohcea/index.html":
-    md5: bfbfcec407bcae0fa1a2b64cd5f114cb
-    time: 1454417286
+    md5: 854477b077e929703afc6dce0047da92
+    time: 1454685991
   "/news/tags/conference/index.html":
-    md5: 01e275a54dbfb938eb7be837655b8825
-    time: 1454417286
+    md5: 309e89dbb6ea9b9ece014a095fdda7ae
+    time: 1454685991
   "/news/tags/workshops/index.html":
-    md5: 683e236c5f2e5e6b74f6bbfa65b8d06f
-    time: 1454417286
+    md5: 9339d04e628bf9cfb0150b3566468cb6
+    time: 1454685991
   "/overview/index.html":
-    md5: 9ec5f82b560ca82665707750ddcc10da
-    time: 1450383160
+    md5: 493d736deab0b4f42b76d5316e55a2af
+    time: 1454685991
   "/where-we-work/index.html":
-    md5: e6e6593d81300915691ef9f704387d75
-    time: 1450383160
+    md5: a2a85f3be12d9c80de43772a9031ebd5
+    time: 1454685991
   "/partners/index.html":
-    md5: 2c8cf3efde3aa1c925371519b6d27ddf
-    time: 1450383160
+    md5: c55c4f8894d92bf4ee2628fafe8f65be
+    time: 1454685991
   "/careers/index.html":
-    md5: 585d0f26bbbac589125ca0d7b5c7a2a2
-    time: 1450383160
+    md5: c19e42af0ef953ef483597fb09d27a32
+    time: 1454685991
   "/careers/national-one-health-technical-advisor/index.html":
-    md5: 3866a8aa6bcc3630554763d623442656
-    time: 1450383160
+    md5: d4854793e2f34fe3c59b07d9584740f1
+    time: 1454685991
   "/careers/archive/index.html":
-    md5: 98dde785006a85a458367b3c3413257a
-    time: 1450383160
+    md5: a99958bb2e81a96eeb8bf07a2499f98a
+    time: 1454685991
   "/careers/tags/index.html":
-    md5: 2192929de4f67e3a2885e39291f27b51
-    time: 1454417286
+    md5: 3d749ef31f3f9bb4582831c3f151e019
+    time: 1454685992
   "/treehouse/index.html":
-    md5: 1f5a5d1903d6aa55b4a077824ad9212c
-    time: 1449527568
+    md5: cfb3e3fb66ee5b78fd62722b402c2f2b
+    time: 1454685992
   "/overview/institutional-capacity-building-icb/index.html":
-    md5: 66ebbb865bba8d34485afb24fd8f151b
-    time: 1452702121
+    md5: dbb57982cf8296e3d1bde0b1698fcb8c
+    time: 1454685992
   "/news/subscribe/index.html":
-    md5: 1d1abbbcbd43bd83d6984862d2000d76
-    time: 1450383161
+    md5: 3c671ffe791b132bd5a75847a2f311ad
+    time: 1454685992
   "/where-we-work/bangladesh/index.html":
-    md5: 57476809a66ce6c1aea57204682648e6
-    time: 1452534747
+    md5: 5c7feeda11694b04fc842aec22797a33
+    time: 1454685992
   "/where-we-work/cameroon/index.html":
-    md5: f89d682ff77d275b86324b72546c5899
-    time: 1452527954
+    md5: 6fc46893886e3903faf2c2f748451e28
+    time: 1454685992
   "/where-we-work/cote-divoire/index.html":
-    md5: 66cebbaa38b72de6ed5c8f7beda782b6
-    time: 1452533224
+    md5: 4abd97882bc5c6e2eab5005f71c5b2a5
+    time: 1454685992
   "/where-we-work/ethiopia/index.html":
-    md5: 9b38d9714c851a807b964df65bdd4c1b
-    time: 1452533511
+    md5: 2101c2ff90dbd994d671190fb063a4c3
+    time: 1454685992
   "/where-we-work/indonesia/index.html":
-    md5: 823fdd2363dad681a4e53294bd20d010
-    time: 1452533604
+    md5: b52ca649683e46838652c04c8e057812
+    time: 1454685992
   "/where-we-work/kenya/index.html":
-    md5: 99615e8aad9271278f7e70e1aba8e01e
-    time: 1452533511
+    md5: cdbbb0e725ba77dc78c3649daf13611b
+    time: 1454685992
   "/where-we-work/laos/index.html":
-    md5: 3c9a193c330de89de3f2802721b98c33
-    time: 1452533711
+    md5: c74c2cbe64573102bd3e791b03e758a4
+    time: 1454685992
   "/where-we-work/liberia/index.html":
-    md5: cd7b385f13b7e9afe159bb10f40e2840
-    time: 1452533224
+    md5: 5037fcb27d99aa8a314cc828f312a04b
+    time: 1454685992
   "/where-we-work/mali/index.html":
-    md5: 4d19daef7975f8f12f058aae93346fde
-    time: 1452534010
+    md5: 647727c2ced662e38e1dfb39b828b512
+    time: 1454685992
   "/where-we-work/rwanda/index.html":
-    md5: 696350a1ea95150a1f65849ed21aa81d
-    time: 1452533511
+    md5: 12f079456ee587a211256559eb25db1c
+    time: 1454685992
   "/where-we-work/senegal/index.html":
-    md5: f8e1995a65b8ac7da31bd9cfeb6380cd
-    time: 1452533347
+    md5: 345f69432a1de811617a17784b0b16d4
+    time: 1454685992
   "/where-we-work/thailand/index.html":
-    md5: 707dfae0649c58db54253e6c1ea3b112
-    time: 1452533711
+    md5: 804ffe24a6ecb0be899bfc83a27292d3
+    time: 1454685992
   "/where-we-work/uganda/index.html":
-    md5: 6c15da10d588425d418d58b859157bda
-    time: 1452527887
+    md5: 5ca0243943b94b6541867c70fcf5a0e5
+    time: 1454685992
   "/where-we-work/vietnam/index.html":
-    md5: 3d3351ef50b4ae197ff27f06c8790c77
-    time: 1452533711
+    md5: 840df4b8b0462f73a1935f5a0ff14e60
+    time: 1454685992
   "/CNAME":
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: d6f963486e9fbd66cde21ddd0490c650
-    time: 1454417381
+    md5: fdf28f0c13833ae5064a605f16fae9f3
+    time: 1454685993
   "/feed.xml":
-    md5: 9464c9ed57f0cdd94dcb2b5291eccbef
-    time: 1454417381
+    md5: 1c72b3b4641fdccfa241bb79388a0c21
+    time: 1454685993
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -253,12 +253,15 @@ inventory:
   "/assets/small.jpeg":
     md5: 0d57ae7e836f7664ef510678df9de882
     time: 1450372510
-  "/styles/css/style.css":
-    md5: 1c55b50007e55f0380c9c757c295e50c
-    time: 1450383161
   "/assets/Ten Year Plan for Health and Social Development.pdf":
     md5: 97bb76911a597e1a9dff5cbe1ac523a0
     time: 1452533853
+  "/assets/map.jpg":
+    md5: f06539fcaa026c7fea43adef2a924dfe
+    time: 1454685993
+  "/styles/css/style.css":
+    md5: 7fad027bc9f8b1877692449186bf7112
+    time: 1454685993
   "/assets/553663be5dde228f260018a5-1.jpg":
     md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447101340
