@@ -98,7 +98,7 @@ a:hover{
 // Primary-Content
 .no-header{
   padding-top: 0px;
-  @include responsive(wide-screens){
+  @include responsive(medium-screens){
     padding-top: 130px;
   }
 }
@@ -129,12 +129,13 @@ div.container.nav-box.important{
 }
 section.visual, section.hero-box, .gallery{
   margin-top: 2px;
-  @include responsive(wide-screens){
+  @include responsive(medium-screens){
     margin-top: 183px;
+
   }
 }
 section.no-header{
-  @include responsive(wide-screens){
+  @include responsive(medium-screens){
     margin-top: 80px;
   }
 }
