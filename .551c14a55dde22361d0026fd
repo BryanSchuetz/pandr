@@ -1,12 +1,12 @@
 ---
-time: 1467144738
+time: 1467145932
 inventory:
   "/indexhtml/index.html":
-    md5: ee49a7c8b65cc9ad4e75ba987690fd3c
-    time: 1454688100
+    md5: 5f2f38b0ebdde96c03eac60b09790d5e
+    time: 1467145928
   "/index.html":
-    md5: ee49a7c8b65cc9ad4e75ba987690fd3c
-    time: 1454688100
+    md5: 5f2f38b0ebdde96c03eac60b09790d5e
+    time: 1467145928
   "/news/index.html":
     md5: d626c5881d0e95328837bb05de99dd3f
     time: 1467144727
@@ -173,8 +173,8 @@ inventory:
     md5: 63831b6e3c3b4a92d779596701b26e83
     time: 1467144728
   "/feed.xml":
-    md5: ecd5ddfff5f6e3ee24a20fe474d2b130
-    time: 1467144728
+    md5: 482564be752364b683d54fd8053948bd
+    time: 1467145930
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -340,30 +340,36 @@ inventory:
   "/assets/facts-1.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180197
+  "/assets/Banner-12-15.jpg":
+    md5: ca30c0894ce588e66a79a08a10695619
+    time: 1449526368
   "/assets/uganda_meeting.jpg":
     md5: 0b88fa9f88df11e0ed6bcdf5ece560ab
     time: 1450209032
   "/assets/fondation merieux.JPG":
     md5: f3bfdd0d9bd5490911ff50a69ceb888c
     time: 1450283587
-  "/assets/Banner-12-15.jpg":
-    md5: ca30c0894ce588e66a79a08a10695619
-    time: 1449526368
-  "/assets/palladium logo.PNG":
-    md5: 1d8ff0ef277250d3f202486cca0049e7
-    time: 1450283587
   "/assets/africa_farming.jpg":
     md5: 0cd7ac5fe0496c664f091e88ccda96ae
     time: 1449576967
+  "/assets/palladium logo.PNG":
+    md5: 1d8ff0ef277250d3f202486cca0049e7
+    time: 1450283587
   "/assets/afenet logo.png":
     md5: b94eae324a9c940bb2a8422ab9987bdf
     time: 1450283587
-  "/assets/dai_logo.jpg":
-    md5: a1648b9249790c4bba57a47674b2e397
-    time: 1450283842
   "/assets/kramer_midsize.jpg":
     md5: ce21c40b2142a9549aa895fec60ec24d
     time: 1450289312
+  "/assets/dai_logo.jpg":
+    md5: a1648b9249790c4bba57a47674b2e397
+    time: 1450283842
   "/assets/thai_pandr.jpg":
     md5: 101ccff466f11aa7a3619ae71d3846d7
     time: 1454416700
+  "/assets/bangladesh_one health.jpg":
+    md5: 081f103bd1b22def29ad64a382095893
+    time: 1467145930
+  "/assets/bangladesh.jpg":
+    md5: 4d736cae34a62f270a210d97a696a61a
+    time: 1467145930
