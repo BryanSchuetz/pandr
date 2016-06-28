@@ -1,5 +1,5 @@
 ---
-time: 1467144140
+time: 1467144196
 inventory:
   "/indexhtml/index.html":
     md5: ee49a7c8b65cc9ad4e75ba987690fd3c
@@ -8,8 +8,8 @@ inventory:
     md5: ee49a7c8b65cc9ad4e75ba987690fd3c
     time: 1454688100
   "/news/index.html":
-    md5: db94f110b40b8d6436772ee47d75ac39
-    time: 1467144131
+    md5: 8e20ab006373c1e6ba24628bddf458b4
+    time: 1467144188
   "/news/animal-and-human-health-surveillance-in-liberia/index.html":
     md5: de73f8154edfba007058a325541c0373
     time: 1467143990
@@ -20,8 +20,8 @@ inventory:
     md5: 1229187e36bb41745f9c1d639155bb9b
     time: 1467143085
   "/news/engaging-the-east-african-community-secretariat/index.html":
-    md5: f0fde3aef220e7a75ad84c3e1575f01b
-    time: 1454685991
+    md5: c47da6f161a6f94ac91bb62565022c71
+    time: 1467144188
   "/news/planning-epidemic-response-in-cameroon/index.html":
     md5: 861a4a02edcbf6012d2a78f9fa1fadb6
     time: 1467144131
@@ -35,44 +35,44 @@ inventory:
     md5: 2efac7ae6df15f68799dea1a1b8fc286
     time: 1454685991
   "/news/tags/index.html":
-    md5: d974dd2ffc8b59ecd8ee4f0ed94d4c7c
-    time: 1467144131
+    md5: 698a7d9171f608aeb2cf7431f621bef1
+    time: 1467144188
   "/news/tags/liberia/index.html":
-    md5: cd508c8fe6a2aafc26898262582c6449
-    time: 1467144131
+    md5: 2fa8caac494e75c325bda313e9e7aded
+    time: 1467144188
   "/news/tags/private-sector/index.html":
-    md5: bbc60569cff78a29ce00fde4ac7aa7d8
-    time: 1467144131
+    md5: b68974e474dc15ff3eff9cffcc74c006
+    time: 1467144188
   "/news/tags/kenya/index.html":
-    md5: eaa3608f6617efc80ea3d8fb2df42cf7
-    time: 1467144131
+    md5: b43d34836a7c75bedec9dbe9a6a4d653
+    time: 1467144188
   "/news/tags/policy/index.html":
-    md5: 1d88c0e3410b77ff6ae43420299a0dfb
-    time: 1467144131
+    md5: cbad86b27582079adcd6b5cd7a231778
+    time: 1467144188
   "/news/tags/cameroon/index.html":
-    md5: 95403ffa6dcd046493999e2e3bcbd622
-    time: 1467144131
+    md5: 1a957b4dcb06cddcc7e3d2b8fc62fcf5
+    time: 1467144188
   "/news/tags/h5n1/index.html":
-    md5: de26c2bbb818b06eca60587667ca1a8a
-    time: 1467144131
+    md5: 4d1fc041cf009ee206869d7bcfabaf18
+    time: 1467144188
   "/news/tags/avian-flu/index.html":
-    md5: b9ee7d372b9fc7eb756f385f218961ad
-    time: 1467144131
+    md5: c299aa1c9e3a12028f32b2353d3567dd
+    time: 1467144188
   "/news/tags/mprp/index.html":
-    md5: c246faf113477df61b2612ba5084010a
-    time: 1467144131
+    md5: 0e6ec9c34abd3c37369368b7f15eb126
+    time: 1467144188
   "/news/tags/one-health-expertise/index.html":
-    md5: a4fcb7b14666933e62f0b9510f355529
-    time: 1467144131
+    md5: 72c24184463dae326adc471ca72afafb
+    time: 1467144188
   "/news/tags/ohcea/index.html":
-    md5: bb2204a9ddfb3b7387e65a1b396d68cb
-    time: 1467144131
+    md5: b0a210eba304ac586b046e6046a885c2
+    time: 1467144188
   "/news/tags/conference/index.html":
-    md5: 7c22d12934c2611451ecb6c3eaaf0fc8
-    time: 1467144131
+    md5: 4fa13fae5a5b665379a129c4bcd4fb5f
+    time: 1467144188
   "/news/tags/workshops/index.html":
-    md5: 2b05a92176c80651e46d7541a93ff5b0
-    time: 1467144131
+    md5: e71a8e546a540afd780bf2b5feb46e29
+    time: 1467144188
   "/overview/index.html":
     md5: 493d736deab0b4f42b76d5316e55a2af
     time: 1454685991
@@ -92,8 +92,8 @@ inventory:
     md5: a99958bb2e81a96eeb8bf07a2499f98a
     time: 1454685991
   "/careers/tags/index.html":
-    md5: 60f49911d788f6136db25076bae120bf
-    time: 1467144131
+    md5: bfc74316512be69f2d9e1c8e970de705
+    time: 1467144188
   "/treehouse/index.html":
     md5: cfb3e3fb66ee5b78fd62722b402c2f2b
     time: 1454685992
@@ -149,11 +149,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 7c887f4fdfa48c68419d669678858635
-    time: 1467144132
+    md5: 12f84ea0b7b0e08490da724e8fc6f2d5
+    time: 1467144189
   "/feed.xml":
-    md5: fecddb137a0fbdb482e5cbae7ce53c00
-    time: 1467144132
+    md5: 4b3d9e4b68f53a8de2f1a20e0d46aa3c
+    time: 1467144189
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
