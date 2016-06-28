@@ -1,5 +1,5 @@
 ---
-time: 1467143993
+time: 1467144122
 inventory:
   "/indexhtml/index.html":
     md5: ee49a7c8b65cc9ad4e75ba987690fd3c
@@ -8,8 +8,11 @@ inventory:
     md5: ee49a7c8b65cc9ad4e75ba987690fd3c
     time: 1454688100
   "/news/index.html":
-    md5: b4ffeb3618bc947e6311de0df8da8cab
-    time: 1467143965
+    md5: d83ae2cd4aaf953ef904b894e8ab1ca6
+    time: 1467144113
+  "/news/planning-epidemic-response-in-cameroon/index.html":
+    md5: a37ff9000b9b92e0052902476fdc1ec9
+    time: 1467144113
   "/news/animal-and-human-health-surveillance-in-liberia/index.html":
     md5: de73f8154edfba007058a325541c0373
     time: 1467143990
@@ -32,29 +35,44 @@ inventory:
     md5: 2efac7ae6df15f68799dea1a1b8fc286
     time: 1454685991
   "/news/tags/index.html":
-    md5: 28570ce9bd7f4b20b1368d7bb4db1a68
-    time: 1467143965
+    md5: 5193f2d805acfc2de4c7257b5d5598cb
+    time: 1467144113
+  "/news/tags/cameroon/index.html":
+    md5: 29f0d6858ca1086d722fd00fd629ca92
+    time: 1467144113
+  "/news/tags/h5n1/index.html":
+    md5: 24f122a939ce5fa2f87cefb1e36d35cc
+    time: 1467144113
+  "/news/tags/avian-flu/index.html":
+    md5: d197ad7ddf5a9afde1ece7a57656aa52
+    time: 1467144113
+  "/news/tags/mprp/index.html":
+    md5: 6f305ba0657dfe2789d1e0bed5cf60f6
+    time: 1467144113
+  "/news/tags/one-health-expertise/index.html":
+    md5: 49bbeb02f4f0232b7d93ad3aae175e14
+    time: 1467144114
   "/news/tags/liberia/index.html":
-    md5: b91b26b21ef7a8d62171687c62020feb
-    time: 1467143990
+    md5: e43879de66725589eaf5f5746890bbd3
+    time: 1467144114
   "/news/tags/private-sector/index.html":
-    md5: 28c21d4d778aa47a0b8aa5164aa13f98
-    time: 1467143990
+    md5: fd9c63d1ac54747dedac9754f3e4097d
+    time: 1467144114
   "/news/tags/kenya/index.html":
-    md5: 8de8156c99ad9a0bfe760a6d17d72f17
-    time: 1467143965
+    md5: be34c56cb7777c4d717be519b6407548
+    time: 1467144114
   "/news/tags/policy/index.html":
-    md5: ddb573e16f064910f4ccfb4a53c83f29
-    time: 1467143965
+    md5: 3f1419c82ec7370c694ce3042431a3b8
+    time: 1467144114
   "/news/tags/ohcea/index.html":
-    md5: 00bdcf56b0e449f2f4364a8d3fad98fe
-    time: 1467143965
+    md5: 86bc4351687d5e6d06ce0d26032c90c0
+    time: 1467144114
   "/news/tags/conference/index.html":
-    md5: 90bf86a5da6f9c03a7030bcdf6c24809
-    time: 1467143965
+    md5: 55d56a325f210cbbb59e5b9bc494afcd
+    time: 1467144114
   "/news/tags/workshops/index.html":
-    md5: c0d893c3ecf78ba492937d86d1040c01
-    time: 1467143965
+    md5: 69190fcaa865c533e1d862e9f756dc75
+    time: 1467144114
   "/overview/index.html":
     md5: 493d736deab0b4f42b76d5316e55a2af
     time: 1454685991
@@ -74,8 +92,8 @@ inventory:
     md5: a99958bb2e81a96eeb8bf07a2499f98a
     time: 1454685991
   "/careers/tags/index.html":
-    md5: dfd14761787eac1c0c97aaafebd92201
-    time: 1467143965
+    md5: e9b877ec5e20d1a80377c45772148da7
+    time: 1467144114
   "/treehouse/index.html":
     md5: cfb3e3fb66ee5b78fd62722b402c2f2b
     time: 1454685992
@@ -131,11 +149,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: ef9d4012d9faa35802db7a78d82a73dd
-    time: 1467143991
+    md5: b94dee03dcceb447a226980baf2e2cb9
+    time: 1467144115
   "/feed.xml":
-    md5: fd0bcdeb341813fe09cbb697ff201a01
-    time: 1467143991
+    md5: 075aedac0f259d93fa0ba60d7624fb98
+    time: 1467144115
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
