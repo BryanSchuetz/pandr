@@ -1,5 +1,5 @@
 ---
-time: 1467144196
+time: 1467144303
 inventory:
   "/indexhtml/index.html":
     md5: ee49a7c8b65cc9ad4e75ba987690fd3c
@@ -8,8 +8,8 @@ inventory:
     md5: ee49a7c8b65cc9ad4e75ba987690fd3c
     time: 1454688100
   "/news/index.html":
-    md5: 8e20ab006373c1e6ba24628bddf458b4
-    time: 1467144188
+    md5: e870bafe83a3d3c4bbfeffdf3732543e
+    time: 1467144293
   "/news/animal-and-human-health-surveillance-in-liberia/index.html":
     md5: de73f8154edfba007058a325541c0373
     time: 1467143990
@@ -26,53 +26,56 @@ inventory:
     md5: 861a4a02edcbf6012d2a78f9fa1fadb6
     time: 1467144131
   "/news/challenges-commitments-at-central-and-east-africas-one-health-conference/index.html":
-    md5: 6cdf8d7e5aec4edd444f7b75df930fe3
-    time: 1454685991
+    md5: 414803cf05d6a9a66b313ca0e04b24fc
+    time: 1467144294
   "/news/one-health-workshop/index.html":
-    md5: ebbb1c996318978d434af28cd33b33e9
-    time: 1454685991
+    md5: f9a40e80610d425509e02133ec176dab
+    time: 1467144294
   "/news/archive/index.html":
     md5: 2efac7ae6df15f68799dea1a1b8fc286
     time: 1454685991
   "/news/tags/index.html":
-    md5: 698a7d9171f608aeb2cf7431f621bef1
-    time: 1467144188
+    md5: d5834dde4a504d941ddd0cd0aeffa267
+    time: 1467144294
   "/news/tags/liberia/index.html":
-    md5: 2fa8caac494e75c325bda313e9e7aded
-    time: 1467144188
+    md5: 6d8af1d27b77685619b6f074f9359bd3
+    time: 1467144294
   "/news/tags/private-sector/index.html":
-    md5: b68974e474dc15ff3eff9cffcc74c006
-    time: 1467144188
+    md5: a102ed815d526fc061db9c51a01e96ef
+    time: 1467144294
   "/news/tags/kenya/index.html":
-    md5: b43d34836a7c75bedec9dbe9a6a4d653
-    time: 1467144188
+    md5: e3a524ab7d6c946bc54d1c7237db5d17
+    time: 1467144294
   "/news/tags/policy/index.html":
-    md5: cbad86b27582079adcd6b5cd7a231778
-    time: 1467144188
+    md5: b566400a64427cdafe6e91f9e7648d55
+    time: 1467144294
   "/news/tags/cameroon/index.html":
-    md5: 1a957b4dcb06cddcc7e3d2b8fc62fcf5
-    time: 1467144188
+    md5: 1c5f76b760e80283fc55619b843f543f
+    time: 1467144294
   "/news/tags/h5n1/index.html":
-    md5: 4d1fc041cf009ee206869d7bcfabaf18
-    time: 1467144188
+    md5: 9f92a561605d8c8df50676cfcb04806d
+    time: 1467144294
   "/news/tags/avian-flu/index.html":
-    md5: c299aa1c9e3a12028f32b2353d3567dd
-    time: 1467144188
+    md5: f9d8c19e6e35e9b6021fce3469b6bde4
+    time: 1467144294
   "/news/tags/mprp/index.html":
-    md5: 0e6ec9c34abd3c37369368b7f15eb126
-    time: 1467144188
+    md5: 08f93a0132cf978c5950b7e3a4fb9c07
+    time: 1467144294
   "/news/tags/one-health-expertise/index.html":
-    md5: 72c24184463dae326adc471ca72afafb
-    time: 1467144188
+    md5: f2910d119828d6f8c1e0100e26981f75
+    time: 1467144294
   "/news/tags/ohcea/index.html":
-    md5: b0a210eba304ac586b046e6046a885c2
-    time: 1467144188
+    md5: 6ed2831abf980e11ffbf7035a31743e8
+    time: 1467144294
   "/news/tags/conference/index.html":
-    md5: 4fa13fae5a5b665379a129c4bcd4fb5f
-    time: 1467144188
+    md5: ea5f9444c664d2fbde43ac4bec9bc99a
+    time: 1467144294
   "/news/tags/workshops/index.html":
-    md5: e71a8e546a540afd780bf2b5feb46e29
-    time: 1467144188
+    md5: 05354f09f7f3568258124e35a701e2f9
+    time: 1467144294
+  "/news/tags/global/index.html":
+    md5: deca0b4a840362370a3961e7bab0da4d
+    time: 1467144294
   "/overview/index.html":
     md5: 493d736deab0b4f42b76d5316e55a2af
     time: 1454685991
@@ -92,8 +95,8 @@ inventory:
     md5: a99958bb2e81a96eeb8bf07a2499f98a
     time: 1454685991
   "/careers/tags/index.html":
-    md5: bfc74316512be69f2d9e1c8e970de705
-    time: 1467144188
+    md5: e8ee77e18479ff073567033da25a300e
+    time: 1467144294
   "/treehouse/index.html":
     md5: cfb3e3fb66ee5b78fd62722b402c2f2b
     time: 1454685992
@@ -149,11 +152,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 12f84ea0b7b0e08490da724e8fc6f2d5
-    time: 1467144189
+    md5: 91a2114f1c99ad7e2f553e2403051fa1
+    time: 1467144295
   "/feed.xml":
-    md5: 4b3d9e4b68f53a8de2f1a20e0d46aa3c
-    time: 1467144189
+    md5: 6590f5dd94073fd38fdc512f503d4c23
+    time: 1467144295
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
