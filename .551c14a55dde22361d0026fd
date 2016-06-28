@@ -1,5 +1,5 @@
 ---
-time: 1467143970
+time: 1467143993
 inventory:
   "/indexhtml/index.html":
     md5: ee49a7c8b65cc9ad4e75ba987690fd3c
@@ -11,8 +11,8 @@ inventory:
     md5: b4ffeb3618bc947e6311de0df8da8cab
     time: 1467143965
   "/news/animal-and-human-health-surveillance-in-liberia/index.html":
-    md5: e8a6b8653ecac84dcfda4ccea40fe8b4
-    time: 1467143965
+    md5: de73f8154edfba007058a325541c0373
+    time: 1467143990
   "/news/one-health-operational-guidelines-in-bangladesh/index.html":
     md5: 96729794c977f755c5b440a8ab370bcb
     time: 1460490857
@@ -34,6 +34,12 @@ inventory:
   "/news/tags/index.html":
     md5: 28570ce9bd7f4b20b1368d7bb4db1a68
     time: 1467143965
+  "/news/tags/liberia/index.html":
+    md5: b91b26b21ef7a8d62171687c62020feb
+    time: 1467143990
+  "/news/tags/private-sector/index.html":
+    md5: 28c21d4d778aa47a0b8aa5164aa13f98
+    time: 1467143990
   "/news/tags/kenya/index.html":
     md5: 8de8156c99ad9a0bfe760a6d17d72f17
     time: 1467143965
@@ -125,11 +131,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 537a60e2e481759dfbd7d6d48a3c05f3
-    time: 1467143966
+    md5: ef9d4012d9faa35802db7a78d82a73dd
+    time: 1467143991
   "/feed.xml":
-    md5: b82408610fc29f88983186d1104e64b0
-    time: 1467143966
+    md5: fd0bcdeb341813fe09cbb697ff201a01
+    time: 1467143991
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
