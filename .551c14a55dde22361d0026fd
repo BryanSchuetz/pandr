@@ -1,5 +1,5 @@
 ---
-time: 1460490859
+time: 1467143091
 inventory:
   "/indexhtml/index.html":
     md5: ee49a7c8b65cc9ad4e75ba987690fd3c
@@ -8,11 +8,14 @@ inventory:
     md5: ee49a7c8b65cc9ad4e75ba987690fd3c
     time: 1454688100
   "/news/index.html":
-    md5: 8b0dbb099da10bc154be87e357bf812d
-    time: 1460490702
+    md5: 9c866517a0b359f79992ad28b542590c
+    time: 1467143085
   "/news/one-health-operational-guidelines-in-bangladesh/index.html":
     md5: 96729794c977f755c5b440a8ab370bcb
     time: 1460490857
+  "/news/building-a-policy-and-advocacy-strategy-in-kenya/index.html":
+    md5: 1229187e36bb41745f9c1d639155bb9b
+    time: 1467143085
   "/news/engaging-the-east-african-community-secretariat/index.html":
     md5: f0fde3aef220e7a75ad84c3e1575f01b
     time: 1454685991
@@ -26,17 +29,23 @@ inventory:
     md5: 2efac7ae6df15f68799dea1a1b8fc286
     time: 1454685991
   "/news/tags/index.html":
-    md5: b18218988d4cf57d92b69856883e952f
-    time: 1460490702
+    md5: f929ba5ca1ad2368abf5769f583b739a
+    time: 1467143085
+  "/news/tags/kenya/index.html":
+    md5: a207f8a85dab88ec1d5b24faa9baf449
+    time: 1467143085
+  "/news/tags/policy/index.html":
+    md5: 99d1e5b54e08c41ac0398c75e4147e4c
+    time: 1467143085
   "/news/tags/ohcea/index.html":
-    md5: 8543f10f266a7549ca5def8baa9bbc3a
-    time: 1460490702
+    md5: d405bc84406bccc2ef5537dfa3011cd8
+    time: 1467143085
   "/news/tags/conference/index.html":
-    md5: 702927508bdba672b74cdd819388f77e
-    time: 1460490702
+    md5: 9e888166d6f1081dced2614e0dd09b32
+    time: 1467143085
   "/news/tags/workshops/index.html":
-    md5: dab0d6276b064023323e19d9ccc96f56
-    time: 1460490702
+    md5: 66fb3d4c6a80522c173de1575100eb38
+    time: 1467143085
   "/overview/index.html":
     md5: 493d736deab0b4f42b76d5316e55a2af
     time: 1454685991
@@ -56,8 +65,8 @@ inventory:
     md5: a99958bb2e81a96eeb8bf07a2499f98a
     time: 1454685991
   "/careers/tags/index.html":
-    md5: 8a185397558ef500a89d8f3d0703f38f
-    time: 1460490702
+    md5: 0916da317c4569e94903b4e219b4b08e
+    time: 1467143086
   "/treehouse/index.html":
     md5: cfb3e3fb66ee5b78fd62722b402c2f2b
     time: 1454685992
@@ -113,11 +122,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 056c1587814cea96780c276e2b69ce04
-    time: 1460490858
+    md5: 50ee109de298b6b42780db2138c049d1
+    time: 1467143087
   "/feed.xml":
-    md5: a730e6975b4c6bda047bad8317339125
-    time: 1460490858
+    md5: 5de8faf85ffd05aa2d1de5b133e46885
+    time: 1467143087
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
