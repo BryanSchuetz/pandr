@@ -1,5 +1,5 @@
 ---
-time: 1468955961
+time: 1469190462
 inventory:
   "/indexhtml/index.html":
     md5: cbfdcb59594b86ab6b6ca9ee686ba688
@@ -23,8 +23,8 @@ inventory:
     md5: 1229187e36bb41745f9c1d639155bb9b
     time: 1467143085
   "/news/assessing-one-health-training-in-indonesia/index.html":
-    md5: b88c68d1fd14ae1da42070f5d68de21d
-    time: 1467144663
+    md5: 3382af56f0daeca8ca22d07b132430d1
+    time: 1469190459
   "/news/engaging-the-east-african-community-secretariat/index.html":
     md5: c47da6f161a6f94ac91bb62565022c71
     time: 1467144188
@@ -173,11 +173,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 0de895f2ea95a195f1afd4713c2d4b89
-    time: 1468955950
+    md5: b2e3ab9b1bee490273ea880c55a427c7
+    time: 1469190461
   "/feed.xml":
-    md5: b43dedb9c7f80c44b3eafbdc45deeef6
-    time: 1468955951
+    md5: 920e8780bd013dfd7e1f42c56c8c4655
+    time: 1469190461
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
