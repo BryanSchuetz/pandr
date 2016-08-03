@@ -1,0 +1,31 @@
+##Todo List for P&R Site
+
+Treehouse” Site:
+- Right now it’s directing to the calendar (per our request!) - I’d like to get it back to a blog, with a link to the calendar
+
+--->  - Include loop on the treehouse page to pull in blog posts, break page out into multicollumn layout on wide viewports with Key resources floating to the left and posts to the right. When stacked put posts on top and resources on the bottom. Make the calendar a key resource.
+    - Include a tag filter controll to filter the list of posts in the left hand collumn under key resources
+      **--do this first--**
+    - Change key resources loop to look for subpages to the treehouse section and list those instead
+
+Main Site:
+- Add social media share buttons for the news stories.
+- Add the “experts” page, with expert bio tiles appearing on news story, technical area and country pages of the site
+
+---> Streamline site main navigation: Who we are (newpage)| What we do | Where we work
+      - pull news, partners, and careers from the main navigation
+      - sort news under what we do
+        - top of the page should be the more recent story, with a link to the archive
+        - under the top story should be a tile set with links to the service area one-pages
+      - sort partners and careers under who we are
+        - top of page should be abbreviated summary of the P&R one pages and then a tileset of links to subpages for experts partners and carers
+      - add experts page under who we are
+         - Creat a collection for experts: each expert should have their own permalink and there should be an index that lists out each expert
+
+- subpages can be laid out as "tiles" on the main page, under a summary of the main page text (read: little boxes for each subpage stacked up in a grid )
+- Revisit the country pages in more detail
+
+
+Future Work:
+
+- Include search functionality for both the main site and the treehouse section (these need to have different indexes)

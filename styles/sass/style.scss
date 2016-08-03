@@ -237,3 +237,18 @@ a.gallery-cell:hover{
   font-weight: 900;
   font-size: 4rem;
 }
+.team-posts{
+  @include responsive(wide-screens){
+    width: 50%;
+    float: right;
+  }
+  .post{
+    margin-bottom: 3rem;
+  }
+}
+.team-resources, .team-filter{
+  @include responsive(wide-screens){
+    width: 45%;
+    float: left;
+  }
+}

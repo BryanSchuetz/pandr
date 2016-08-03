@@ -1,0 +1,22 @@
+{% capture content %}
+<section class="main no-header">
+  <div class="container">
+    <div class="main-section-text col-md-offset-1 col-md-10">
+      <h1>Updates Tagged With: "{{ current.title }}"</h1>
+      <hr>
+      <section class="article-list">
+        {% for article in posts %}
+          <article id="">
+            <h2 class="article-title"><a href="{{ article.url }}">{{ article.title }}</a></h2>
+            <p class="article-details">{{ article.date | date: "%B %Y" }}<br>{{  }}</p>
+            <p>{{ article.excerpt }}</p>
+            <a href="{{ article.url }}" class="btn-more btn btn-primary rounded">Read More</a>
+          </article>
+        {% endfor %}
+      </section>
+    </div>
+  </div>
+</section>
+{% endcapture %}
+
+{% include 'layouts/default' %}
