@@ -2,7 +2,6 @@
 
 
 Main Site:
-- Add social media share buttons for the news stories.
 - Add the “experts” page, with expert bio tiles appearing on news story, technical area and country pages of the site
 
 ---> Streamline site main navigation: Who we are (newpage)| What we do | Where we work
@@ -26,10 +25,13 @@ Future Work:
 
 ## Finished Work
 
-Treehouse” Site:
+### Treehouse” Site:
 - Right now it’s directing to the calendar (per our request!) - I’d like to get it back to a blog, with a link to the calendar
 
 --->  - Include loop on the treehouse page to pull in blog posts, break page out into multicollumn layout on wide viewports with Key resources floating to the left and posts to the right. When stacked put posts on top and resources on the bottom. Make the calendar a key resource.
     - Include a tag filter controll to filter the list of posts in the left hand collumn under key resources
       **--do this first--**
     - Change key resources loop to look for subpages to the treehouse section and list those instead
+
+### Main Site
+- Add social media share buttons for the news stories.

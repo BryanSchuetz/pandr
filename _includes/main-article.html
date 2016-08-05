@@ -1,43 +1,11 @@
 <section class="article-header">
   <h1 class="article-title"><a href="{{ current.url }}">{{ current.title }}</a></h1>
+    {% include 'includes/sharing' %}
+    <br>
   <p class="article-details details date">{{ current.date | date: "%B %Y" }}<br> {% for tag in current.taxonomy.tags %}
     <span class="tag">{{ tag }}</span>
   {% endfor %}</p>
 </section>
 <section class="article-content">
   {{ current.body }}
-  <div class="sharing-buttons">
-    <!-- Sharingbutton Facebook -->
-<a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsharingbuttons.io" target="_blank" aria-label="">
-  <div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
-    <svg version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-        <path d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M15.595,11.5H13.5c0,3.013,0,7,0,7h-3 c0,0,0-3.951,0-7h-2v-2h2V8.336c0-1.1,0.352-2.819,2.649-2.819L15.5,5.524V7.83c0,0-1.163,0-1.408,0 c-0.244,0-0.592,0.124-0.592,0.647V9.5h2.339L15.595,11.5z"/>
-    </svg>
-    </div>
-  </div>
-</a>
-
-<!-- Sharingbutton Twitter -->
-<a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?text=Super%20fast%20and%20easy%20Social%20Media%20Sharing%20Buttons.%20No%20JavaScript.%20No%20tracking.&amp;url=http%3A%2F%2Fsharingbuttons.io" target="_blank" aria-label="">
-  <div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
-    <svg version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-        <path d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M17.262,9.385 c0.006,0.113,0.008,0.226,0.008,0.34c0,3.478-2.647,7.489-7.488,7.489c-1.486,0-2.87-0.437-4.035-1.184 c1.374,0.161,2.771-0.207,3.896-1.089c-1.151-0.022-2.123-0.783-2.458-1.829c0.396,0.075,0.803,0.061,1.188-0.046 c-1.204-0.24-2.111-1.305-2.111-2.579c0-0.011,0-0.023,0-0.035c0.355,0.197,0.762,0.315,1.192,0.33 c-0.706-0.473-1.171-1.277-1.171-2.19c0-0.482,0.13-0.934,0.356-1.324c1.298,1.593,3.237,2.642,5.425,2.75 c-0.045-0.191-0.068-0.394-0.068-0.599c0-1.454,1.179-2.632,2.633-2.632c0.757,0,1.44,0.319,1.921,0.832 c0.6-0.119,1.95-0.266,1.95-0.266C18.147,7.882,17.776,9.013,17.262,9.385z"/>
-    </svg>
-    </div>
-  </div>
-</a>
-
-<!-- Sharingbutton E-Mail -->
-<a class="resp-sharing-button__link" href="mailto:?subject=Super%20fast%20and%20easy%20Social%20Media%20Sharing%20Buttons.%20No%20JavaScript.%20No%20tracking.&amp;body=http%3A%2F%2Fsharingbuttons.io" target="_blank" aria-label="">
-  <div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solidcircle">
-    <svg version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-        <g>
-            <path d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z M20,16c0,1.103-0.897,2-2,2H6 c-1.103,0-2-0.897-2-2V8c0-1.103,0.897-2,2-2h12c1.103,0,2,0.897,2,2V16z"/>
-            <path d="M17.887,8.184c-0.175-0.214-0.49-0.245-0.704-0.07L12,12.354L6.817,8.113C6.603,7.938,6.288,7.97,6.113,8.184 S5.97,8.712,6.183,8.887l3.618,2.96l-3.566,2.229c-0.234,0.147-0.306,0.455-0.159,0.689C6.171,14.917,6.334,15,6.5,15 c0.091,0,0.182-0.024,0.265-0.076l3.854-2.409l1.064,0.872C11.775,13.462,11.888,13.5,12,13.5s0.225-0.038,0.317-0.113l1.065-0.872 l3.854,2.409C17.317,14.976,17.409,15,17.5,15c0.167,0,0.33-0.083,0.425-0.235c0.146-0.234,0.075-0.542-0.159-0.689l-3.566-2.229 l3.618-2.96C18.03,8.712,18.062,8.397,17.887,8.184z"/>
-        </g>
-    </svg>
-    </div>
-  </div>
-</a>
-  </div>
 </section>
