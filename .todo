@@ -1,12 +1,5 @@
 ##Todo List for P&R Site
 
-Treehouse” Site:
-- Right now it’s directing to the calendar (per our request!) - I’d like to get it back to a blog, with a link to the calendar
-
---->  - Include loop on the treehouse page to pull in blog posts, break page out into multicollumn layout on wide viewports with Key resources floating to the left and posts to the right. When stacked put posts on top and resources on the bottom. Make the calendar a key resource.
-    - Include a tag filter controll to filter the list of posts in the left hand collumn under key resources
-      **--do this first--**
-    - Change key resources loop to look for subpages to the treehouse section and list those instead
 
 Main Site:
 - Add social media share buttons for the news stories.
@@ -29,3 +22,14 @@ Main Site:
 Future Work:
 
 - Include search functionality for both the main site and the treehouse section (these need to have different indexes)
+
+
+## Finished Work
+
+Treehouse” Site:
+- Right now it’s directing to the calendar (per our request!) - I’d like to get it back to a blog, with a link to the calendar
+
+--->  - Include loop on the treehouse page to pull in blog posts, break page out into multicollumn layout on wide viewports with Key resources floating to the left and posts to the right. When stacked put posts on top and resources on the bottom. Make the calendar a key resource.
+    - Include a tag filter controll to filter the list of posts in the left hand collumn under key resources
+      **--do this first--**
+    - Change key resources loop to look for subpages to the treehouse section and list those instead
