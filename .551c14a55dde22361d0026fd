@@ -1,5 +1,5 @@
 ---
-time: 1470254923
+time: 1470682847
 inventory:
   "/indexhtml/index.html":
     md5: cbfdcb59594b86ab6b6ca9ee686ba688
@@ -11,35 +11,35 @@ inventory:
     md5: 7e07458f480f8a4e8dbfb8908c8ccffe
     time: 1469190779
   "/news/working-together-to-work-together/index.html":
-    md5: 60b4690dad78da1de33b0de63f673095
-    time: 1469190779
+    md5: 92125ccd639ceb3a1ff76428438a6a6e
+    time: 1470682839
   "/news/one-health-operational-guidelines-in-bangladesh/index.html":
-    md5: b4dfef4136a9e04cd9bd317ed4699cb5
-    time: 1467146233
+    md5: 25759d2eb9e66990ea4e7f56d993683a
+    time: 1470682839
   "/news/animal-and-human-health-surveillance-in-liberia/index.html":
-    md5: de73f8154edfba007058a325541c0373
-    time: 1467143990
+    md5: f040280e4eceabc644c298af21c0c956
+    time: 1470682839
   "/news/building-a-policy-and-advocacy-strategy-in-kenya/index.html":
-    md5: 1229187e36bb41745f9c1d639155bb9b
-    time: 1467143085
+    md5: e4c76b8afedb9050a9b417a988556a1d
+    time: 1470682839
   "/news/assessing-one-health-training-in-indonesia/index.html":
-    md5: 3382af56f0daeca8ca22d07b132430d1
-    time: 1469190459
+    md5: a386e2e0ed1ef09e3dd8ce29e9ccb1b0
+    time: 1470682839
   "/news/engaging-the-east-african-community-secretariat/index.html":
-    md5: c47da6f161a6f94ac91bb62565022c71
-    time: 1467144188
+    md5: faab783f398c242bd39bb3b6f56e4846
+    time: 1470682839
   "/news/planning-epidemic-response-in-cameroon/index.html":
-    md5: 861a4a02edcbf6012d2a78f9fa1fadb6
-    time: 1467144131
+    md5: 0a1fa2a1a4785cba3110636056d297b8
+    time: 1470682839
   "/news/challenges-commitments-at-central-and-east-africas-one-health-conference/index.html":
-    md5: 414803cf05d6a9a66b313ca0e04b24fc
-    time: 1467144294
+    md5: 56cc46def40695300cff5eb235eda501
+    time: 1470682839
   "/news/one-health-workshop/index.html":
-    md5: f9a40e80610d425509e02133ec176dab
-    time: 1467144294
+    md5: 476feb0ab7a61e847b189cf5acd48734
+    time: 1470682839
   "/news/archive/index.html":
-    md5: 2efac7ae6df15f68799dea1a1b8fc286
-    time: 1454685991
+    md5: 7ab1bc7bfeb49662622b66a275c03014
+    time: 1470682839
   "/news/tags/index.html":
     md5: c4678dfaacb007963b3bdc4c916b18f7
     time: 1469190779
@@ -110,11 +110,11 @@ inventory:
     md5: c61637ef8b58108d5e93b957adfb475a
     time: 1467147147
   "/careers/national-one-health-technical-advisor/index.html":
-    md5: 90f5afa99ab5bed2112c143d6011fd99
-    time: 1467147147
+    md5: 999eb33f4cc2fc3c476834bb2086354f
+    time: 1470682840
   "/careers/archive/index.html":
-    md5: a99958bb2e81a96eeb8bf07a2499f98a
-    time: 1454685991
+    md5: f1923fe64bcafe87d834c0970f283e4a
+    time: 1470682840
   "/careers/tags/index.html":
     md5: 839f46e179012d0345ba271fd7ef5bcb
     time: 1469190780
@@ -206,8 +206,8 @@ inventory:
     md5: 3babe8640be78dcbbe3412b6cd31ffc2
     time: 1470254918
   "/feed.xml":
-    md5: 3e8a53bb5b28f6be4a937cd03d839c85
-    time: 1470254918
+    md5: 6a640943d5d996ef596030d61e9ad060
+    time: 1470682841
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -356,8 +356,8 @@ inventory:
     md5: e8c3c0bfa5d845458e503cb0d0958235
     time: 1460490349
   "/styles/css/style.css":
-    md5: a50a0848ec44fe33ef31ff8af2b02bd9
-    time: 1470254918
+    md5: a4dfecba6acb35bb1cd1f6d51c95a61a
+    time: 1470682841
   "/assets/553663be5dde228f260018a5-1.jpg":
     md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447101340
