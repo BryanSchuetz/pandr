@@ -1,5 +1,5 @@
 ---
-time: 1478014871
+time: 1478016947
 inventory:
   "/indexhtml/index.html":
     md5: d2b5caaf43f264189fd8fc7753161f97
@@ -355,12 +355,12 @@ inventory:
   "/assets/bangladesh_operations.jpg":
     md5: e8c3c0bfa5d845458e503cb0d0958235
     time: 1460490349
-  "/styles/css/style.css":
-    md5: a4dfecba6acb35bb1cd1f6d51c95a61a
-    time: 1470682841
   "/assets/P&R Country POCs, 8-5-16.docx":
     md5: 18b51f32281d320cbe600f3d917277eb
     time: 1476904049
+  "/styles/css/style.css":
+    md5: 0e494855fccdd233b604565bbf23b94f
+    time: 1478016947
   "/assets/553663be5dde228f260018a5-1.jpg":
     md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447101340
