@@ -1,5 +1,5 @@
 ---
-time: 1478008118
+time: 1478008137
 inventory:
   "/indexhtml/index.html":
     md5: cbfdcb59594b86ab6b6ca9ee686ba688
@@ -17,8 +17,8 @@ inventory:
     md5: a71b934f95b57efb22120291a053e112
     time: 1478007724
   "/news/strengthening-west-africa-collaboration-for-epidemic-emergency-rapid-response/index.html":
-    md5: 09e923cddeb64048cd1162a9f9c0e947
-    time: 1478008114
+    md5: 4b0a081d05e1fa468cdb3bbdb909d7d0
+    time: 1478008134
   "/news/planning-for-advocacy-and-communications-in-cameroon/index.html":
     md5: 2e1e81fd08a196a41d7d1afc06ee65a7
     time: 1478007924
@@ -203,11 +203,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 07c7f58bab55efb8e92da3ab647bc71a
-    time: 1478008116
+    md5: 43d2203efa90a5877e8302ae2b36c056
+    time: 1478008136
   "/feed.xml":
-    md5: 65cc59aef3c57fa5108726bb8962ab91
-    time: 1478008116
+    md5: 54d524062b8cfef07f371b3928effe5c
+    time: 1478008136
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
