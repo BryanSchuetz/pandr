@@ -1,5 +1,5 @@
 ---
-time: 1478188823
+time: 1478188865
 inventory:
   "/indexhtml/index.html":
     md5: 046803cf45d7af54c5e5d88315ea297b
@@ -8,14 +8,14 @@ inventory:
     md5: 046803cf45d7af54c5e5d88315ea297b
     time: 1478188491
   "/news/index.html":
-    md5: bd8dff9918d4304b86b93b977f2a3e2e
-    time: 1478188792
+    md5: 74a85e934929d86aa8d0f8eb82ffe5ac
+    time: 1478188853
+  "/news/uganda-one-health-day-launch/index.html":
+    md5: 46a85cece05ddabc7464512fd5e08a99
+    time: 1478188853
   "/news/thailand-one-health-day-2016/index.html":
     md5: bb151f3811fd3f22039dba972ae29173
     time: 1478007673
-  "/news/uganda-one-health-day-launch/index.html":
-    md5: 13a73f7c4733277dc03171c4ce00b95e
-    time: 1478188792
   "/news/strengthening-west-africa-collaboration-for-epidemic-emergency-rapid-response/index.html":
     md5: 4b0a081d05e1fa468cdb3bbdb909d7d0
     time: 1478008134
@@ -53,62 +53,62 @@ inventory:
     md5: 7ab1bc7bfeb49662622b66a275c03014
     time: 1470682839
   "/news/tags/index.html":
-    md5: 86a6499004c3e61531e3183378c7be10
-    time: 1478188795
+    md5: dd738bced4eff585bee4b71f95d16275
+    time: 1478188853
   "/news/tags/bangladesh/index.html":
-    md5: 6dac3e7ed8fc6a260db8ec784c843bba
-    time: 1478188796
+    md5: ced2886226e9b41c193c0134d3e63265
+    time: 1478188854
   "/news/tags/guidelines/index.html":
-    md5: ad31c2521c8c1a4606af7f3375f1a387
-    time: 1478188796
+    md5: 5688004e8e16040fcbf8acc4ceb9f5cc
+    time: 1478188854
   "/news/tags/liberia/index.html":
-    md5: f0fd6bba9414f17d13c49eccee5ba602
-    time: 1478188796
+    md5: 655f7e79e6d7d1fd83782dd087cc84cc
+    time: 1478188854
   "/news/tags/private-sector/index.html":
-    md5: 1ea12bfe0d53946f6566bb0fb87b7ab9
-    time: 1478188797
+    md5: 178cb405e75abacb74fb7c0f2e1c9a40
+    time: 1478188854
   "/news/tags/kenya/index.html":
-    md5: 55507a601c0264aed80770b8882bd1a5
-    time: 1478188797
+    md5: 91c424855b5efee5e4a2cc2dacab0a39
+    time: 1478188854
   "/news/tags/policy/index.html":
-    md5: 4cff31b68d3fe737b65261751e46e76e
-    time: 1478188797
+    md5: 3e34d870b06dc5af833a6cb123b536c9
+    time: 1478188854
   "/news/tags/indonesia/index.html":
-    md5: 729325c2e4ef5607670c5a488208e64b
-    time: 1478188797
+    md5: 305d56d8e003dc132cf7e13bc5159d4c
+    time: 1478188854
   "/news/tags/integrated-surveillance/index.html":
-    md5: 0449eeaf05dec23a1bf502a0ab667c92
-    time: 1478188798
+    md5: 0810384faf11636f3487a25cd56d765d
+    time: 1478188854
   "/news/tags/institutional-capacity-building/index.html":
-    md5: 4b2931f1ad9452aa0e700309f29078b1
-    time: 1478188798
+    md5: 4b84a78d63690177b1330fdf0966581f
+    time: 1478188854
   "/news/tags/cameroon/index.html":
-    md5: 791a24236913f99e816706dd335fe820
-    time: 1478188799
+    md5: 4c377bdb5a52a648e4d11a5f6d2b97d4
+    time: 1478188854
   "/news/tags/h5n1/index.html":
-    md5: 4beeccfd2486d8541eb73a3c1cf1f9ec
-    time: 1478188799
+    md5: ff75b34cbdc532d0892db7a867bbe867
+    time: 1478188854
   "/news/tags/avian-flu/index.html":
-    md5: b21e97529d3ba2e1625cd4ecb9c35534
-    time: 1478188799
+    md5: 81986f7c84e76ed11c95a12d96a59223
+    time: 1478188854
   "/news/tags/mprp/index.html":
-    md5: 5004329fc3b3f8ed0ae2a37edda04fc3
-    time: 1478188800
+    md5: cbe70523df1cdcf0203895138c92b21d
+    time: 1478188854
   "/news/tags/one-health-expertise/index.html":
-    md5: 14ffb871c7bdad941e6eb5c56a5c2b05
-    time: 1478188800
+    md5: d44b1da789ee38e8abcd74b16e4ed455
+    time: 1478188854
   "/news/tags/ohcea/index.html":
-    md5: 6d9381011c223a66386b4f0b3d79f344
-    time: 1478188800
+    md5: 2e28968da39c64b09e6722f807dbefce
+    time: 1478188854
   "/news/tags/conference/index.html":
-    md5: ce3f523c82db942f90ad484a3530ecbe
-    time: 1478188801
+    md5: f3f1c07885fa8ba98a059f62253e1973
+    time: 1478188854
   "/news/tags/workshops/index.html":
-    md5: 993f23ac724d6286181e290aa9794d64
-    time: 1478188801
+    md5: 5179c02bf0daa3534cb1c62231b39d5b
+    time: 1478188854
   "/news/tags/global/index.html":
-    md5: 1b7811b5f67e790db25395e370c96775
-    time: 1478188801
+    md5: 8d9dfee0c071d5e3ce0eb2c2415d3632
+    time: 1478188854
   "/overview/index.html":
     md5: e04701dc6948f830335626447e628a20
     time: 1478008458
@@ -128,8 +128,8 @@ inventory:
     md5: f1923fe64bcafe87d834c0970f283e4a
     time: 1470682840
   "/careers/tags/index.html":
-    md5: 1880f602fe49462394b521a214cfa59f
-    time: 1478188804
+    md5: 9669c0189ca9df32326fff5517ed7781
+    time: 1478188854
   "/treehouse/index.html":
     md5: ddb075c99afd3bc3d3eec6ee7a371ad7
     time: 1476904048
@@ -203,11 +203,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 02c84c202f72a7423b2c5deebd123cfa
-    time: 1478188808
+    md5: f78fad6c84e163a8d67282aebd84d747
+    time: 1478188855
   "/feed.xml":
-    md5: 6e47d204da8aa3547c80d08913bf104a
-    time: 1478188808
+    md5: 7900dba777ae3457f6bbdb7cccb3ead6
+    time: 1478188855
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
