@@ -24,6 +24,13 @@
         <div class="main-section-text col-md-offset-1 col-md-10">
         <h1>{{ title }}</h1>
         {{ body }}
+        <div class="tile-set grid">
+          {% for page in pages %}
+          <div class="tile">
+            <a href="{{ page.url }}" class="tile-link grid-item">{{ page.title }}</a>
+          </div>
+          {% endfor %}
+        </div>
         </div>
       </div>
     </div>

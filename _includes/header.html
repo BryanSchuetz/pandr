@@ -9,7 +9,7 @@
           <div class="nav-drop">
             <ul>
               {% for  page in site.pages %}
-                {% unless page.title == 'Treehouse' or page.title == 'Home' %}
+                {% unless page.title == 'Treehouse' or page.title == 'Home' or page.title == 'News' %}
                   <li><a {% if current.url contains page.url %}{{ 'class="current"' }}{% endif %}href="{{ page.url }}">{{ page.title }}</a></li>
                 {% endunless %}
               {% endfor %}

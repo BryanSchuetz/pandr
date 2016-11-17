@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rack'
 gem 'siteleaf'
+gem 'rb-readline'
 gem 'guard-sass'
 gem 'guard-livereload'
 gem 'guard-concat'
