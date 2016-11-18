@@ -1,0 +1,47 @@
+{% capture content %}
+<!--   <section class="visual">
+    <div class="container">
+      <div class="text-block">
+        <div class="heading-holder">
+          <h1 class="title"><a href="/">{{ site.meta.title }}</a></h1>
+        </div>
+        <p class="tagline">{{ site.meta.tagline }}</p>
+      </div>
+    </div>
+    <img src="{% if current.url contains 'partners' %}
+                {{ '/images/img-decor-01.jpg' }}
+                {% else %}
+                {{ '/images/img-decor-03.jpg' }}
+              {% endif %}" alt="" class="bg-stretch">
+  </section>
+ -->  <section class="main no-header">
+    <div class="container">
+      <!-- <div id="cta">
+        <a href="/home/subscribe/#cta" class="btn btn-primary rounded">Subscribe to our Newsletter</a>
+        <p>Get the latest news, reports, and project updates.</p>
+      </div> -->
+      <div class="container">
+        <div class="main-section-text col-md-offset-1 col-md-10">
+        {% for post in site.pages.news.posts limit:1 %}
+          <h2>{{ post.title }}</h2>
+          {{ post.body }}
+          <br>
+        {% endfor %}
+        <hr>
+        <a href="/news/" class="btn-more btn btn-primary rounded more-news">Read More News</a>
+        <br>
+        <hr>
+        <div class="tile-set grid">
+          {% for page in pages %}
+          <div class="tile">
+            <a href="{{ page.url }}" class="tile-link grid-item">{{ page.title }}</a>
+          </div>
+          {% endfor %}
+        </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{% endcapture %}
+
+{% include 'layouts/default' %}

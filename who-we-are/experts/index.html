@@ -4,7 +4,8 @@
         <div class="main-section-text col-md-offset-1 col-md-10">
           <h1>{{ current.title }}</h1>
           {{ current.body }}
-         {% for expert in  current.posts %}
+          {% assign experts = current.posts %}
+         {% for expert in experts reversed %}
          <div class="expert">
            <h2><a href="{{ expert.url }}">{{ expert.title }}</a></h2>
            <p><strong>{{ expert.meta.job }}</strong></p>
