@@ -83,23 +83,17 @@ ga('send', 'pageview');
                 
               
                 
-                  <li><a href="/news">News</a></li>
+                  <li><a href="/who-we-are">Who We Are</a></li>
                 
               
                 
-                  <li><a href="/overview">What We Do</a></li>
+                  <li><a href="/what-we-do">What We Do</a></li>
                 
               
                 
                   <li><a class="current"href="/where-we-work">Where We Work</a></li>
                 
               
-                
-                  <li><a href="/partners">Partners</a></li>
-                
-              
-                
-                  <li><a href="/careers">Careers</a></li>
                 
               
                 
@@ -156,6 +150,9 @@ ga('send', 'pageview');
 
 <p>During the last six months, P&amp;R conducted a series of consultation meetings and interactions with representatives of key stakeholders and partners on One Health in the country. Immediate priority focus for the Project for Thailand would be: working with the One Health Coordinating Unit (OHCU) to strengthen the institutional capacity for policy dialogue among key ministers to renew MOU and further drafting the 2nd National Emerging Infectious Disease with comprehensive One Health Approach; technical support OHCU to increase information sharing among partners and between Animal and Human health sectors; discussion with key partners to identify collaboration plan to support Workforce Strategy (in line with GHSA) to strengthen wildlife rangers, veterinarian, and village health volunteers; and discussion with OHCU and Thailand One Health Steering committee to explore the interest and value for the Assessment or evaluation on National Capacity on Preparedness and Response to potential health threats. The Project will also explore with Thailand to co-host an ASEAN-wide Regional Forum on the Strengthening of NOHPs in the first quarter of 2016.</p>
 
+        <div class="tile-set grid">
+          
+        </div>
         </div>
       </div>
     </div>
@@ -185,7 +182,18 @@ ga('send', 'pageview');
         </div>
       </div>
     </div>
-    <script type="text/javascript" src="/js/site.js"></script>
+      <script type="text/javascript" src="/js/site.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function(){
+          $('.grid').packery({
+            // options
+            itemSelector: '.grid-item',
+            gutter: 0,
+            percentPosition: true,
+            columnWidth: '.grid-item'
+          });
+        });
+        </script>
   </footer>
 
   </div> <!-- wrapper -->

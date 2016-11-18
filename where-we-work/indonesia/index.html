@@ -83,23 +83,17 @@ ga('send', 'pageview');
                 
               
                 
-                  <li><a href="/news">News</a></li>
+                  <li><a href="/who-we-are">Who We Are</a></li>
                 
               
                 
-                  <li><a href="/overview">What We Do</a></li>
+                  <li><a href="/what-we-do">What We Do</a></li>
                 
               
                 
                   <li><a class="current"href="/where-we-work">Where We Work</a></li>
                 
               
-                
-                  <li><a href="/partners">Partners</a></li>
-                
-              
-                
-                  <li><a href="/careers">Careers</a></li>
                 
               
                 
@@ -154,6 +148,9 @@ ga('send', 'pageview');
 
 <p>Over the last six months, a series of additional high-level meetings and technical consultations with KOMNAS were made to identify gaps and formulate an action plan for the development of operational guidelines for outbreak preparedness and response. These operational guidelines will also provide the framework for subnational One Health platforms (KOMDA), to improve their capacity in preparing and responding to public health events at provincial and district levels. Also emphasized in our engagement with KOMNAS was the need to revise its legal mandate. P&amp;R took this as an opportunity to start working on an action plan that could improve the effectiveness and sustainability of the platform. It is expected that upon the completion of the ongoing review of non-structural entities (KOMNAS included) by a government reform committee, the action plan would be adapted and further refined.</p>
 
+        <div class="tile-set grid">
+          
+        </div>
         </div>
       </div>
     </div>
@@ -183,7 +180,18 @@ ga('send', 'pageview');
         </div>
       </div>
     </div>
-    <script type="text/javascript" src="/js/site.js"></script>
+      <script type="text/javascript" src="/js/site.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function(){
+          $('.grid').packery({
+            // options
+            itemSelector: '.grid-item',
+            gutter: 0,
+            percentPosition: true,
+            columnWidth: '.grid-item'
+          });
+        });
+        </script>
   </footer>
 
   </div> <!-- wrapper -->

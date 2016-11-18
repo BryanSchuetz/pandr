@@ -83,23 +83,17 @@ ga('send', 'pageview');
                 
               
                 
-                  <li><a class="current"href="/news">News</a></li>
+                  <li><a href="/who-we-are">Who We Are</a></li>
                 
               
                 
-                  <li><a href="/overview">What We Do</a></li>
+                  <li><a href="/what-we-do">What We Do</a></li>
                 
               
                 
                   <li><a href="/where-we-work">Where We Work</a></li>
                 
               
-                
-                  <li><a href="/partners">Partners</a></li>
-                
-              
-                
-                  <li><a href="/careers">Careers</a></li>
                 
               
                 
@@ -262,7 +256,18 @@ ga('send', 'pageview');
         </div>
       </div>
     </div>
-    <script type="text/javascript" src="/js/site.js"></script>
+      <script type="text/javascript" src="/js/site.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function(){
+          $('.grid').packery({
+            // options
+            itemSelector: '.grid-item',
+            gutter: 0,
+            percentPosition: true,
+            columnWidth: '.grid-item'
+          });
+        });
+        </script>
   </footer>
 
   </div> <!-- wrapper -->

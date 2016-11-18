@@ -83,23 +83,17 @@ ga('send', 'pageview');
                 
               
                 
-                  <li><a href="/news">News</a></li>
+                  <li><a href="/who-we-are">Who We Are</a></li>
                 
               
                 
-                  <li><a href="/overview">What We Do</a></li>
+                  <li><a href="/what-we-do">What We Do</a></li>
                 
               
                 
                   <li><a class="current"href="/where-we-work">Where We Work</a></li>
                 
               
-                
-                  <li><a href="/partners">Partners</a></li>
-                
-              
-                
-                  <li><a href="/careers">Careers</a></li>
                 
               
                 
@@ -150,6 +144,9 @@ ga('send', 'pageview');
         <h1>Rwanda</h1>
         <p>USAID Rwanda and the CDC country office were briefed on ETP-2 project goals, objectives and priorities in March of 2015. A kick-off meeting between the Rwanda One Health Steering Committee and the P&amp;R project cumulated to a six month P&amp;R work plan. The work plan has been presented to the Social Cluster of Ministers for endorsement and will be presented to the cabinet. P&amp;R agreed  to support two positions: the NOHTA and administrative assistant, as well as basic office and IT equipment for the two positions. As part of the implementation of the six month P&amp;R country work plan, P&amp;R started providing support for the development of the One Health Advocacy and communication plan, and for the launch of the national OH strategic plan.</p>
 
+        <div class="tile-set grid">
+          
+        </div>
         </div>
       </div>
     </div>
@@ -179,7 +176,18 @@ ga('send', 'pageview');
         </div>
       </div>
     </div>
-    <script type="text/javascript" src="/js/site.js"></script>
+      <script type="text/javascript" src="/js/site.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function(){
+          $('.grid').packery({
+            // options
+            itemSelector: '.grid-item',
+            gutter: 0,
+            percentPosition: true,
+            columnWidth: '.grid-item'
+          });
+        });
+        </script>
   </footer>
 
   </div> <!-- wrapper -->

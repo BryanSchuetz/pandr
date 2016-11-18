@@ -83,23 +83,17 @@ ga('send', 'pageview');
                 
               
                 
-                  <li><a href="/news">News</a></li>
+                  <li><a href="/who-we-are">Who We Are</a></li>
                 
               
                 
-                  <li><a href="/overview">What We Do</a></li>
+                  <li><a href="/what-we-do">What We Do</a></li>
                 
               
                 
                   <li><a href="/where-we-work">Where We Work</a></li>
                 
               
-                
-                  <li><a href="/partners">Partners</a></li>
-                
-              
-                
-                  <li><a href="/careers">Careers</a></li>
                 
               
                 
@@ -150,6 +144,9 @@ ga('send', 'pageview');
         <h1>Team Calendar</h1>
         <iframe src="https://calendar.google.com/calendar/embed?title=P%26R%20Global%20Calendar&amp;showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=usaidpandrproject%40gmail.com&amp;color=%231B887A&amp;src=en.usa%23holiday%40group.v.calendar.google.com&amp;color=%23125A12&amp;src=8v718grmieb28nfpll0rfqesh0%40group.calendar.google.com&amp;color=%238C500B&amp;src=fdnanc8g751fejhmo7aabu7jtk%40group.calendar.google.com&amp;color=%230F4B38&amp;src=6u5uq82v00pnu1qjnl4tmencd8%40group.calendar.google.com&amp;color=%235229A3&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+        <div class="tile-set grid">
+          
+        </div>
         </div>
       </div>
     </div>
@@ -179,7 +176,18 @@ ga('send', 'pageview');
         </div>
       </div>
     </div>
-    <script type="text/javascript" src="/js/site.js"></script>
+      <script type="text/javascript" src="/js/site.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function(){
+          $('.grid').packery({
+            // options
+            itemSelector: '.grid-item',
+            gutter: 0,
+            percentPosition: true,
+            columnWidth: '.grid-item'
+          });
+        });
+        </script>
   </footer>
 
   </div> <!-- wrapper -->

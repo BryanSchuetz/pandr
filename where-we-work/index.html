@@ -83,23 +83,17 @@ ga('send', 'pageview');
                 
               
                 
-                  <li><a href="/news">News</a></li>
+                  <li><a href="/who-we-are">Who We Are</a></li>
                 
               
                 
-                  <li><a href="/overview">What We Do</a></li>
+                  <li><a href="/what-we-do">What We Do</a></li>
                 
               
                 
                   <li><a class="current"href="/where-we-work">Where We Work</a></li>
                 
               
-                
-                  <li><a href="/partners">Partners</a></li>
-                
-              
-                
-                  <li><a href="/careers">Careers</a></li>
                 
               
                 
@@ -150,6 +144,65 @@ ga('send', 'pageview');
         <h1>Where We Work</h1>
         <p><img src="/assets/map2.jpg" alt="map"></p>
 
+        <div class="tile-set grid">
+          
+          <div class="tile">
+            <a href="/where-we-work/bangladesh" class="tile-link grid-item">Bangladesh</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/cameroon" class="tile-link grid-item">Cameroon</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/cote-divoire" class="tile-link grid-item">Cote D'Ivoire</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/ethiopia" class="tile-link grid-item">Ethiopia</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/indonesia" class="tile-link grid-item">Indonesia</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/kenya" class="tile-link grid-item">Kenya</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/laos" class="tile-link grid-item">Laos</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/liberia" class="tile-link grid-item">Liberia</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/mali" class="tile-link grid-item">Mali</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/rwanda" class="tile-link grid-item">Rwanda</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/senegal" class="tile-link grid-item">Senegal</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/thailand" class="tile-link grid-item">Thailand</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/uganda" class="tile-link grid-item">Uganda</a>
+          </div>
+          
+          <div class="tile">
+            <a href="/where-we-work/vietnam" class="tile-link grid-item">Vietnam</a>
+          </div>
+          
+        </div>
         </div>
       </div>
     </div>
@@ -179,7 +232,18 @@ ga('send', 'pageview');
         </div>
       </div>
     </div>
-    <script type="text/javascript" src="/js/site.js"></script>
+      <script type="text/javascript" src="/js/site.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function(){
+          $('.grid').packery({
+            // options
+            itemSelector: '.grid-item',
+            gutter: 0,
+            percentPosition: true,
+            columnWidth: '.grid-item'
+          });
+        });
+        </script>
   </footer>
 
   </div> <!-- wrapper -->

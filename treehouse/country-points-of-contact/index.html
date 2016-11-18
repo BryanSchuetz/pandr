@@ -83,23 +83,17 @@ ga('send', 'pageview');
                 
               
                 
-                  <li><a href="/news">News</a></li>
+                  <li><a href="/who-we-are">Who We Are</a></li>
                 
               
                 
-                  <li><a href="/overview">What We Do</a></li>
+                  <li><a href="/what-we-do">What We Do</a></li>
                 
               
                 
                   <li><a href="/where-we-work">Where We Work</a></li>
                 
               
-                
-                  <li><a href="/partners">Partners</a></li>
-                
-              
-                
-                  <li><a href="/careers">Careers</a></li>
                 
               
                 
@@ -150,6 +144,9 @@ ga('send', 'pageview');
         <h1>Country Points of Contact</h1>
         <p>Attached is a matrix that that details who the P&amp;R and USAID points of contact are at the national and regional level for each country. Most of this information can also be found in the country views in TAMIS (Views - By Country). It is important for all of us to understand the diverse and myriad relationships with project staff, USAID counterparts, and partners across the project!</p>
 
+        <div class="tile-set grid">
+          
+        </div>
         </div>
       </div>
     </div>
@@ -179,7 +176,18 @@ ga('send', 'pageview');
         </div>
       </div>
     </div>
-    <script type="text/javascript" src="/js/site.js"></script>
+      <script type="text/javascript" src="/js/site.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function(){
+          $('.grid').packery({
+            // options
+            itemSelector: '.grid-item',
+            gutter: 0,
+            percentPosition: true,
+            columnWidth: '.grid-item'
+          });
+        });
+        </script>
   </footer>
 
   </div> <!-- wrapper -->
