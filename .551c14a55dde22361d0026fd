@@ -1,5 +1,5 @@
 ---
-time: 1480691400
+time: 1480691449
 inventory:
   "/indexhtml/index.html":
     md5: 8de80913848d5073d8197df02069e532
@@ -23,8 +23,8 @@ inventory:
     md5: 9a02838a691f173766d92edfbf195e7b
     time: 1480691388
   "/news/from-grassroots-movement-to-government-priority-one-health-in-bangladesh/index.html":
-    md5: acd07b34eaa01d90826c79b2bc442157
-    time: 1480632725
+    md5: b43f6fc80fe4ff246bd5a0d188da24b0
+    time: 1480691445
   "/news/working-with-the-private-sector-in-cameroon/index.html":
     md5: d78b407a952d83c6346c9f379d08d43a
     time: 1480632167
@@ -314,11 +314,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 4084e07d832c0432638ac3688cbfd1bf
-    time: 1480691391
+    md5: 2b4fcb0c603cd2e096af6fba76e2ec57
+    time: 1480691448
   "/feed.xml":
-    md5: e0fc5edb7a01e961fca348ef4fc2a978
-    time: 1480691391
+    md5: 6b08699d9527a50321dc3fe805ded2a6
+    time: 1480691448
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
