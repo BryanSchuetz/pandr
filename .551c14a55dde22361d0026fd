@@ -1,5 +1,5 @@
 ---
-time: 1483191953
+time: 1483192130
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -68,8 +68,8 @@ inventory:
     md5: 0a9d6df155f233572e43826d6ac56db2
     time: 1479489863
   "/news/private-sector-planning-and-audit-tools-for-emerging-infectious-disease/index.html":
-    md5: e184d72297976df5ca9d170b9b19758d
-    time: 1483191915
+    md5: bac07565963e93e2b59c86de26006385
+    time: 1483192126
   "/news/archive/index.html":
     md5: 999d778f65db2a5e145d985e16ec161b
     time: 1479489863
@@ -317,11 +317,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 7fe9e013f8e5b9a0c3ab17cccd55113f
-    time: 1483191917
+    md5: b2b04eabea7a3f6fe65eab88fce230c7
+    time: 1483192129
   "/feed.xml":
-    md5: 4ae5e6248f14c14b3f5d94b42bd1ceae
-    time: 1483191917
+    md5: 5f2c0e485e3bca86456d866880e9fbfe
+    time: 1483192129
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -481,9 +481,6 @@ inventory:
   "/assets/PlanningToolFinal.pdf":
     md5: 5b835bcfc6b5185fddfa74a2e2287584
     time: 1483191917
-  "/assets/AuditToolFinal.pdf":
-    md5: a22ae77b83bc7d0abd2c37476433bee6
-    time: 1483191917
   "/assets/553663be5dde228f260018a5-1.jpg":
     md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447101340
@@ -499,6 +496,9 @@ inventory:
   "/assets/map2.jpg":
     md5: 888025d1336c208a88d0f613c8b15eb3
     time: 1467146910
+  "/assets/AuditToolFinal.pdf":
+    md5: a22ae77b83bc7d0abd2c37476433bee6
+    time: 1483191917
   "/assets/facts-1.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180197
