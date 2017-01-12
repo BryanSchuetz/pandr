@@ -1,5 +1,5 @@
 ---
-time: 1483612584
+time: 1484238325
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -140,8 +140,11 @@ inventory:
     md5: 71c37e9f6f01c7c3a140d33ac2266a12
     time: 1483612561
   "/treehouse/index.html":
-    md5: 0d85054007398a2168c90c519a2867ef
-    time: 1479489864
+    md5: e6a001adc216114f23dc2dee29261463
+    time: 1484238316
+  "/treehouse/we-have-a-new-conceptual-framework/index.html":
+    md5: d694d6c7751272e021b381000c478612
+    time: 1484238316
   "/treehouse/country-points-of-contact/index.html":
     md5: 84b84f6e16977a03395059aa57cf01e8
     time: 1479489864
@@ -326,11 +329,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: b3370f4d08ede192485f77ef1f1e6ba1
-    time: 1483612562
+    md5: 034405f2b20b3758b07275ee0fe75ae9
+    time: 1484238320
   "/feed.xml":
-    md5: abbb6488598b918a0a0173d49ef128cc
-    time: 1483612562
+    md5: 36bc4a02d7edb89fd675e1bcd6e7a0be
+    time: 1484238320
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
