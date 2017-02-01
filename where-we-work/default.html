@@ -1,0 +1,76 @@
+{% assign featured = current.meta.experts %}
+{% assign country = current.meta.country | downcase %}
+{% assign siteExperts = site.pages['who-we-are'].pages['experts'].posts %}
+{% capture content %}
+<!--   <section class="visual">
+    <div class="container">
+      <div class="text-block">
+        <div class="heading-holder">
+          <h1 class="title"><a href="/">{{ site.meta.title }}</a></h1>
+        </div>
+        <p class="tagline">{{ site.meta.tagline }}</p>
+      </div>
+    </div>
+    <img src="{% if current.url contains 'partners' %}
+                {{ '/images/img-decor-01.jpg' }}
+                {% else %}
+                {{ '/images/img-decor-03.jpg' }}
+              {% endif %}" alt="" class="bg-stretch">
+  </section>
+ -->  <section class="main no-header">
+    <div class="container">
+      <!-- <div id="cta">
+        <a href="/home/subscribe/#cta" class="btn btn-primary rounded">Subscribe to our Newsletter</a>
+        <p>Get the latest news, reports, and project updates.</p>
+      </div> -->
+      <div class="container">
+        <div class="main-section-text col-md-offset-1 col-md-10 locations">
+        <h1>{{ title }}</h1>
+        {{ body }}
+        <div class="tile-set grid">
+          {% for page in pages %}
+          <div class="tile">
+            <a href="{{ page.url }}" class="tile-link grid-item">{{ page.title }}</a>
+          </div>
+          {% endfor %}
+        </div>
+        </div>
+        {% if featured != blank %}
+        <div class="expert-widget">
+          <h3 class="experts">P&R Experts</h3>
+          {% for expert in siteExperts %}
+            {% if featured contains expert.title %}
+            <div class="expert">
+                <a class="expert-name" href="{{ expert.url }}">{{ expert.title }}</a>
+                  {% assign excerpt = expert.excerpt | truncate: 200 %}
+                <p class="expert-job">{{ expert.meta.job }}</p>
+                <p class="expert-excerpt">{{ excerpt | remove: '<p>' | remove: '</p>'}}</p>
+            </div>
+            {% endif %}
+          {% endfor %}
+        </div>
+        {% elsif country != blank %}
+          {% assign experts = siteExperts | where: 'taxonomy.country[0]', country %}
+        <div class="expert-widget">
+          <h3 class="experts">P&R Experts</h3>
+          {% for expert in experts %}
+            <div class="expert">
+                <a class="expert-name" href="{{ expert.url }}">{{ expert.title }}</a>
+                  {% assign excerpt = expert.excerpt | truncate: 200 %}
+                <p class="expert-job">{{ expert.meta.job }}</p>
+                <p class="expert-excerpt">{{ excerpt | remove: '<p>' | remove: '</p>'}}</p>
+            </div>
+          {% endfor %}
+          {% if experts == blank %}
+          <p>Multicultural, multilingual, and multidisciplinary to the core—global in outlook and approach—our technical team is steeped in the challenges of delivering development solutions in the field.</p>
+          <p><a href="/who-we-are/experts">View P&R Regional Experts</a></p>
+
+          {% endif %}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </section>
+{% endcapture %}
+
+{% include 'layouts/default' %}

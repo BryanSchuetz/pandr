@@ -1,9 +1,49 @@
+<!-- gather metadata -->
+{% assign featured = current.meta.experts %}
+{% assign country = current.meta.country | downcase %}
+{% assign siteExperts = site.pages['who-we-are'].pages['experts'].posts %}
+{% assign teaser = current.assets | where: 'meta.teaser', 'true' %}
+<!-- grab content for the page -->
 {% capture content %}
   <section class="main no-header">
       <div class="container">
-        <div class="main-section-text col-md-offset-1 col-md-10">
+        <!-- check for experts to show, if so then columns -->
+        <div class="main-section-text col-md-offset-1 col-md-10 {% if featured != blank or country != blank or teaser != blank%}news{% endif %}">
          {% include 'includes/main-article' %}
         </div>
+        {% if teaser != blank %}
+          <div class="teaser">
+            <img src="{{ teaser }}" alt="">
+          </div>
+        {% endif %}
+          {% if featured != blank %}
+          <div class="expert-widget">
+            <h3 class="experts">P&R Experts</h3>
+            {% for expert in siteExperts %}
+              {% if featured contains expert.title %}
+              <div class="expert">
+                  <a class="expert-name" href="{{ expert.url }}">{{ expert.title }}</a>
+                    {% assign excerpt = expert.excerpt | truncate: 200 %}
+                  <p class="expert-job">{{ expert.meta.job }}</p>
+                  <p class="expert-excerpt">{{ excerpt | remove: '<p>' | remove: '</p>'}}</p>
+              </div>
+              {% endif %}
+            {% endfor %}
+          </div>
+          {% elsif country != blank %}
+            {% assign experts = siteExperts | where: 'taxonomy.country[0]', country %}
+          <div class="expert-widget">
+            <h3 class="experts">P&R Experts</h3>
+            {% for expert in experts %}
+              <div class="expert">
+                  <a class="expert-name" href="{{ expert.url }}">{{ expert.title }}</a>
+                    {% assign excerpt = expert.excerpt | truncate: 200 %}
+                  <p class="expert-job">{{ expert.meta.job }}</p>
+                  <p class="expert-excerpt">{{ excerpt | remove: '<p>' | remove: '</p>'}}</p>
+              </div>
+            {% endfor %}
+          </div>
+          {% endif %}
       </div>
   </section>
 {% endcapture %}
