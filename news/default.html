@@ -14,6 +14,12 @@
         {% if teaser != blank %}
           <div class="teaser">
             <img src="{{ teaser }}" alt="">
+            {% for asset in current.assets %}
+            {% if asset.meta.teaser %}
+              <p class="caption">{{ asset.meta.caption }}</p>
+            {% endif %}
+            {% endfor %}
+            <p class="caption"></p>
           </div>
         {% endif %}
           {% if featured != blank %}
