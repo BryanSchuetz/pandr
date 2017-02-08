@@ -1,5 +1,5 @@
 ---
-time: 1486593431
+time: 1486593655
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -20,8 +20,8 @@ inventory:
     md5: f38ff0bc6659546a3a4462fe160bb03c
     time: 1486593362
   "/news/investigating-an-anthrax-outbreak-in-tanzania/index.html":
-    md5: 8f67bd8e6b6fe68f7abc2b42997d4f06
-    time: 1486593364
+    md5: 77b703f5a0dde7af29bbd01dbf9abc0b
+    time: 1486593650
   "/news/updating-ebola-virus-disease-preparedness-and-response-plans-in-liberia/index.html":
     md5: e4790c19cee11c274009ca267224e7c5
     time: 1486593364
@@ -380,8 +380,8 @@ inventory:
     md5: 3b422045f98b792d0c788fce18672a75
     time: 1486593368
   "/feed.xml":
-    md5: 7b11eac72a796e8129a8d58b69e062b5
-    time: 1486593368
+    md5: 049308c8913fcabf007eb01bda1cd9d5
+    time: 1486593654
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -538,9 +538,6 @@ inventory:
   "/assets/PlanningToolFinal.pdf":
     md5: 5b835bcfc6b5185fddfa74a2e2287584
     time: 1483191917
-  "/assets/300.jpeg":
-    md5: 2ac42845bbaa369ffeed185e8cc76b5c
-    time: 1486593368
   "/styles/css/style.css":
     md5: 464192c1179704123eaac068f15baa5b
     time: 1486593368
