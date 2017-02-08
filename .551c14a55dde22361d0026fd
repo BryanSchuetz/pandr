@@ -1,5 +1,5 @@
 ---
-time: 1484238325
+time: 1486593431
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -14,131 +14,116 @@ inventory:
     md5: fc8471a9bc6892d7acb34fedbe954769
     time: 1483547011
   "/where-we-work/index.html":
-    md5: 93911d6b16e3e4bd46d51d0dfe3f1bb5
-    time: 1479489862
+    md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
+    time: 1486593362
   "/news/index.html":
-    md5: aefdb7ba40c5bcbee5353db2a45678ea
-    time: 1483612560
+    md5: f38ff0bc6659546a3a4462fe160bb03c
+    time: 1486593362
   "/news/investigating-an-anthrax-outbreak-in-tanzania/index.html":
-    md5: def9c10ecf0163eb32b60e719cdcdeb9
-    time: 1483547011
+    md5: 8f67bd8e6b6fe68f7abc2b42997d4f06
+    time: 1486593364
   "/news/updating-ebola-virus-disease-preparedness-and-response-plans-in-liberia/index.html":
-    md5: 857bd904a475b39b4b2fadeae6f008d6
-    time: 1483612440
+    md5: e4790c19cee11c274009ca267224e7c5
+    time: 1486593364
   "/news/setting-the-agenda-for-global-health-security-in-lao/index.html":
-    md5: f80e4b793b52f50c542751ac5fec342d
-    time: 1483612560
+    md5: ee574a4bd134cea06eeb06b4486a7d3d
+    time: 1486593364
   "/news/building-a-one-health-framework-in-west-africa/index.html":
-    md5: 9a02838a691f173766d92edfbf195e7b
-    time: 1480691388
+    md5: 5b6382a15b2b660839a8fb7fc62be9d4
+    time: 1486593364
   "/news/from-grassroots-movement-to-government-priority-one-health-in-bangladesh/index.html":
-    md5: b43f6fc80fe4ff246bd5a0d188da24b0
-    time: 1480691445
+    md5: a1396d104f13bceaf893abf937bde511
+    time: 1486593364
   "/news/working-with-the-private-sector-in-cameroon/index.html":
-    md5: d78b407a952d83c6346c9f379d08d43a
-    time: 1480632167
+    md5: ddcb9f4c43c7774794b1cff083a3616b
+    time: 1486593364
   "/news/uganda-one-health-day-launch/index.html":
-    md5: 59a4f39c49064e27f04df158f18ed644
-    time: 1479489862
+    md5: 9fac6abeb9cd0dc47293e2937f07d076
+    time: 1486593364
   "/news/thailand-one-health-day-2016/index.html":
-    md5: a69a30422700eb23111a240abccd6176
-    time: 1479489862
+    md5: 97c465ac118aadde4f94ca0b797895a0
+    time: 1486593364
   "/news/strengthening-west-africa-collaboration-for-epidemic-emergency-rapid-response/index.html":
-    md5: 44182a665caa08bb12cf9268fa198d74
-    time: 1479489862
+    md5: 82c90d972a48c1080c0239bbee17efb8
+    time: 1486593364
   "/news/planning-for-advocacy-and-communications-in-cameroon/index.html":
-    md5: b2e71c1f0ca3f2b3b56620989d4d8975
-    time: 1479489862
+    md5: 362f3d6b57fdac0ea735d23e9c5ad054
+    time: 1486593364
   "/news/working-together-to-work-together/index.html":
-    md5: e14afdaaef0ac7d9b8367b11be7e9e23
-    time: 1479489862
+    md5: 713088119f96d836c81d3884fc64bf7b
+    time: 1486593364
   "/news/one-health-operational-guidelines-in-bangladesh/index.html":
-    md5: 79f53bc0a1ff05748918116652ed20e7
-    time: 1479489862
+    md5: ad2d49e651a8edbd04f8c0bcfdf3dcd5
+    time: 1486593364
   "/news/animal-and-human-health-surveillance-in-liberia/index.html":
-    md5: d62135309e44a6394fd70bcc6fffba1a
-    time: 1479489862
+    md5: d79cbf84a474f03a1204b44c08ab6e54
+    time: 1486593364
   "/news/building-a-policy-and-advocacy-strategy-in-kenya/index.html":
-    md5: 3701084b7fef98556b3b22743ec64d4b
-    time: 1479489863
+    md5: 90eb0f34d15666925dbf55d7ec660127
+    time: 1486593364
   "/news/assessing-one-health-training-in-indonesia/index.html":
-    md5: 34721fa823fd2882862875f28285a5e5
-    time: 1479489863
+    md5: 0c9c70912bdbbcd692c0269b4be6f4b1
+    time: 1486593364
   "/news/engaging-the-east-african-community-secretariat/index.html":
-    md5: 3ffe0654eee8542844eeb537b404cf14
-    time: 1479489863
+    md5: b9030ce9c40cd0d49767987bccda3331
+    time: 1486593364
   "/news/planning-epidemic-response-in-cameroon/index.html":
-    md5: 78eaf39053fb2ce4fa0f3459a94ac161
-    time: 1479489863
+    md5: ecf2b4f2b73a10f0f08dbde2db555fa2
+    time: 1486593364
   "/news/challenges-commitments-at-central-and-east-africas-one-health-conference/index.html":
-    md5: 080183ea5f571818d7edfcc75125a216
-    time: 1479489863
+    md5: 52e21391b1bc0478e097ce240aa8c9fe
+    time: 1486593364
   "/news/one-health-workshop/index.html":
-    md5: 0a9d6df155f233572e43826d6ac56db2
-    time: 1479489863
+    md5: 0e24686888bd85a3aa4fe96cb5e80d71
+    time: 1486593364
   "/news/private-sector-planning-and-audit-tools-for-emerging-infectious-disease/index.html":
-    md5: bac07565963e93e2b59c86de26006385
-    time: 1483192126
+    md5: 495a67cc11ea5328736da810445f443e
+    time: 1486593364
   "/news/archive/index.html":
-    md5: 999d778f65db2a5e145d985e16ec161b
-    time: 1479489863
-  "/news/tags/index.html":
-    md5: 0e5835c38a0316c5c1384fafe3c3b1a8
-    time: 1483612560
-  "/news/tags/bangladesh/index.html":
-    md5: 23d818d17001f8a2cf3d345cbe6cf171
-    time: 1483612560
-  "/news/tags/guidelines/index.html":
-    md5: 2780dee1a35c831b7fe75a84fade37f6
-    time: 1483612560
-  "/news/tags/liberia/index.html":
-    md5: 34e71712adac1aa806ba5098fdf30475
-    time: 1483612560
-  "/news/tags/private-sector/index.html":
-    md5: 33d851fed47b19cd6f92482c73ac84da
-    time: 1483612560
-  "/news/tags/kenya/index.html":
-    md5: 2d16643c01e1ee435e635ff1839057fc
-    time: 1483612560
-  "/news/tags/policy/index.html":
-    md5: cc3fde07fae37abb0bffcb1b1e02d6ea
-    time: 1483612560
-  "/news/tags/indonesia/index.html":
-    md5: d81d7ae9e31c29375c57ea69253854bd
-    time: 1483612560
-  "/news/tags/integrated-surveillance/index.html":
-    md5: 8da5e0450a806baa97e069c5695cfa53
-    time: 1483612560
-  "/news/tags/institutional-capacity-building/index.html":
-    md5: d8f55ebc01ef4f674262f7306e25e99d
-    time: 1483612561
-  "/news/tags/cameroon/index.html":
-    md5: 32b7e770d29f00288a02e30a435dfd5b
-    time: 1483612561
-  "/news/tags/h5n1/index.html":
-    md5: 3c95a89a5b6d7c3cc036d73e5c5f1b90
-    time: 1483612561
-  "/news/tags/avian-flu/index.html":
-    md5: 8c839503fb54717c2be9e1fa28a0f80a
-    time: 1483612561
-  "/news/tags/mprp/index.html":
-    md5: 44117d202e7694ad8576fbc0c1212341
-    time: 1483612561
-  "/news/tags/one-health-expertise/index.html":
-    md5: 10627312281ed02b45b7467f9870b6f9
-    time: 1483612561
-  "/news/tags/ohcea/index.html":
-    md5: 60ac8ddddfe1eebf2ca88fedc12bc780
-    time: 1483612561
-  "/news/tags/conference/index.html":
-    md5: 4d249f1bf3b86d6b6a659a3d98d60fb7
-    time: 1483612561
-  "/news/tags/workshops/index.html":
-    md5: 9a091d73a0d66541acd6af50a4de6408
-    time: 1483612561
-  "/news/tags/global/index.html":
-    md5: 71c37e9f6f01c7c3a140d33ac2266a12
-    time: 1483612561
+    md5: d10ec6e2b167699fea2bf0ffda6b4f53
+    time: 1486593364
+  "/news/region/index.html":
+    md5: f07448cced8578cc82a6d743452dde00
+    time: 1486593364
+  "/news/region/africa/index.html":
+    md5: 46293b710fb8a37dd212be5c1b62613a
+    time: 1486593364
+  "/news/region/asia/index.html":
+    md5: f36713d5be526ec840e961dfa530a0de
+    time: 1486593364
+  "/news/region/global/index.html":
+    md5: 5280723bcb2685cebecb372a75b7f944
+    time: 1486593364
+  "/news/country/index.html":
+    md5: 39078f650626209f623fd1bb38847494
+    time: 1486593364
+  "/news/country/tanzania/index.html":
+    md5: e6422aef25b324f30493d212905cc00e
+    time: 1486593364
+  "/news/country/liberia/index.html":
+    md5: 4ce89bb9fc0a568aa6fc4784fc43e096
+    time: 1486593365
+  "/news/country/lao/index.html":
+    md5: 37e08578c5f7ffa56669c68e78238020
+    time: 1486593365
+  "/news/country/bangladesh/index.html":
+    md5: aa8a4f0487621d6fe5bdb26d57569663
+    time: 1486593365
+  "/news/country/cameroon/index.html":
+    md5: 439c7bd9f3ce3f5245310a963978a7f2
+    time: 1486593365
+  "/news/country/uganda/index.html":
+    md5: 502142f15f64712ddb0dd1ba63955bd6
+    time: 1486593365
+  "/news/country/thailand/index.html":
+    md5: c9f311046c9baf6f3c80df10a28dfebd
+    time: 1486593365
+  "/news/country/kenya/index.html":
+    md5: c083bad0ae1aff0315c86f58135d1e33
+    time: 1486593365
+  "/news/country/indonesia/index.html":
+    md5: d402a0d2d7ff95b1196333a6a54eae3c
+    time: 1486593365
   "/treehouse/index.html":
     md5: e6a001adc216114f23dc2dee29261463
     time: 1484238316
@@ -152,8 +137,8 @@ inventory:
     md5: a65a83aaa3ab64bb8935d323de09de04
     time: 1479489864
   "/treehouse/archive/index.html":
-    md5: aea354d2c95284aaebe7175f211be9fd
-    time: 1479489864
+    md5: 9cdde2f0387dcfb359e2a267d5c05d8c
+    time: 1486593365
   "/treehouse/tags/index.html":
     md5: 299d934da1e4a6a618fc64184005b787
     time: 1479489864
@@ -170,47 +155,47 @@ inventory:
     md5: 84e8e5fecd47cc5b03ba3e98986d3cd5
     time: 1479489864
   "/where-we-work/bangladesh/index.html":
-    md5: e9f99c90c83d0219e47de13a0e5973ba
-    time: 1479489864
+    md5: d832f1551183d303fdc7763f7c094414
+    time: 1486593366
   "/where-we-work/cameroon/index.html":
-    md5: d4c11a7d59b3dccd9d2253263537c875
-    time: 1479489864
+    md5: f2396468a134ab3ca5958d3d6635dc11
+    time: 1486593366
   "/where-we-work/cote-divoire/index.html":
-    md5: b9b5f9a40600f4f4426504ed8ff53b3e
-    time: 1479489864
+    md5: 3b04e1ca12a60d147925f0fba54daeef
+    time: 1486593366
   "/where-we-work/ethiopia/index.html":
-    md5: 8fe2369f59e504f094fc76d6da439b18
-    time: 1479489864
+    md5: 4cfc3944bee9e3c00a47945816b6fcea
+    time: 1486593366
   "/where-we-work/indonesia/index.html":
-    md5: 37e806ef5a30f597e55bac88d09b2928
-    time: 1479489864
+    md5: b7c2c63fa02679f632bed02a3e91dfa4
+    time: 1486593366
   "/where-we-work/kenya/index.html":
-    md5: 501d440d01859afcd19b994e91fd088f
-    time: 1479489864
+    md5: 5328772976229d79754d6741fa785ba6
+    time: 1486593366
   "/where-we-work/laos/index.html":
-    md5: 548868de4227274c0bc55a8c2f6682ed
-    time: 1479489864
+    md5: 6a992689939decd655b0696af4ca8987
+    time: 1486593366
   "/where-we-work/liberia/index.html":
-    md5: 3316f26f357f22c004ba0e9a67efe0ef
-    time: 1479489864
+    md5: 753ad98d765f88bba85d5de1f89ffd01
+    time: 1486593366
   "/where-we-work/mali/index.html":
-    md5: 5bfecf17bef70f4df9a68176ae32e6ce
-    time: 1479489864
+    md5: acda699d93a0fd8a6adfde47c23678c0
+    time: 1486593366
   "/where-we-work/rwanda/index.html":
-    md5: e408b28b2fd06808bde88eec033f32d4
-    time: 1479489864
+    md5: af7c2d0ad09ca90dbc38b7ba5eede31c
+    time: 1486593366
   "/where-we-work/senegal/index.html":
-    md5: 82494bd676f21033bf270a4953c2bd9b
-    time: 1479489865
+    md5: 68e99492fdb60c24e84c978e1ed8e58f
+    time: 1486593366
   "/where-we-work/thailand/index.html":
-    md5: 463d50282a23440e8e4912aff9bdf9b7
-    time: 1479489865
+    md5: 0d55083354beb4ceea777b9e95ead7b8
+    time: 1486593366
   "/where-we-work/uganda/index.html":
-    md5: a09a1c3ec88f8e42089c9d3a6985f73b
-    time: 1479489865
+    md5: c484c5abb4b4541436e68766c8c8fb23
+    time: 1486593366
   "/where-we-work/vietnam/index.html":
-    md5: 8551021dfa4ad18ed4aaceb26b88dcfa
-    time: 1479489865
+    md5: 99547e5718fe2ee0510dc353fd368239
+    time: 1486593366
   "/who-we-are/careers/index.html":
     md5: 2e0f64bb4b0d08ab4fb84740599ce6fa
     time: 1481735929
@@ -218,17 +203,17 @@ inventory:
     md5: e8f4a26ea10e8129863d06c38e02d183
     time: 1481735929
   "/who-we-are/careers/archive/index.html":
-    md5: 3bcea5394a21e1ed6ef1c9eb72caa34d
-    time: 1481735929
+    md5: 7636a195b986cd8c027514711b1f93ff
+    time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: fcd816ce6a91a71abfec40f52e5bfc06
-    time: 1483612561
+    md5: f29fbce5cf706e7c49ee2d93870e6744
+    time: 1486593366
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
   "/who-we-are/experts/index.html":
-    md5: 4ee00c43e807755508886576314c42e0
-    time: 1479489865
+    md5: 1644256b79f9b0190e93a98b60f03408
+    time: 1486593367
   "/who-we-are/experts/le-thahn-hai/index.html":
     md5: 0094fc035b2e3046d4c41289445f93ec
     time: 1479489865
@@ -245,14 +230,14 @@ inventory:
     md5: 745ab6addc9f5e9990637a36f187cf45
     time: 1479489865
   "/who-we-are/experts/winyi-kaboyo/index.html":
-    md5: 0d5c4c968a7c9f079b823c6565f15191
-    time: 1479489865
+    md5: 676fd868949c5b25b8c6a3dbf1c4d05a
+    time: 1486593367
   "/who-we-are/experts/john-kunde/index.html":
     md5: 2be69d572781ecaf3182c4c5f31f470f
     time: 1479489865
   "/who-we-are/experts/boaz-tumwesigye/index.html":
-    md5: 3c86dcd9f016f8a65f0cccfffc0f3a39
-    time: 1479489865
+    md5: d05aed9eaacd13191bfabc5cee72bc3b
+    time: 1486593367
   "/who-we-are/experts/thomas-nyariki/index.html":
     md5: b3df39dd7c8ef022797f774288ad2875
     time: 1479489865
@@ -263,20 +248,20 @@ inventory:
     md5: 86a229f1229673238f6f0c3fdcaba5b7
     time: 1479489865
   "/who-we-are/experts/samuel-muriuki/index.html":
-    md5: df7cf714439e9eac14cc587dc2e0ed7b
-    time: 1479489866
+    md5: b8e22659e36df2ce1fa0eb5c4bcf881e
+    time: 1486593367
   "/who-we-are/experts/david-mutonga/index.html":
     md5: 89d4c094f0abced6b7f3373063addfb4
     time: 1479489866
   "/who-we-are/experts/serge-nzietcheung/index.html":
-    md5: 2d9d342484b2da3e3a487d35c82b7bee
-    time: 1479489866
+    md5: 297b175553be7ec63d8ec639503458f9
+    time: 1486593367
   "/who-we-are/experts/andrew-kitua/index.html":
-    md5: f1f3d4de5c496e54ca323b0574289785
-    time: 1479489866
+    md5: aede92a42eea159ad5a0cf8d79bf8174
+    time: 1486593367
   "/who-we-are/experts/mukeh-fahnbulleh/index.html":
-    md5: bd34f762dba018043cb411e415952309
-    time: 1479489866
+    md5: ac824e4e19634e0eb3cc714879fd74b4
+    time: 1486593367
   "/who-we-are/experts/djeneba-sylla/index.html":
     md5: 9b01e87834d0eae9eee5851985bd5644
     time: 1479489866
@@ -308,11 +293,11 @@ inventory:
     md5: d416557bce97d08a82bf8bdee6ac2ba9
     time: 1479489866
   "/who-we-are/experts/mark-rasmuson/index.html":
-    md5: e4a4a85d036c696748de80a1c8ed8e68
-    time: 1479489866
+    md5: c7c4c07f53d36762bc749de5edf42a75
+    time: 1486593367
   "/who-we-are/experts/sambe-duale/index.html":
-    md5: d3395163d77171ae986c5f3f6c2eca96
-    time: 1479489866
+    md5: 4e797a884e69d084b10fcba1ada36b06
+    time: 1486593368
   "/who-we-are/experts/katie-taratus/index.html":
     md5: 236a2c182cee7709cc3b13c3649f69f6
     time: 1479489866
@@ -320,20 +305,83 @@ inventory:
     md5: 182c62f0a1c0fe801fcd4dd112cc2846
     time: 1479489866
   "/who-we-are/experts/archive/index.html":
-    md5: eeb9f91e4ffa1c5f5b48be920293d3a0
-    time: 1479489866
+    md5: eca8e11934bdae1cb61e2c2794d77b73
+    time: 1486593368
   "/who-we-are/experts/tags/index.html":
     md5: 7427ad8d49e68ecfbd884c8367cae10d
     time: 1479489866
+  "/who-we-are/experts/country/index.html":
+    md5: 28442fd89a6c422022efb030fde5ae54
+    time: 1486593368
+  "/who-we-are/experts/country/bangladesh/index.html":
+    md5: dfa7ff1268c47b2f562ec9012cc88463
+    time: 1486593368
+  "/who-we-are/experts/country/indonesia/index.html":
+    md5: bb7952850bb10ad207e41f19108291a7
+    time: 1486593368
+  "/who-we-are/experts/country/uganda/index.html":
+    md5: 322c7570ae2bccad0f1f3e84d1e509d8
+    time: 1486593368
+  "/who-we-are/experts/country/tanzania/index.html":
+    md5: c8eb0aad0bdf61e133ba0361f1691f3c
+    time: 1486593368
+  "/who-we-are/experts/country/rwanda/index.html":
+    md5: 470db6362882da9e09a66f6a49e39a51
+    time: 1486593368
+  "/who-we-are/experts/country/kenya/index.html":
+    md5: 34248dbff6c401fe2adddb168e15abde
+    time: 1486593368
+  "/who-we-are/experts/country/ethiopia/index.html":
+    md5: ded218f3c933b30d9224e5192d5ca44a
+    time: 1486593368
+  "/who-we-are/experts/country/cameroon/index.html":
+    md5: d1e0bb53608acb0269c21026357b6315
+    time: 1486593368
+  "/who-we-are/experts/country/sierra-leone/index.html":
+    md5: 707c4c784547ffc258096e4e351a5512
+    time: 1486593368
+  "/who-we-are/experts/country/mali/index.html":
+    md5: 56855a513b0b66edf61047cc9f1cf6f1
+    time: 1486593368
+  "/who-we-are/experts/country/liberia/index.html":
+    md5: 78c1a0129e10600064a8df0e9b6e59bb
+    time: 1486593368
+  "/who-we-are/experts/country/guinea/index.html":
+    md5: 17c811a7342671fd2c30fca68a2c3c23
+    time: 1486593368
+  "/who-we-are/experts/country/cote-d-ivoire/index.html":
+    md5: 3b242d7aa0e06e564f3ca3e96c764d04
+    time: 1486593368
+  "/who-we-are/experts/country/africa/index.html":
+    md5: d1f67c5cd8edb0b65264868d0bed9319
+    time: 1486593368
+  "/who-we-are/experts/region/index.html":
+    md5: 14ad5db8df5e87ede3a24d47e757d049
+    time: 1486593368
+  "/who-we-are/experts/region/asia/index.html":
+    md5: 09715eee7bf38934888c244c0be31cd3
+    time: 1486593368
+  "/who-we-are/experts/region/africa/index.html":
+    md5: d1f67c5cd8edb0b65264868d0bed9319
+    time: 1486593368
+  "/who-we-are/experts/region/global/index.html":
+    md5: 602f8fd75a7426a631dddd35ce18035e
+    time: 1486593368
+  "/who-we-are/experts/coutnry/index.html":
+    md5: 63f73cddb65965da0f9489647a865037
+    time: 1486593368
+  "/who-we-are/experts/coutnry/bangladesh/index.html":
+    md5: dfa7ff1268c47b2f562ec9012cc88463
+    time: 1486593368
   "/CNAME":
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 034405f2b20b3758b07275ee0fe75ae9
-    time: 1484238320
+    md5: 3b422045f98b792d0c788fce18672a75
+    time: 1486593368
   "/feed.xml":
-    md5: 36bc4a02d7edb89fd675e1bcd6e7a0be
-    time: 1484238320
+    md5: 7b11eac72a796e8129a8d58b69e062b5
+    time: 1486593368
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -487,12 +535,15 @@ inventory:
   "/js/site.js":
     md5: 139b1ccbbec74b22317ea3c1c8c47a84
     time: 1479489866
-  "/styles/css/style.css":
-    md5: 100f8e2dab2c6a1f1db90e5c161ce853
-    time: 1479489867
   "/assets/PlanningToolFinal.pdf":
     md5: 5b835bcfc6b5185fddfa74a2e2287584
     time: 1483191917
+  "/assets/300.jpeg":
+    md5: 2ac42845bbaa369ffeed185e8cc76b5c
+    time: 1486593368
+  "/styles/css/style.css":
+    md5: 464192c1179704123eaac068f15baa5b
+    time: 1486593368
   "/assets/553663be5dde228f260018a5-1.jpg":
     md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447101340
@@ -523,6 +574,9 @@ inventory:
   "/assets/fondation merieux.JPG":
     md5: f3bfdd0d9bd5490911ff50a69ceb888c
     time: 1450283587
+  "/assets/300-1.jpeg":
+    md5: 2ac42845bbaa369ffeed185e8cc76b5c
+    time: 1486593369
   "/assets/africa_farming.jpg":
     md5: 0cd7ac5fe0496c664f091e88ccda96ae
     time: 1449576967
