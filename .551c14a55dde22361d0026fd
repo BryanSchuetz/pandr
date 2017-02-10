@@ -1,5 +1,5 @@
 ---
-time: 1486764306
+time: 1486767938
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -11,14 +11,17 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: 2cea094a10d9bce40b325ff6ca1ca734
-    time: 1486756172
+    md5: dfa1128ab295ac100f89d92f8deb7746
+    time: 1486767931
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: d66c2244c104cd38ab019d4f39990716
-    time: 1486756175
+    md5: f4b5ad06b90a088d927d024a955eb20a
+    time: 1486767932
+  "/news/planning-for-coordination-before-an-outbreak-in-indonesia/index.html":
+    md5: 99d9751ae7a76c45365f693500f27264
+    time: 1486767932
   "/news/responding-to-avian-influenza-in-bangladesh/index.html":
     md5: 0fcda0b457985e60df1653d19ba77702
     time: 1486764300
@@ -209,8 +212,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: 7f8eca50dbfa56fef81a029058f4d599
-    time: 1486756208
+    md5: 021dbcaa57b5d74fcfcefd3c8522f3a8
+    time: 1486767934
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -380,11 +383,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: b8e7df34135a1f743bf0d177e8e2c4b3
-    time: 1486764304
+    md5: 469bef6235ca18cf70e7d524505540d8
+    time: 1486767935
   "/feed.xml":
-    md5: acf1d8976c71d4dc1131e106484c68e5
-    time: 1486764304
+    md5: c9b8080dcdf573c0979792e68ad72266
+    time: 1486767935
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
