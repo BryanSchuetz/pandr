@@ -1,5 +1,5 @@
 ---
-time: 1486756233
+time: 1486764306
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -20,8 +20,8 @@ inventory:
     md5: d66c2244c104cd38ab019d4f39990716
     time: 1486756175
   "/news/responding-to-avian-influenza-in-bangladesh/index.html":
-    md5: 716489b9509adc62348587639871c23b
-    time: 1486756176
+    md5: 0fcda0b457985e60df1653d19ba77702
+    time: 1486764300
   "/news/investigating-an-anthrax-outbreak-in-tanzania/index.html":
     md5: 77b703f5a0dde7af29bbd01dbf9abc0b
     time: 1486593650
@@ -380,11 +380,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 3215e57146256dafd7eba57a6bba6ea0
-    time: 1486756221
+    md5: b8e7df34135a1f743bf0d177e8e2c4b3
+    time: 1486764304
   "/feed.xml":
-    md5: e65a628f4982221cfb5b94d4fde1ad0f
-    time: 1486756222
+    md5: acf1d8976c71d4dc1131e106484c68e5
+    time: 1486764304
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -544,6 +544,9 @@ inventory:
   "/styles/css/style.css":
     md5: 464192c1179704123eaac068f15baa5b
     time: 1486593368
+  "/assets/bangladesh_hpai.jpg":
+    md5: 88479279d789ff7d86146336633e7b29
+    time: 1486764304
   "/assets/553663be5dde228f260018a5-1.jpg":
     md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447101340
