@@ -1,5 +1,5 @@
 ---
-time: 1487009168
+time: 1487009288
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -11,8 +11,8 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: 3b1a7365644e74be29ce828292eb9fb4
-    time: 1487009160
+    md5: 900348e4a707d94904ff6816b28470b7
+    time: 1487009282
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
@@ -20,8 +20,8 @@ inventory:
     md5: ac91859894980518c77d1d5b1f12b75e
     time: 1487009160
   "/news/the-threat-of-highly-pathogenic-avian-influenza-in-east-africa/index.html":
-    md5: 72d88667205575a305e23f17098028c5
-    time: 1487009160
+    md5: 061bd9b56768d0fc9f6713f0e6469f72
+    time: 1487009283
   "/news/planning-for-coordination-before-an-outbreak-in-indonesia/index.html":
     md5: 99d9751ae7a76c45365f693500f27264
     time: 1486767932
@@ -386,11 +386,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 8646a8a90a762cdcefcdfbd6b39ee7c6
-    time: 1487009165
+    md5: 34783bb7409b73af6c789358074e807d
+    time: 1487009286
   "/feed.xml":
-    md5: cd25c0be81d57c12194c17da10964a33
-    time: 1487009165
+    md5: acbfb88744d3e92646a412a22e2973e2
+    time: 1487009286
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
