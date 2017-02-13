@@ -1,5 +1,5 @@
 ---
-time: 1487009288
+time: 1487009926
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -20,8 +20,8 @@ inventory:
     md5: ac91859894980518c77d1d5b1f12b75e
     time: 1487009160
   "/news/the-threat-of-highly-pathogenic-avian-influenza-in-east-africa/index.html":
-    md5: 061bd9b56768d0fc9f6713f0e6469f72
-    time: 1487009283
+    md5: aad1b047d174989c6d8f51348568b937
+    time: 1487009920
   "/news/planning-for-coordination-before-an-outbreak-in-indonesia/index.html":
     md5: 99d9751ae7a76c45365f693500f27264
     time: 1486767932
@@ -389,8 +389,8 @@ inventory:
     md5: 34783bb7409b73af6c789358074e807d
     time: 1487009286
   "/feed.xml":
-    md5: acbfb88744d3e92646a412a22e2973e2
-    time: 1487009286
+    md5: c37f7b992b15a5164808bdfd1efe4ac2
+    time: 1487009924
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -553,6 +553,9 @@ inventory:
   "/assets/bangladesh_hpai.jpg":
     md5: 88479279d789ff7d86146336633e7b29
     time: 1486764304
+  "/assets/uganda_hpai.jpg":
+    md5: 48cdbb5ac98e0275023e885dbd377c11
+    time: 1487009924
   "/assets/553663be5dde228f260018a5-1.jpg":
     md5: 2f2f620939b4dbfadf1a517d4e35a848
     time: 1447101340
