@@ -1,5 +1,5 @@
 ---
-time: 1486767938
+time: 1487009168
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -11,14 +11,17 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: dfa1128ab295ac100f89d92f8deb7746
-    time: 1486767931
+    md5: 3b1a7365644e74be29ce828292eb9fb4
+    time: 1487009160
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: f4b5ad06b90a088d927d024a955eb20a
-    time: 1486767932
+    md5: ac91859894980518c77d1d5b1f12b75e
+    time: 1487009160
+  "/news/the-threat-of-highly-pathogenic-avian-influenza-in-east-africa/index.html":
+    md5: 72d88667205575a305e23f17098028c5
+    time: 1487009160
   "/news/planning-for-coordination-before-an-outbreak-in-indonesia/index.html":
     md5: 99d9751ae7a76c45365f693500f27264
     time: 1486767932
@@ -91,11 +94,11 @@ inventory:
   "/news/region/index.html":
     md5: f07448cced8578cc82a6d743452dde00
     time: 1486593364
-  "/news/region/asia/index.html":
-    md5: f36713d5be526ec840e961dfa530a0de
-    time: 1486593364
   "/news/region/africa/index.html":
     md5: 46293b710fb8a37dd212be5c1b62613a
+    time: 1486593364
+  "/news/region/asia/index.html":
+    md5: f36713d5be526ec840e961dfa530a0de
     time: 1486593364
   "/news/region/global/index.html":
     md5: 5280723bcb2685cebecb372a75b7f944
@@ -212,8 +215,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: 021dbcaa57b5d74fcfcefd3c8522f3a8
-    time: 1486767934
+    md5: 252e05e25820cf11c048106a1a5ecec9
+    time: 1487009164
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -383,11 +386,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 469bef6235ca18cf70e7d524505540d8
-    time: 1486767935
+    md5: 8646a8a90a762cdcefcdfbd6b39ee7c6
+    time: 1487009165
   "/feed.xml":
-    md5: c9b8080dcdf573c0979792e68ad72266
-    time: 1486767935
+    md5: cd25c0be81d57c12194c17da10964a33
+    time: 1487009165
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
