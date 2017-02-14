@@ -1,5 +1,5 @@
 ---
-time: 1487010992
+time: 1487111974
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -26,8 +26,8 @@ inventory:
     md5: 9902c0c2ee8b58abc5161b47762718df
     time: 1487010983
   "/news/responding-to-avian-influenza-in-bangladesh/index.html":
-    md5: 0fcda0b457985e60df1653d19ba77702
-    time: 1486764300
+    md5: d225fb999e5e14d78ad793250ecd5b65
+    time: 1487111963
   "/news/investigating-an-anthrax-outbreak-in-tanzania/index.html":
     md5: 77b703f5a0dde7af29bbd01dbf9abc0b
     time: 1486593650
@@ -386,11 +386,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: beb9a0477fb58c23e353f1684065df5e
-    time: 1487010989
+    md5: 255569c8357dbab250afc0618ed8ce5b
+    time: 1487111971
   "/feed.xml":
-    md5: e806c0be1f57a0fcac067d88241873a8
-    time: 1487010989
+    md5: f8c04e73157750b86cc4f37d627aab0a
+    time: 1487111971
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
