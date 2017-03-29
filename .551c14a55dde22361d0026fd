@@ -1,5 +1,5 @@
 ---
-time: 1490815812
+time: 1490815852
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -17,8 +17,8 @@ inventory:
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: 133b522333f2159e01570bb44d38c0f7
-    time: 1490815805
+    md5: a826d78b2fae3dbb9d67070cbdaa447e
+    time: 1490815846
   "/news/multisectoral-collaboration-with-existinginstitutional-frameworks/index.html":
     md5: 612b75e9c3476a9fb7ef126d5ec0300e
     time: 1490815805
@@ -218,8 +218,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: eaf6ab0fe1621a1e934f6a7ea32a03ea
-    time: 1490815808
+    md5: 3b33bb7264e823dac604010049ee4213
+    time: 1490815849
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -389,11 +389,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 73ec57da86d925a7cea598d559dcf758
-    time: 1490815809
+    md5: c26684d8a53285fbe95474a211360549
+    time: 1490815850
   "/feed.xml":
-    md5: 28f8154c3cdc2902bd7c3155d59857c7
-    time: 1490815809
+    md5: f1e8540bf15f4bd493ecad8c0385c3d0
+    time: 1490815850
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
