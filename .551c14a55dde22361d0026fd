@@ -1,5 +1,5 @@
 ---
-time: 1487111974
+time: 1490815647
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -11,14 +11,17 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: a9bad3e71ab39b997f03718bf9b11ea3
-    time: 1487010628
+    md5: f06470b72faf1b96a356b7b1282b5385
+    time: 1490815639
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: 6a5f4ad1205a474a17ce37ea0783efbc
-    time: 1487010982
+    md5: 2c38a89e88886efcf0bb91b719d05ffd
+    time: 1490815639
+  "/news/multisectoral-collaboration-with-existinginstitutional-frameworks/index.html":
+    md5: 2698779e9e6f6d1ba5ef569147e388a1
+    time: 1490815640
   "/news/the-threat-of-highly-pathogenic-avian-influenza-in-east-africa/index.html":
     md5: 0c2751407344818b0aea3584d551b792
     time: 1487010628
@@ -215,8 +218,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: 33ea61f9a69ccf0bcce05012ab51a137
-    time: 1487010987
+    md5: 0a38e270b584bfaf7fc91193338a329d
+    time: 1490815643
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -386,11 +389,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 255569c8357dbab250afc0618ed8ce5b
-    time: 1487111971
+    md5: c8973827c3c180d36938c6c847fd050c
+    time: 1490815644
   "/feed.xml":
-    md5: f8c04e73157750b86cc4f37d627aab0a
-    time: 1487111971
+    md5: 264425b17d77f37590df525505b12902
+    time: 1490815644
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
