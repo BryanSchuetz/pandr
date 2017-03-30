@@ -1,5 +1,5 @@
 ---
-time: 1490815852
+time: 1490886829
 inventory:
   "/indexhtml/index.html":
     md5: dabcc615d70a03c0b4d6790670ecaa6c
@@ -11,14 +11,17 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: d85e6fd3e5190e6abdbb37d21535864c
-    time: 1490815805
+    md5: 801dadf3960de4aa7a1ba997dda840f8
+    time: 1490886822
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: a826d78b2fae3dbb9d67070cbdaa447e
-    time: 1490815846
+    md5: d21ae31d2cd7a4a0e2f143c085ee8fb4
+    time: 1490886822
+  "/news/key-government-partners-commit-to-collaboration-for-health-security-in-indonesia/index.html":
+    md5: dc7f823a8a476b432ecc141191e3708e
+    time: 1490886822
   "/news/multisectoral-collaboration-with-existinginstitutional-frameworks/index.html":
     md5: 612b75e9c3476a9fb7ef126d5ec0300e
     time: 1490815805
@@ -218,8 +221,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: 3b33bb7264e823dac604010049ee4213
-    time: 1490815849
+    md5: 2d67fedbb9f480a319a6811b44e1ffa4
+    time: 1490886825
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -389,11 +392,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: c26684d8a53285fbe95474a211360549
-    time: 1490815850
+    md5: 976d2be340aefd6507f82ce42060f76d
+    time: 1490886826
   "/feed.xml":
-    md5: f1e8540bf15f4bd493ecad8c0385c3d0
-    time: 1490815850
+    md5: e0c117476f629f733dd7b1a602841436
+    time: 1490886826
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
