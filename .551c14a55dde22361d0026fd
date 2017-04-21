@@ -1,5 +1,5 @@
 ---
-time: 1491590417
+time: 1492800581
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -11,17 +11,17 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: 753e276a7ccf736e0f2122255ed06e9d
-    time: 1491362913
+    md5: 22e8bddb9076886ba0858362da03e1bd
+    time: 1492800572
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: 8a010c777b72a91da53026253a292420
-    time: 1491362914
+    md5: c2164d9e8ee2e507c52c5148c0e1324d
+    time: 1492800572
   "/news/one-health-policy-modeling-in-ethiopia/index.html":
-    md5: f063d6c1e495d3c1f4784f175cac2ae6
-    time: 1491362914
+    md5: d08544872e44256e00cedf885eda1144
+    time: 1492800572
   "/news/key-government-partners-commit-to-collaboration-for-health-security-in-indonesia/index.html":
     md5: dc7f823a8a476b432ecc141191e3708e
     time: 1490886822
@@ -224,8 +224,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: d463797dcbf35fe71fd69e609cbd9859
-    time: 1491362917
+    md5: 596c8b315baa960d439b615ee8529070
+    time: 1492800576
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -395,11 +395,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: fddbd54eb448d09f258180cd99bad5ab
-    time: 1491589621
+    md5: d0a75d415cd38b6d4d32978076d8b818
+    time: 1492800578
   "/feed.xml":
-    md5: 2cdbd36e92dcd00ff150d56b413fe79a
-    time: 1491590416
+    md5: ce0de71e4de779b183bec2a1bd492aae
+    time: 1492800578
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
