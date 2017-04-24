@@ -1,5 +1,5 @@
 ---
-time: 1492800581
+time: 1493046968
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -26,8 +26,8 @@ inventory:
     md5: dc7f823a8a476b432ecc141191e3708e
     time: 1490886822
   "/news/multisectoral-collaboration-with-existinginstitutional-frameworks/index.html":
-    md5: 612b75e9c3476a9fb7ef126d5ec0300e
-    time: 1490815805
+    md5: dda13f90020addbe88df7d426f1fcbc3
+    time: 1493046961
   "/news/the-threat-of-highly-pathogenic-avian-influenza-in-east-africa/index.html":
     md5: 0c2751407344818b0aea3584d551b792
     time: 1487010628
@@ -200,8 +200,8 @@ inventory:
     md5: acda699d93a0fd8a6adfde47c23678c0
     time: 1486593366
   "/where-we-work/rwanda/index.html":
-    md5: af7c2d0ad09ca90dbc38b7ba5eede31c
-    time: 1486593366
+    md5: 9024e6645fe6577fa1300e29bd8f46ca
+    time: 1493046964
   "/where-we-work/senegal/index.html":
     md5: 68e99492fdb60c24e84c978e1ed8e58f
     time: 1486593366
@@ -230,8 +230,8 @@ inventory:
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
   "/who-we-are/experts/index.html":
-    md5: 1644256b79f9b0190e93a98b60f03408
-    time: 1486593367
+    md5: fdab4fedeae4e342a14468646dde9e2a
+    time: 1493046964
   "/who-we-are/experts/le-thahn-hai/index.html":
     md5: 0094fc035b2e3046d4c41289445f93ec
     time: 1479489865
@@ -253,9 +253,9 @@ inventory:
   "/who-we-are/experts/john-kunde/index.html":
     md5: 2be69d572781ecaf3182c4c5f31f470f
     time: 1479489865
-  "/who-we-are/experts/boaz-tumwesigye/index.html":
-    md5: d05aed9eaacd13191bfabc5cee72bc3b
-    time: 1486593367
+  "/who-we-are/experts/jean-felix-kinani/index.html":
+    md5: 43b0b6b98e126a6d1d63c8da943694e4
+    time: 1493046965
   "/who-we-are/experts/thomas-nyariki/index.html":
     md5: b3df39dd7c8ef022797f774288ad2875
     time: 1479489865
@@ -398,8 +398,8 @@ inventory:
     md5: d0a75d415cd38b6d4d32978076d8b818
     time: 1492800578
   "/feed.xml":
-    md5: ce0de71e4de779b183bec2a1bd492aae
-    time: 1492800578
+    md5: 7bb54f358b6ff15fbf526e723cbb0508
+    time: 1493046966
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
