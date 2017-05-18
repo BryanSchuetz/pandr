@@ -1,5 +1,5 @@
 ---
-time: 1493046968
+time: 1495119634
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -11,14 +11,17 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: 22e8bddb9076886ba0858362da03e1bd
-    time: 1492800572
+    md5: bc6df57ff5c67531a5f3c854a04e0034
+    time: 1495119625
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: c2164d9e8ee2e507c52c5148c0e1324d
-    time: 1492800572
+    md5: 596164170f033485b872fc22428659a0
+    time: 1495119625
+  ? "/news/in-burundi-raising-awarenessneed-for-outbreak-preparedness-at-the-6th-east-african-health-and-scientific-conference/index.html"
+  : md5: dcc990d5cb7fd3114fb5e913c478ee51
+    time: 1495119626
   "/news/one-health-policy-modeling-in-ethiopia/index.html":
     md5: d08544872e44256e00cedf885eda1144
     time: 1492800572
@@ -224,8 +227,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: 596c8b315baa960d439b615ee8529070
-    time: 1492800576
+    md5: 9817c5aa21498e07329363cfa25f7c3f
+    time: 1495119629
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -395,11 +398,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: d0a75d415cd38b6d4d32978076d8b818
-    time: 1492800578
+    md5: c9f6d4f4bebb281f2518918900a307e1
+    time: 1495119631
   "/feed.xml":
-    md5: 7bb54f358b6ff15fbf526e723cbb0508
-    time: 1493046966
+    md5: eca29924b82b0fc4a43cb35eb584ad79
+    time: 1495119631
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
