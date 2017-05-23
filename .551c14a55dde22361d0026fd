@@ -1,5 +1,5 @@
 ---
-time: 1495552910
+time: 1495553268
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -11,8 +11,8 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: 664c3404eebdff9100edb4f63e94768e
-    time: 1495552770
+    md5: f52e9907f87d7eb7ea84a477c31260b6
+    time: 1495553261
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
@@ -20,8 +20,8 @@ inventory:
     md5: 0a73802ed78d8c8795048b5ae1fe4cb9
     time: 1495552771
   "/news/the-role-of-environment-in-one-health-and-national-security/index.html":
-    md5: 56432f3186141a0a4c986bff22600126
-    time: 1495552771
+    md5: 560487b2586c7f1e90c3e7526d20a0fb
+    time: 1495553261
   ? "/news/in-burundi-raising-awarenessneed-for-outbreak-preparedness-at-the-6th-east-african-health-and-scientific-conference/index.html"
   : md5: 5f035f2beb6e33458efc190b958f05e9
     time: 1495120493
@@ -401,11 +401,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 61e43e0b68145ea43164ff568e2ae75f
-    time: 1495552776
+    md5: 4ca7426d4718d3582e9d1ad5a0a84241
+    time: 1495553266
   "/feed.xml":
-    md5: 2e1b6fb31aa9951bfb4605a4980f1121
-    time: 1495552776
+    md5: f07d28c583f488af702f7c5cd247501d
+    time: 1495553266
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -571,9 +571,6 @@ inventory:
   "/assets/uganda_hpai.jpg":
     md5: 48cdbb5ac98e0275023e885dbd377c11
     time: 1487009924
-  "/assets/Environment National Security.pdf":
-    md5: fe492b65d6133d1094bf6acc07bcf1e0
-    time: 1495552776
   "/assets/facts.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180082
