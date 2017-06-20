@@ -1,5 +1,5 @@
 ---
-time: 1497988221
+time: 1497988664
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -11,14 +11,17 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: d243215e09d59d70b424ded9d2daae53
-    time: 1497988210
+    md5: 1d938daef51b527cc5ea1555f000dc77
+    time: 1497988657
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: 4723156465917fe91f7ce10c9887999c
-    time: 1497988210
+    md5: b8298bf108d40a3a25f5da084b77706c
+    time: 1497988657
+  ? "/news/capacity-building-support-for-epidemics-prevention-training-the-national-rapid-response-team-nrrt-of-cote-divoire/index.html"
+  : md5: be88f6c51da9d5c1220b4827dd94cd21
+    time: 1497988657
   "/news/uganda-rolls-out-one-health-strategy-planning-development-process/index.html":
     md5: 6dc71977a6088d2fc0c8fe9d8bb4ca0d
     time: 1497988211
@@ -233,8 +236,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: 394468168ebc41613ff4820c6ec5b049
-    time: 1497988216
+    md5: 8a4ab0317efcb8661fcbc598600aa915
+    time: 1497988660
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -404,11 +407,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 4293d962ad60800a643ecf2ffa529940
-    time: 1497988217
+    md5: 7a7054cfaee0018c11ffbdb872455686
+    time: 1497988661
   "/feed.xml":
-    md5: d2e6bf9d97b98ea696381d99d26b9030
-    time: 1497988218
+    md5: 8540d5f6fd9f42783ebe2f10b42ee6d0
+    time: 1497988661
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
