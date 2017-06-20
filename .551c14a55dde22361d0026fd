@@ -1,5 +1,5 @@
 ---
-time: 1495725483
+time: 1497988221
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -11,14 +11,17 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: eecbaab58780dffab585872ebd3b59c4
-    time: 1495725307
+    md5: d243215e09d59d70b424ded9d2daae53
+    time: 1497988210
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: 3fc2809d7b252a9413d958c815450a61
-    time: 1495725477
+    md5: 4723156465917fe91f7ce10c9887999c
+    time: 1497988210
+  "/news/uganda-rolls-out-one-health-strategy-planning-development-process/index.html":
+    md5: 6dc71977a6088d2fc0c8fe9d8bb4ca0d
+    time: 1497988211
   "/news/the-role-of-environment-in-one-health-and-national-security/index.html":
     md5: c371404347c5c020b978e398f6b9b8b4
     time: 1495725307
@@ -230,8 +233,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: 85e980d20a25930718ae762b04abb271
-    time: 1495725479
+    md5: 394468168ebc41613ff4820c6ec5b049
+    time: 1497988216
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -401,11 +404,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 4a81a8503cf098aed417dde24925f75d
-    time: 1495725481
+    md5: 4293d962ad60800a643ecf2ffa529940
+    time: 1497988217
   "/feed.xml":
-    md5: ebbdb0f6f7afc1f8d033ff88306a6b88
-    time: 1495725481
+    md5: d2e6bf9d97b98ea696381d99d26b9030
+    time: 1497988218
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
