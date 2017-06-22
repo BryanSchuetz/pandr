@@ -1,5 +1,5 @@
 ---
-time: 1497994650
+time: 1498098768
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -17,8 +17,8 @@ inventory:
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: 70836a9167a2cad0d204d853f290acc5
-    time: 1497994643
+    md5: e55ed81d21d43eb6cd0bbde714ebd365
+    time: 1498098761
   "/news/ministerial-representatives-train-on-emergency-operating-center-eoc-principles-during-usaid-pr-workshop/index.html":
     md5: 5f7af434aa6d85d4a203bf3aa9cbc89d
     time: 1497994643
@@ -26,8 +26,8 @@ inventory:
   : md5: faf103b7ba5b9df8ff63148db83da7f9
     time: 1497994643
   "/news/uganda-rolls-out-one-health-strategy-planning-development-process/index.html":
-    md5: 9f7d587be621b9f922cd876a13edfe77
-    time: 1497993772
+    md5: 09bff9b355e5ae0ac8b264e2717eeace
+    time: 1498098761
   "/news/the-role-of-environment-in-one-health-and-national-security/index.html":
     md5: c371404347c5c020b978e398f6b9b8b4
     time: 1495725307
@@ -239,8 +239,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: 9c64be5e574dd1d6efc791ee71a3d0ed
-    time: 1497994646
+    md5: aca478c47dc25af295ff45ad641b2494
+    time: 1498098764
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -410,11 +410,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: ba67b15dc51c7492459ea6b20fa21764
-    time: 1497994647
+    md5: 09db6cec3c0a021341c17f814bc200fb
+    time: 1498098765
   "/feed.xml":
-    md5: fc48f222b001871145d4902cc51e4eae
-    time: 1497994647
+    md5: 5a7e41befa7675187ef881ec29398055
+    time: 1498098765
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
