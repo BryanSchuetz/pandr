@@ -1,5 +1,5 @@
 ---
-time: 1498099047
+time: 1498099187
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -11,17 +11,17 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: cf8b0929750d1ea630c3900d2dc073c7
-    time: 1497994643
+    md5: 46baef20ec218a2848ffed41b6d7a7cb
+    time: 1498099180
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: dd6d9259dc5dd6df3247ca3ee0c650b4
-    time: 1498099041
+    md5: ee5f65e2d23418a8655e7671511e9d5b
+    time: 1498099180
   "/news/ministerial-representatives-train-on-emergency-operating-center-eoc-principles-during-usaid-pr-workshop/index.html":
-    md5: 5f7af434aa6d85d4a203bf3aa9cbc89d
-    time: 1497994643
+    md5: 811f4aea8ee7ef45b8641de08975c39c
+    time: 1498099180
   ? "/news/capacity-building-support-for-epidemics-prevention-training-the-national-rapid-response-team-nrrt-of-cote-divoire/index.html"
   : md5: 5c861f475d8b1bc4b475c4f96fdef5b0
     time: 1498099041
@@ -239,8 +239,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: c7991d4cbe6809b822cab8b826e57afb
-    time: 1498099043
+    md5: 75f6d7219eaf4c7ff4ce097ccdb86e5e
+    time: 1498099183
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -410,11 +410,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: e53519d932d8776d6c88f4887ba8a49b
-    time: 1498099045
+    md5: 8bdeeb56dcb556795de337339fe2c71d
+    time: 1498099184
   "/feed.xml":
-    md5: fc352fbcc0335396133a52f8656b21e5
-    time: 1498099045
+    md5: 0ea4a8b8c78a23cc2a5de8442ff2d326
+    time: 1498099184
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
