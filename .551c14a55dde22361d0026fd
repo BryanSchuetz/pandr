@@ -1,5 +1,5 @@
 ---
-time: 1498098768
+time: 1498099047
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -17,14 +17,14 @@ inventory:
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: e55ed81d21d43eb6cd0bbde714ebd365
-    time: 1498098761
+    md5: dd6d9259dc5dd6df3247ca3ee0c650b4
+    time: 1498099041
   "/news/ministerial-representatives-train-on-emergency-operating-center-eoc-principles-during-usaid-pr-workshop/index.html":
     md5: 5f7af434aa6d85d4a203bf3aa9cbc89d
     time: 1497994643
   ? "/news/capacity-building-support-for-epidemics-prevention-training-the-national-rapid-response-team-nrrt-of-cote-divoire/index.html"
-  : md5: faf103b7ba5b9df8ff63148db83da7f9
-    time: 1497994643
+  : md5: 5c861f475d8b1bc4b475c4f96fdef5b0
+    time: 1498099041
   "/news/uganda-rolls-out-one-health-strategy-planning-development-process/index.html":
     md5: 09bff9b355e5ae0ac8b264e2717eeace
     time: 1498098761
@@ -239,8 +239,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: aca478c47dc25af295ff45ad641b2494
-    time: 1498098764
+    md5: c7991d4cbe6809b822cab8b826e57afb
+    time: 1498099043
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -410,11 +410,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 09db6cec3c0a021341c17f814bc200fb
-    time: 1498098765
+    md5: e53519d932d8776d6c88f4887ba8a49b
+    time: 1498099045
   "/feed.xml":
-    md5: 5a7e41befa7675187ef881ec29398055
-    time: 1498098765
+    md5: fc352fbcc0335396133a52f8656b21e5
+    time: 1498099045
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
