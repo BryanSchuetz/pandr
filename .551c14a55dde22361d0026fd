@@ -1,5 +1,5 @@
 ---
-time: 1499777709
+time: 1499777882
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -11,14 +11,20 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: 53c351938145687057f1be2eeda9d5d2
-    time: 1499777701
+    md5: 2195808cc88fc2e7074278307296b57e
+    time: 1499777874
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: 041fd713ede6cc9b1cc8790d35357dcd
-    time: 1499777701
+    md5: 9d9e567aef6b447f95accf51eda97d6b
+    time: 1499777874
+  "/news/indonesia-zdap-meeting/index.html":
+    md5: 331211bd0a3417c2d895e990e2604259
+    time: 1499777874
+  "/news/rwanda-prioritizes-zoonotic-diseases/index.html":
+    md5: 6af43025304035cbfbcf0f6417c6019f
+    time: 1499777874
   "/news/joint-external-evaluation-ghsa-support/index.html":
     md5: cb4a3342001e28f86911dd6eaf8d012d
     time: 1499777702
@@ -242,8 +248,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: 16cff1cc70e18b3f78f59ca0fda62a98
-    time: 1499777704
+    md5: b3391a8ab99228cf4339b9a18455f632
+    time: 1499777877
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -413,11 +419,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: ba49f6c26536a818cf0347f09126e61c
-    time: 1499777706
+    md5: 23471bdba22c0a2dfdfa1b866de462dd
+    time: 1499777878
   "/feed.xml":
-    md5: f59bfbbc6a7103694b21f8ea23136ff6
-    time: 1499777706
+    md5: e07b292c3dd06001a52057e4ff86d019
+    time: 1499777878
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
