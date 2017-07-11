@@ -1,5 +1,5 @@
 ---
-time: 1499777994
+time: 1499778119
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -23,8 +23,8 @@ inventory:
     md5: 331211bd0a3417c2d895e990e2604259
     time: 1499777874
   "/news/rwanda-prioritizes-zoonotic-diseases/index.html":
-    md5: 6af43025304035cbfbcf0f6417c6019f
-    time: 1499777874
+    md5: cc0a53a5a31e37864f5a1b7244c386e6
+    time: 1499778113
   "/news/joint-external-evaluation-ghsa-support/index.html":
     md5: 878d606c11f572de4268aff27d92f8d5
     time: 1499777988
@@ -419,11 +419,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 86b791298a412f99784570356cb13ac7
-    time: 1499777993
+    md5: 8d8d2e3662010d6c15d6b745f5f36335
+    time: 1499778117
   "/feed.xml":
-    md5: f2a1709666b9a30df125cef677c153a3
-    time: 1499777993
+    md5: 961e2ab403e10cb36ed5a3f031634c67
+    time: 1499778117
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
