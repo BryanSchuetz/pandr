@@ -1,5 +1,5 @@
 ---
-time: 1499787109
+time: 1499787169
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -11,17 +11,14 @@ inventory:
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
   "/what-we-do/index.html":
-    md5: 2195808cc88fc2e7074278307296b57e
-    time: 1499777874
+    md5: 869e1f9726f5541acaa90ff7e3c29495
+    time: 1499787162
   "/where-we-work/index.html":
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: 621e73b810bfc1086090d9803c5f01b3
-    time: 1499787102
-  "/news/indonesia-zdap-meeting/index.html":
-    md5: 41e77da97350732281721244f436f31a
-    time: 1499787102
+    md5: bf600bcc21614ea48ced2f2d3fd4d8d3
+    time: 1499787162
   "/news/rwanda-prioritizes-zoonotic-diseases/index.html":
     md5: cc0a53a5a31e37864f5a1b7244c386e6
     time: 1499778113
@@ -118,6 +115,9 @@ inventory:
   "/news/private-sector-planning-and-audit-tools-for-emerging-infectious-disease/index.html":
     md5: 495a67cc11ea5328736da810445f443e
     time: 1486593364
+  "/news/indonesia-zdap-meeting/index.html":
+    md5: 41e77da97350732281721244f436f31a
+    time: 1499787102
   "/news/joint-external-evaluation-ghsa-support/index.html":
     md5: 878d606c11f572de4268aff27d92f8d5
     time: 1499777988
@@ -248,8 +248,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: 0ea1a52032aa95cda1727895c00dfddb
-    time: 1499787105
+    md5: f30a00e468ea6724e367e3d99e3feee0
+    time: 1499787165
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -419,11 +419,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: dc1764b370dcf0f232ce900715b7f07e
-    time: 1499787106
+    md5: 010e1d8d55f4b2553f24f18391914b5a
+    time: 1499787166
   "/feed.xml":
-    md5: da05b20d461205f14a6db9014b7ebbdd
-    time: 1499787106
+    md5: efcb804ad67940f822ddee3f081d2300
+    time: 1499787166
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
