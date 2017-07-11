@@ -1,5 +1,5 @@
 ---
-time: 1499778119
+time: 1499787109
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -17,17 +17,14 @@ inventory:
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: 9d9e567aef6b447f95accf51eda97d6b
-    time: 1499777874
+    md5: 621e73b810bfc1086090d9803c5f01b3
+    time: 1499787102
   "/news/indonesia-zdap-meeting/index.html":
-    md5: 331211bd0a3417c2d895e990e2604259
-    time: 1499777874
+    md5: 41e77da97350732281721244f436f31a
+    time: 1499787102
   "/news/rwanda-prioritizes-zoonotic-diseases/index.html":
     md5: cc0a53a5a31e37864f5a1b7244c386e6
     time: 1499778113
-  "/news/joint-external-evaluation-ghsa-support/index.html":
-    md5: 878d606c11f572de4268aff27d92f8d5
-    time: 1499777988
   "/news/ministerial-representatives-train-on-emergency-operating-center-eoc-principles-during-usaid-pr-workshop/index.html":
     md5: ea5a2fe7eacad65f58c33afd7e561a7a
     time: 1499708683
@@ -121,6 +118,9 @@ inventory:
   "/news/private-sector-planning-and-audit-tools-for-emerging-infectious-disease/index.html":
     md5: 495a67cc11ea5328736da810445f443e
     time: 1486593364
+  "/news/joint-external-evaluation-ghsa-support/index.html":
+    md5: 878d606c11f572de4268aff27d92f8d5
+    time: 1499777988
   "/news/archive/index.html":
     md5: d10ec6e2b167699fea2bf0ffda6b4f53
     time: 1486593364
@@ -248,8 +248,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: b3391a8ab99228cf4339b9a18455f632
-    time: 1499777877
+    md5: 0ea1a52032aa95cda1727895c00dfddb
+    time: 1499787105
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -419,11 +419,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 8d8d2e3662010d6c15d6b745f5f36335
-    time: 1499778117
+    md5: dc1764b370dcf0f232ce900715b7f07e
+    time: 1499787106
   "/feed.xml":
-    md5: 961e2ab403e10cb36ed5a3f031634c67
-    time: 1499778117
+    md5: da05b20d461205f14a6db9014b7ebbdd
+    time: 1499787106
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
