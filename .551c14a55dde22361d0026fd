@@ -1,5 +1,5 @@
 ---
-time: 1500383513
+time: 1500383749
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -17,11 +17,17 @@ inventory:
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: 3e3b7ce77963c65aba54cf8264c13779
-    time: 1500383506
+    md5: 72cbe811a8e56cb8519b6c08383288f1
+    time: 1500383743
   "/news/indonesia-zdap-meeting/index.html":
     md5: 783f4e220c52da48a78989cda916e7f6
     time: 1500383506
+  "/news/rwanda-prioritizes-zoonotic-diseases/index.html":
+    md5: cc0a53a5a31e37864f5a1b7244c386e6
+    time: 1499778113
+  "/news/joint-external-evaluation-ghsa-support/index.html":
+    md5: 878d606c11f572de4268aff27d92f8d5
+    time: 1499777988
   "/news/ministerial-representatives-train-on-emergency-operating-center-eoc-principles-during-usaid-pr-workshop/index.html":
     md5: f11e9b25bd2ffc9d936511c6e6a9a6cb
     time: 1500312315
@@ -115,12 +121,6 @@ inventory:
   "/news/private-sector-planning-and-audit-tools-for-emerging-infectious-disease/index.html":
     md5: 495a67cc11ea5328736da810445f443e
     time: 1486593364
-  "/news/rwanda-prioritizes-zoonotic-diseases/index.html":
-    md5: cc0a53a5a31e37864f5a1b7244c386e6
-    time: 1499778113
-  "/news/joint-external-evaluation-ghsa-support/index.html":
-    md5: 878d606c11f572de4268aff27d92f8d5
-    time: 1499777988
   "/news/archive/index.html":
     md5: d10ec6e2b167699fea2bf0ffda6b4f53
     time: 1486593364
@@ -248,8 +248,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: 218f4bbb9e43deb2909ae5ce3da927bf
-    time: 1500383509
+    md5: 28d6e275e9a90495feb3f286a7d8b361
+    time: 1500383746
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -419,11 +419,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: 02b5f41ad84bc4465cc99d4e69a521e8
-    time: 1500383510
+    md5: ef1fcbf6814390e66f9d9dcb9a76edf7
+    time: 1500383747
   "/feed.xml":
-    md5: e36b2f78fb04776f352ad8081912ff8c
-    time: 1500383510
+    md5: 9826bbb4feb70fc0618c5cf8b1bdd841
+    time: 1500383747
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
