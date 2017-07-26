@@ -1,5 +1,5 @@
 ---
-time: 1501085195
+time: 1501085242
 inventory:
   "/indexhtml/index.html":
     md5: 22fecac1224a1cbd87a928b9fa81a647
@@ -595,6 +595,9 @@ inventory:
   "/assets/uganda_hpai.jpg":
     md5: 48cdbb5ac98e0275023e885dbd377c11
     time: 1487009924
+  "/assets/Liberia NPHIL remarks.jpg":
+    md5: b95c164835a7832c6f683a45ff5f311c
+    time: 1501085241
   "/assets/facts.pdf":
     md5: 2bd4e212d6be9c0a529eb80a5319e05d
     time: 1447180082
