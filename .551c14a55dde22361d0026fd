@@ -1,12 +1,12 @@
 ---
-time: 1501092763
+time: 1501092835
 inventory:
   "/indexhtml/index.html":
-    md5: 197ed5456c40270fdb109828e234186f
-    time: 1501092757
+    md5: c36e706eb993e29766b434bc0711056b
+    time: 1501092829
   "/index.html":
-    md5: 197ed5456c40270fdb109828e234186f
-    time: 1501092757
+    md5: c36e706eb993e29766b434bc0711056b
+    time: 1501092829
   "/who-we-are/index.html":
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
@@ -428,8 +428,8 @@ inventory:
     md5: b820fa2f9f30eed02f4ddf6e0a333399
     time: 1501088867
   "/feed.xml":
-    md5: d37647074aae7b219aad4a7baf2d0749
-    time: 1501092761
+    md5: 3e7fdd706c7e6045814506327adfcf8b
+    time: 1501092834
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -628,9 +628,6 @@ inventory:
   "/assets/300-1.jpeg":
     md5: 2ac42845bbaa369ffeed185e8cc76b5c
     time: 1486593369
-  "/assets/world_health_day.jpg":
-    md5: cd457533b17c19997d8393370e9c1464
-    time: 1501090067
   "/assets/palladium logo.PNG":
     md5: 1d8ff0ef277250d3f202486cca0049e7
     time: 1450283587
