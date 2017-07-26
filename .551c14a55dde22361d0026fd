@@ -1,12 +1,12 @@
 ---
-time: 1501091672
+time: 1501092620
 inventory:
   "/indexhtml/index.html":
-    md5: ea63e2c21836bdabe2a1e0a45cb09eab
-    time: 1501091665
+    md5: bbabab91428762392017a202ecf1eec5
+    time: 1501092614
   "/index.html":
-    md5: ea63e2c21836bdabe2a1e0a45cb09eab
-    time: 1501091665
+    md5: bbabab91428762392017a202ecf1eec5
+    time: 1501092614
   "/who-we-are/index.html":
     md5: 076c1760b59df2099d71c6f33d891293
     time: 1479489861
@@ -428,8 +428,8 @@ inventory:
     md5: b820fa2f9f30eed02f4ddf6e0a333399
     time: 1501088867
   "/feed.xml":
-    md5: 4f41aa48b8825f4208b576aa3e88bf1a
-    time: 1501091669
+    md5: 090ca775759e39753d9b7f6d73e8eecc
+    time: 1501092618
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
@@ -640,9 +640,9 @@ inventory:
   "/assets/afenet logo.png":
     md5: b94eae324a9c940bb2a8422ab9987bdf
     time: 1450283587
-  "/assets/liberia_launch_large_2.jpg":
-    md5: b8d23f735ccb828d73597e0452d8fa43
-    time: 1501091670
+  "/assets/west_africa_launches.jpg":
+    md5: e3f8e54fef0d819ea862d58ca3a47a25
+    time: 1501092619
   "/assets/dai_logo.jpg":
     md5: a1648b9249790c4bba57a47674b2e397
     time: 1450283842
