@@ -1,5 +1,5 @@
 ---
-time: 1501179861
+time: 1501179911
 inventory:
   "/indexhtml/index.html":
     md5: a93ec107fc0e34ca81c898847da087d1
@@ -23,8 +23,8 @@ inventory:
     md5: ffc3cec0c80beffa33f4b9f84c208c85
     time: 1501177311
   "/news/indonesia-zdap-meeting/index.html":
-    md5: 5f5ad7054cabfb6729e000b1fea75d6c
-    time: 1501179854
+    md5: 67a7affa33ebf847335860a2ce5df22f
+    time: 1501179906
   "/news/rwanda-prioritizes-zoonotic-diseases/index.html":
     md5: a982820137e209740b947f268b5aa789
     time: 1501177311
@@ -416,11 +416,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: a793440c56d8f86a323c54772d71fe8b
-    time: 1501179858
+    md5: fe031d03e97811b8aadcd663afb995f2
+    time: 1501179910
   "/feed.xml":
-    md5: d1d0b5af583b9c47d304f714b7d06ec4
-    time: 1501179858
+    md5: 3877b19be3b87372d646483ae7d2dc0f
+    time: 1501179910
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
