@@ -1,5 +1,5 @@
 ---
-time: 1501175993
+time: 1501176134
 inventory:
   "/indexhtml/index.html":
     md5: a93ec107fc0e34ca81c898847da087d1
@@ -260,11 +260,11 @@ inventory:
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
   "/who-we-are/experts/index.html":
-    md5: d384d93627f271a87dce0d9adeda8ca0
-    time: 1501175983
+    md5: 56da83c955c51883408cfc47c8303165
+    time: 1501176131
   "/who-we-are/experts/asfri-rangkuti/index.html":
-    md5: 8844dc97d91fc635e43211a35438ee6c
-    time: 1501175983
+    md5: 6617e8ea15fb30e65f15697e09333ee3
+    time: 1501176131
   "/who-we-are/experts/le-thahn-hai/index.html":
     md5: 0094fc035b2e3046d4c41289445f93ec
     time: 1479489865
@@ -425,8 +425,8 @@ inventory:
     md5: dec2cb7baf746a455c0486df00a39b82
     time: 1501174221
   "/feed.xml":
-    md5: 32b6a10e1d8b416d8ad63ae7a0ddb45f
-    time: 1501175984
+    md5: a21979aef4a8e89442948e2ed442545f
+    time: 1501176132
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
