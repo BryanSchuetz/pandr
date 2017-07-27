@@ -1,5 +1,5 @@
 ---
-time: 1501177330
+time: 1501179753
 inventory:
   "/indexhtml/index.html":
     md5: a93ec107fc0e34ca81c898847da087d1
@@ -17,14 +17,14 @@ inventory:
     md5: f9bef8566d2fe0f757bc0ecdcfbce6fe
     time: 1486593362
   "/news/index.html":
-    md5: c8a155d4cf07e3c6bcbba5c7b3f81c24
-    time: 1501174217
+    md5: a1623dd5661f64c5d90c39f368ff7da9
+    time: 1501179746
   "/news/liberia-and-sierra-leone-launch-one-health-platforms/index.html":
     md5: ffc3cec0c80beffa33f4b9f84c208c85
     time: 1501177311
   "/news/indonesia-zdap-meeting/index.html":
-    md5: 9bc6420770b69fa6b79d06e3c31e244e
-    time: 1501177311
+    md5: b46c50e943e90a93fabc1b19437f0132
+    time: 1501179746
   "/news/rwanda-prioritizes-zoonotic-diseases/index.html":
     md5: a982820137e209740b947f268b5aa789
     time: 1501177311
@@ -254,8 +254,8 @@ inventory:
     md5: 7636a195b986cd8c027514711b1f93ff
     time: 1486593366
   "/who-we-are/careers/tags/index.html":
-    md5: 190478bb93c26bd6aad202489678942d
-    time: 1501174220
+    md5: 9eff070c37b76dd7df04b36bd8142028
+    time: 1501179749
   "/who-we-are/partners/index.html":
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
@@ -416,11 +416,11 @@ inventory:
     md5: 01b5d2d2f539ba55a433748e6670e2bb
     time: 1447091544
   "/sitemap.xml":
-    md5: dec2cb7baf746a455c0486df00a39b82
-    time: 1501174221
+    md5: 0da0dd8ca592d3fc1ef77c81bb684592
+    time: 1501179751
   "/feed.xml":
-    md5: 924c39062833ed4ae3f34102bc1fa59c
-    time: 1501177319
+    md5: f70a1fb1cbd87c23a47ba567b435de60
+    time: 1501179751
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
