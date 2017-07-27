@@ -1,5 +1,5 @@
 ---
-time: 1501174224
+time: 1501175993
 inventory:
   "/indexhtml/index.html":
     md5: a93ec107fc0e34ca81c898847da087d1
@@ -20,32 +20,32 @@ inventory:
     md5: c8a155d4cf07e3c6bcbba5c7b3f81c24
     time: 1501174217
   "/news/liberia-and-sierra-leone-launch-one-health-platforms/index.html":
-    md5: b739d9db6e0d02fc10a0e491ad9a1343
-    time: 1501088863
+    md5: 4437f668e7fc1226aba80d298a6b4f76
+    time: 1501175978
   "/news/indonesia-zdap-meeting/index.html":
-    md5: e885b0fdf4652415078950c9e767f2cc
-    time: 1500389479
+    md5: 09bc29386eb59e764f5a4e4c967a99e0
+    time: 1501175978
   "/news/rwanda-prioritizes-zoonotic-diseases/index.html":
-    md5: 467d47f6c5c84c001827f99824f9dc46
-    time: 1501174217
+    md5: a43a91eecafcd3e27e898023f104e981
+    time: 1501175978
   "/news/joint-external-evaluation-ghsa-support/index.html":
-    md5: 878d606c11f572de4268aff27d92f8d5
-    time: 1499777988
+    md5: d230080cf9d31597ad0972b160bb89f4
+    time: 1501175978
   "/news/ministerial-representatives-train-on-emergency-operating-center-eoc-principles-during-usaid-pr-workshop/index.html":
-    md5: f11e9b25bd2ffc9d936511c6e6a9a6cb
-    time: 1500312315
+    md5: c04bf6888d8b9fe0a4794fb8dc37a534
+    time: 1501175978
   ? "/news/capacity-building-support-for-epidemics-prevention-training-the-national-rapid-response-team-nrrt-of-cote-divoire/index.html"
-  : md5: 5c861f475d8b1bc4b475c4f96fdef5b0
-    time: 1498099041
+  : md5: 16c4c00a04155f11c31e533ae001e807
+    time: 1501175978
   "/news/uganda-rolls-out-one-health-strategy-planning-development-process/index.html":
     md5: 4be7e0ec282c13c4de485073b1745b7a
     time: 1499363123
   "/news/the-role-of-environment-in-one-health-and-national-security/index.html":
-    md5: c371404347c5c020b978e398f6b9b8b4
-    time: 1495725307
+    md5: 3ffaa440bb156d84ee7bf08b81da0181
+    time: 1501175978
   ? "/news/in-burundi-raising-awarenessneed-for-outbreak-preparedness-at-the-6th-east-african-health-and-scientific-conference/index.html"
-  : md5: 7830b20c944469cf3b71600a3ee006bb
-    time: 1495725477
+  : md5: 876d6c7eb3ce8acd7c097a8e1b0b807a
+    time: 1501175979
   "/news/one-health-policy-modeling-in-ethiopia/index.html":
     md5: d08544872e44256e00cedf885eda1144
     time: 1492800572
@@ -56,8 +56,8 @@ inventory:
     md5: dda13f90020addbe88df7d426f1fcbc3
     time: 1493046961
   "/news/the-threat-of-highly-pathogenic-avian-influenza-in-east-africa/index.html":
-    md5: 0c2751407344818b0aea3584d551b792
-    time: 1487010628
+    md5: a5c714ea35aca7ea34bc91065be771f1
+    time: 1501175979
   "/news/planning-for-coordination-before-an-outbreak-in-indonesia/index.html":
     md5: 9902c0c2ee8b58abc5161b47762718df
     time: 1487010983
@@ -74,8 +74,8 @@ inventory:
     md5: ee574a4bd134cea06eeb06b4486a7d3d
     time: 1486593364
   "/news/building-a-one-health-framework-in-west-africa/index.html":
-    md5: 5b6382a15b2b660839a8fb7fc62be9d4
-    time: 1486593364
+    md5: ee9de42e03ec84b3a443933f8b239807
+    time: 1501175979
   "/news/from-grassroots-movement-to-government-priority-one-health-in-bangladesh/index.html":
     md5: a1396d104f13bceaf893abf937bde511
     time: 1486593364
@@ -89,14 +89,14 @@ inventory:
     md5: 97c465ac118aadde4f94ca0b797895a0
     time: 1486593364
   "/news/strengthening-west-africa-collaboration-for-epidemic-emergency-rapid-response/index.html":
-    md5: 82c90d972a48c1080c0239bbee17efb8
-    time: 1486593364
+    md5: eb188e3937d3c7f81783ab719b4db5de
+    time: 1501175979
   "/news/planning-for-advocacy-and-communications-in-cameroon/index.html":
     md5: 362f3d6b57fdac0ea735d23e9c5ad054
     time: 1486593364
   "/news/working-together-to-work-together/index.html":
-    md5: 713088119f96d836c81d3884fc64bf7b
-    time: 1486593364
+    md5: 57c569b5938b84358613a352ee587215
+    time: 1501175979
   "/news/one-health-operational-guidelines-in-bangladesh/index.html":
     md5: ad2d49e651a8edbd04f8c0bcfdf3dcd5
     time: 1486593364
@@ -110,14 +110,14 @@ inventory:
     md5: 0c9c70912bdbbcd692c0269b4be6f4b1
     time: 1486593364
   "/news/engaging-the-east-african-community-secretariat/index.html":
-    md5: b9030ce9c40cd0d49767987bccda3331
-    time: 1486593364
+    md5: 970f70d53b488b983432383c0f6b8f78
+    time: 1501175980
   "/news/planning-epidemic-response-in-cameroon/index.html":
     md5: ecf2b4f2b73a10f0f08dbde2db555fa2
     time: 1486593364
   "/news/challenges-commitments-at-central-and-east-africas-one-health-conference/index.html":
-    md5: 52e21391b1bc0478e097ce240aa8c9fe
-    time: 1486593364
+    md5: 6ff8bc44df7a2624a4f7884c71972dca
+    time: 1501175980
   "/news/one-health-workshop/index.html":
     md5: 0e24686888bd85a3aa4fe96cb5e80d71
     time: 1486593364
@@ -260,8 +260,11 @@ inventory:
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
   "/who-we-are/experts/index.html":
-    md5: fdab4fedeae4e342a14468646dde9e2a
-    time: 1493046964
+    md5: d384d93627f271a87dce0d9adeda8ca0
+    time: 1501175983
+  "/who-we-are/experts/asfri-rangkuti/index.html":
+    md5: 8844dc97d91fc635e43211a35438ee6c
+    time: 1501175983
   "/who-we-are/experts/le-thahn-hai/index.html":
     md5: 0094fc035b2e3046d4c41289445f93ec
     time: 1479489865
@@ -328,17 +331,11 @@ inventory:
   "/who-we-are/experts/dr-lionel-gbaguidi/index.html":
     md5: 9ce1d77af85c8a078b7f5a52ed266d63
     time: 1479489866
-  "/who-we-are/experts/baba-soumare/index.html":
-    md5: 33d0bf18bd97b05489812a99b42d756c
-    time: 1479489866
   "/who-we-are/experts/louise-flynn/index.html":
     md5: 0b25506333d324ac94d22f5c6e4f2037
     time: 1479489866
   "/who-we-are/experts/robert-salerno/index.html":
     md5: 88bddb2aa03f4798347fcadfe1a4f24c
-    time: 1479489866
-  "/who-we-are/experts/dara-carr/index.html":
-    md5: d416557bce97d08a82bf8bdee6ac2ba9
     time: 1479489866
   "/who-we-are/experts/mark-rasmuson/index.html":
     md5: c7c4c07f53d36762bc749de5edf42a75
@@ -428,8 +425,8 @@ inventory:
     md5: dec2cb7baf746a455c0486df00a39b82
     time: 1501174221
   "/feed.xml":
-    md5: cdcc87fc2e01821c67c0a8e9b97ae195
-    time: 1501174221
+    md5: 32b6a10e1d8b416d8ad63ae7a0ddb45f
+    time: 1501175984
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
