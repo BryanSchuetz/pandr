@@ -1,5 +1,5 @@
 ---
-time: 1501176134
+time: 1501177330
 inventory:
   "/indexhtml/index.html":
     md5: a93ec107fc0e34ca81c898847da087d1
@@ -20,32 +20,32 @@ inventory:
     md5: c8a155d4cf07e3c6bcbba5c7b3f81c24
     time: 1501174217
   "/news/liberia-and-sierra-leone-launch-one-health-platforms/index.html":
-    md5: 4437f668e7fc1226aba80d298a6b4f76
-    time: 1501175978
+    md5: ffc3cec0c80beffa33f4b9f84c208c85
+    time: 1501177311
   "/news/indonesia-zdap-meeting/index.html":
-    md5: 09bc29386eb59e764f5a4e4c967a99e0
-    time: 1501175978
+    md5: 9bc6420770b69fa6b79d06e3c31e244e
+    time: 1501177311
   "/news/rwanda-prioritizes-zoonotic-diseases/index.html":
-    md5: a43a91eecafcd3e27e898023f104e981
-    time: 1501175978
+    md5: a982820137e209740b947f268b5aa789
+    time: 1501177311
   "/news/joint-external-evaluation-ghsa-support/index.html":
-    md5: d230080cf9d31597ad0972b160bb89f4
-    time: 1501175978
+    md5: db6f701425bccb751167a29b791f9e1a
+    time: 1501177311
   "/news/ministerial-representatives-train-on-emergency-operating-center-eoc-principles-during-usaid-pr-workshop/index.html":
-    md5: c04bf6888d8b9fe0a4794fb8dc37a534
-    time: 1501175978
+    md5: addc092c53eb3d7d6377a4245f69fbc5
+    time: 1501177311
   ? "/news/capacity-building-support-for-epidemics-prevention-training-the-national-rapid-response-team-nrrt-of-cote-divoire/index.html"
-  : md5: 16c4c00a04155f11c31e533ae001e807
-    time: 1501175978
+  : md5: 8d9a7d23d9a9be8e7e603b36111c1b96
+    time: 1501177311
   "/news/uganda-rolls-out-one-health-strategy-planning-development-process/index.html":
     md5: 4be7e0ec282c13c4de485073b1745b7a
     time: 1499363123
   "/news/the-role-of-environment-in-one-health-and-national-security/index.html":
-    md5: 3ffaa440bb156d84ee7bf08b81da0181
-    time: 1501175978
+    md5: eb8e2093fb51e43e9d83531e8a4c0ba4
+    time: 1501177311
   ? "/news/in-burundi-raising-awarenessneed-for-outbreak-preparedness-at-the-6th-east-african-health-and-scientific-conference/index.html"
-  : md5: 876d6c7eb3ce8acd7c097a8e1b0b807a
-    time: 1501175979
+  : md5: 59757b51ca90bcb9cd5d41e06bf0b4ce
+    time: 1501177311
   "/news/one-health-policy-modeling-in-ethiopia/index.html":
     md5: d08544872e44256e00cedf885eda1144
     time: 1492800572
@@ -56,11 +56,11 @@ inventory:
     md5: dda13f90020addbe88df7d426f1fcbc3
     time: 1493046961
   "/news/the-threat-of-highly-pathogenic-avian-influenza-in-east-africa/index.html":
-    md5: a5c714ea35aca7ea34bc91065be771f1
-    time: 1501175979
+    md5: 7505ea03c6b4c0f8015d3c01b2d35ed7
+    time: 1501177311
   "/news/planning-for-coordination-before-an-outbreak-in-indonesia/index.html":
-    md5: 9902c0c2ee8b58abc5161b47762718df
-    time: 1487010983
+    md5: 5df6faeb745c3fdfe59bdc76ecdc582f
+    time: 1501177312
   "/news/responding-to-avian-influenza-in-bangladesh/index.html":
     md5: d225fb999e5e14d78ad793250ecd5b65
     time: 1487111963
@@ -74,8 +74,8 @@ inventory:
     md5: ee574a4bd134cea06eeb06b4486a7d3d
     time: 1486593364
   "/news/building-a-one-health-framework-in-west-africa/index.html":
-    md5: ee9de42e03ec84b3a443933f8b239807
-    time: 1501175979
+    md5: fc94e57bfcc2c6f8e32146b58ab2032c
+    time: 1501177312
   "/news/from-grassroots-movement-to-government-priority-one-health-in-bangladesh/index.html":
     md5: a1396d104f13bceaf893abf937bde511
     time: 1486593364
@@ -89,14 +89,14 @@ inventory:
     md5: 97c465ac118aadde4f94ca0b797895a0
     time: 1486593364
   "/news/strengthening-west-africa-collaboration-for-epidemic-emergency-rapid-response/index.html":
-    md5: eb188e3937d3c7f81783ab719b4db5de
-    time: 1501175979
+    md5: d891e33df2d8fe1104824d0198d11c70
+    time: 1501177312
   "/news/planning-for-advocacy-and-communications-in-cameroon/index.html":
     md5: 362f3d6b57fdac0ea735d23e9c5ad054
     time: 1486593364
   "/news/working-together-to-work-together/index.html":
-    md5: 57c569b5938b84358613a352ee587215
-    time: 1501175979
+    md5: fb7c33ac3d666c358e462f5aeb4c0e9f
+    time: 1501177312
   "/news/one-health-operational-guidelines-in-bangladesh/index.html":
     md5: ad2d49e651a8edbd04f8c0bcfdf3dcd5
     time: 1486593364
@@ -107,17 +107,17 @@ inventory:
     md5: 90eb0f34d15666925dbf55d7ec660127
     time: 1486593364
   "/news/assessing-one-health-training-in-indonesia/index.html":
-    md5: 0c9c70912bdbbcd692c0269b4be6f4b1
-    time: 1486593364
+    md5: b7367539afcbc53a37f6917f4ac60274
+    time: 1501177313
   "/news/engaging-the-east-african-community-secretariat/index.html":
-    md5: 970f70d53b488b983432383c0f6b8f78
-    time: 1501175980
+    md5: 770f4a6f6bb8d171f9cb3d28e5e58985
+    time: 1501177313
   "/news/planning-epidemic-response-in-cameroon/index.html":
     md5: ecf2b4f2b73a10f0f08dbde2db555fa2
     time: 1486593364
   "/news/challenges-commitments-at-central-and-east-africas-one-health-conference/index.html":
-    md5: 6ff8bc44df7a2624a4f7884c71972dca
-    time: 1501175980
+    md5: badcbde213fe256648578e6eb696f206
+    time: 1501177313
   "/news/one-health-workshop/index.html":
     md5: 0e24686888bd85a3aa4fe96cb5e80d71
     time: 1486593364
@@ -215,8 +215,8 @@ inventory:
     md5: 4cfc3944bee9e3c00a47945816b6fcea
     time: 1486593366
   "/where-we-work/indonesia/index.html":
-    md5: b7c2c63fa02679f632bed02a3e91dfa4
-    time: 1486593366
+    md5: eef9a72d0abeff04effffdb9937df990
+    time: 1501177315
   "/where-we-work/kenya/index.html":
     md5: 5328772976229d79754d6741fa785ba6
     time: 1486593366
@@ -260,8 +260,8 @@ inventory:
     md5: 429e65f6d05da3a7d8088e7ac6a88f2b
     time: 1479489865
   "/who-we-are/experts/index.html":
-    md5: 56da83c955c51883408cfc47c8303165
-    time: 1501176131
+    md5: 2cef93294c0271ca92561f805d60f66d
+    time: 1501177317
   "/who-we-are/experts/asfri-rangkuti/index.html":
     md5: 6617e8ea15fb30e65f15697e09333ee3
     time: 1501176131
@@ -270,9 +270,6 @@ inventory:
     time: 1479489865
   "/who-we-are/experts/abul-kalam/index.html":
     md5: c357d53496e6618a17a83a026c548b6c
-    time: 1479489865
-  "/who-we-are/experts/dr-bimo/index.html":
-    md5: a72b0dbcef8c6a8c8d2c30a0b9a91f0a
     time: 1479489865
   "/who-we-are/experts/solomon-benigno/index.html":
     md5: 0b707b0e04dcb7bb788512cb12f32822
@@ -361,9 +358,6 @@ inventory:
   "/who-we-are/experts/country/bangladesh/index.html":
     md5: dfa7ff1268c47b2f562ec9012cc88463
     time: 1486593368
-  "/who-we-are/experts/country/indonesia/index.html":
-    md5: bb7952850bb10ad207e41f19108291a7
-    time: 1486593368
   "/who-we-are/experts/country/uganda/index.html":
     md5: 322c7570ae2bccad0f1f3e84d1e509d8
     time: 1486593368
@@ -425,8 +419,8 @@ inventory:
     md5: dec2cb7baf746a455c0486df00a39b82
     time: 1501174221
   "/feed.xml":
-    md5: a21979aef4a8e89442948e2ed442545f
-    time: 1501176132
+    md5: 924c39062833ed4ae3f34102bc1fa59c
+    time: 1501177319
   "/js/includes/respond.js":
     md5: a2684e9b8fa50d6d11c56a9ada068528
     time: 1447091545
